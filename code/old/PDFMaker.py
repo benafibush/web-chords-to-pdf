@@ -2,22 +2,22 @@ from reportlab.pdfgen import canvas
 from io import BytesIO
 from pdfrw import PdfWriter, PdfReader
 
-from ChordsSiteList import *
+from Songbook import *
 from FrontPage import FrontPage
 
 
-class PDFChordWriter(canvas.Canvas):
+class PDFMaker(canvas.Canvas):
 
     _packet = None
     _cfg = None
-    _chord_site_list = None
+    _songbook = None
     _front_page = None
 
-    def __init__(self, urls_file_path, site_name):
+    def __init__(self, urls_file_path, domain):
         self._packet = BytesIO()
         super().__init__(self._packet, pagesize=(self._cfg.page_width_cm, self._cfg.page_height_px))
         self._cfg.char_to_px = self.stringWidth('A', self._cfg.font, self._cfg.font_size)
-        self._chord_site_list = ChordsSiteList(urls_file_path, self.get_max_line_len(), site_name)
+        self._songbook = Songbook(urls_file_path, self.get_max_line_len(), domain)
 
     def add_header_page(self, title):
         title_width = self.stringWidth(title, self._cfg.font, self._cfg.font_size)
@@ -31,7 +31,7 @@ class PDFChordWriter(canvas.Canvas):
         self.save()
         # Move to the beginning of the StringIO buffer
         self._packet.seek(0)
-        self._front_page = FrontPage(self._chord_site_list, self._cfg)
+        self._front_page = FrontPage(self._songbook, self._cfg)
         new_pdf = PdfReader(self._packet)
 
         # Add the new pages to PDF
@@ -48,8 +48,8 @@ class PDFChordWriter(canvas.Canvas):
 def test():
     from PDFConfig import PDFConfig
     cfg = PDFConfig()
-    urls_file_path = '../input_urls/UG-test.txt'
-    pdf_chord_writer = PDFChordWriter(urls_file_path, cfg)
+    urls_file_path = '../../input_urls/UG-test.txt'
+    pdf_chord_writer = PDFMaker(urls_file_path, cfg)
     pdf_file_path = 'output_pdfs.pdf'
     pdf_chord_writer.finalize_pdf(pdf_file_path)
 

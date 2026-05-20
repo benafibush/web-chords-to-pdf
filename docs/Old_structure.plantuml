@@ -1,0 +1,114 @@
+@startuml
+
+class Orchestrator {
+    InputFileReader
+    ThreadManager
+    LineClassifier
+    PDFMaker
+    OutputFileWriter
+}
+
+Orchestrator *-- InputFileReader
+Orchestrator *-- ThreadManager
+Orchestrator *-- LineClassifier
+Orchestrator *-- PDFMaker
+Orchestrator *-- OutputFileWriter
+
+class InputFileReader {
+    csv2dataframe()
+}
+
+class DataFrame {
+    title
+    artist
+    url
+    text OR Lines
+}
+
+class Lines {
+    lines
+}
+
+class Line {
+    next_line
+    prev_line
+    text
+    type
+}
+
+DataFrame o-- Lines
+Lines o-- Line
+
+class ThreadManager {
+    thread_amt
+    {static} browsers
+    {static} lock
+    open_browsers()
+    acquire_browser()
+    load_pages()
+    release_browser()
+    print_progress()
+    close_browsers()
+}
+
+class Browser {
+    is_occupied
+    selenium.webdriver
+    browse()
+    transpose_chords()
+    get_song_text()
+}
+
+ThreadManager o-- Browser
+
+class LineClassifier {
+    regex_patterns
+    classify_line_type()
+}
+
+class PDFMaker {
+    PDFConfig
+    FrontPage
+    Song2PDF
+    song_pages
+    make_front_page()
+    make_song_pages()
+    bind_pages()
+    finalize_pdf()
+}
+
+class PDFConfig {
+    font
+    page_width_cm
+    page_height_cm
+    left_margin_cm
+    top_margin_cm
+    get_page_width_px()
+    get_page_height_px()
+    get_left_margin_px()
+    get_top_margin_px()
+}
+
+class FrontPage {
+    make_page()
+}
+
+class TextWrapper {
+    wrap_text()
+}
+
+class Song2PDF {
+    TextWrapper
+    make_page()
+}
+
+class OutputFileWriter {
+    write_file()
+}
+
+PDFMaker *-- PDFConfig
+PDFMaker *-- FrontPage
+PDFMaker *-- Song2PDF
+Song2PDF *-- TextWrapper
+
+@enduml

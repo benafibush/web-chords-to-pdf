@@ -1,0 +1,56 @@
+@startuml flow
+skinparam backgroundColor transparent
+skinparam sequence {
+    ArrowColor grey
+    GroupBorderColor grey
+    ArrowFontColor grey
+    LifeLineBorderColor grey
+    LifeLineThickness 10
+}
+
+participant User
+participant Orchestrator
+autonumber 0.1
+
+group prepare
+autonumber inc A
+User -> InputFileReader: CSV
+Orchestrator <- InputFileReader: Data Frame
+end
+
+group browse
+autonumber inc A
+Orchestrator -> ThreadManager: Data Frame
+    loop Data Slices
+    ThreadManager -> Browser: Data Slice
+    ThreadManager <- Browser: Song Text
+    end
+Orchestrator <- ThreadManager: Data Frame (text appended)
+end
+
+group parse
+autonumber inc A
+Orchestrator -> LineClassifier: Data Frame
+    loop Data Slices
+    LineClassifier -> LineClassifier: Data slice
+    end
+Orchestrator <- LineClassifier: Data Frame (Lines appended, text removed)
+end
+
+group publish
+autonumber inc A
+Orchestrator -> PDFMaker: Data Frame
+PDFMaker -> FrontPage: Data Frame
+PDFMaker <- FrontPage: Front Page
+    loop Data Slices
+    PDFMaker -> Song2PDF: Data Slice
+    Song2PDF -> TextWrapper: Lines
+    Song2PDF <- TextWrapper: Lines (wrapped)
+    PDFMaker <- Song2PDF: Song Page
+    end
+Orchestrator <- PDFMaker: PDF
+Orchestrator -> OutputFileWriter: PDF
+OutputFileWriter -> User: PDF
+end
+
+@enduml

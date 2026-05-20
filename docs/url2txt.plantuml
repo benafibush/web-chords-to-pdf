@@ -1,0 +1,26 @@
+@startuml flow
+!theme crt-amber
+
+participant User
+participant Orchestrator
+participant JSONReader
+participant ThreadManager
+participant Browser
+participant TXTWriter
+
+User         -> Orchestrator  : JSON (ID, URL)
+User         -> Orchestrator  : destination txt directory
+Orchestrator -> JSONReader    : JSON
+JSONReader   -> Orchestrator  : DataFrame
+Orchestrator -> ThreadManager : DataFrame
+loop DataFrame
+    ThreadManager -> Browser       : Series
+    Browser       -> ThreadManager : Series with string column
+end
+ThreadManager -> Orchestrator : DataFrame with string column
+loop DataFrame
+    Orchestrator -> TXTWriter : Series' string
+    TXTWriter    -> User      : dest/dir/ID.txt
+end
+
+@enduml

@@ -1,7 +1,7 @@
 from threading import Lock
 from selenium import webdriver
-from UGChordsSite import UGChordsSite
-from TAB4UChordsSite import TAB4UChordsSite
+from UGWebPage import UGWebPage
+from TAB4UWebPage import TAB4UWebPage
 from multiprocessing.pool import ThreadPool
 
 lock = Lock()
@@ -10,27 +10,27 @@ tasks_completed = 0
 browsers = {}
 
 
-class WebManager:
+class BrowsingManager:
     _thread_num = 3
 
-    def __init__(self, site_name, max_line_len):
-        self._site_name = site_name
+    def __init__(self, domain, max_line_len):
+        self._domain = domain
         self._max_line_len = max_line_len
 
     def load_pages_parallely(self, urls):
         global tasks_total, tasks_completed
-        chords_site_list = []
+        webpages = []
         self.make_browsers()
         tasks_total = len(urls)
         tasks_completed = 0
         with ThreadPool(self._thread_num) as pool:
-            args = [(url, self._site_name, self._max_line_len) for url in urls]
-            for chord_site in pool.starmap(WebManager.make_chord_site, args):
-                chords_site_list.append(chord_site)
+            args = [(url, self._domain, self._max_line_len) for url in urls]
+            for webpage in pool.starmap(BrowsingManager.make_webpage, args):
+                webpages.append(webpage)
         pool.close()
         pool.join()
         self.quit_browsers()
-        return chords_site_list
+        return webpages
 
     def make_browsers(self):
         global browsers
@@ -49,17 +49,17 @@ class WebManager:
             browser.quit()
 
     @staticmethod
-    def make_chord_site(url, site_name, max_line_len):
-        chord_site = None
-        browser = WebManager.acquire_browser()
+    def make_webpage(url, domain, max_line_len):
+        webpage = None
+        browser = BrowsingManager.acquire_browser()
         browser.implicitly_wait(3)
-        if site_name == 'UG':
-            chord_site = UGChordsSite(url, max_line_len, browser)
-        if site_name == 'TAB4U':
-            chord_site = TAB4UChordsSite(url, max_line_len, browser)
-        WebManager.release_browser(browser)
-        WebManager.show_progress()
-        return chord_site
+        if domain == 'UG':
+            webpage = UGWebPage(url, max_line_len, browser)
+        if domain == 'TAB4U':
+            webpage = TAB4UWebPage(url, max_line_len, browser)
+        BrowsingManager.release_browser(browser)
+        BrowsingManager.show_progress()
+        return webpage
 
     @staticmethod
     def acquire_browser():

@@ -1,8 +1,8 @@
-import ChordsSite
+import WebPage
 from selenium.webdriver.common.by import By
 
 
-class UGChordsSite(ChordsSite.ChordsSite):
+class UGWebPage(WebPage.WebPage):
 
     def __init__(self, url, max_line_len, browser):
         
@@ -74,10 +74,10 @@ class UGChordsSite(ChordsSite.ChordsSite):
 def test():
     url = "https://tabs.ultimate-guitar.com/tab/lady-gaga/born-this-way-chords-1028955"
     url = "https://tabs.ultimate-guitar.com/tab/britney-spears/everytime-chords-117988|+1"
-    ug_chord_site = UGChordsSite(url, 50)
-    print(ug_chord_site._song_text)
-    print(ug_chord_site._artist)
-    print(ug_chord_site._song_name)
+    ug_webpage = UGWebPage(url, 50)
+    print(ug_webpage._song_text)
+    print(ug_webpage._artist)
+    print(ug_webpage._song_name)
 
 
 # test()

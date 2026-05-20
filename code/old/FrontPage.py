@@ -10,13 +10,13 @@ class FrontPage (canvas.Canvas):
     _setlist = None
     _pdf = None
 
-    def __init__(self, chord_site_list, cfg):
+    def __init__(self, songbook, pdf_cfg):
         self._packet = BytesIO()
-        self._cfg = cfg
+        self._cfg = pdf_cfg
         super().__init__(self._packet, pagesize=(self._cfg.page_width_cm, self._cfg.page_height_px))
-        self._setlist = chord_site_list.get_setlist()
-        self._file_name = chord_site_list.get_file_name()
-        self._language = chord_site_list.get_language()
+        self._setlist = songbook.get_setlist()
+        self._file_name = songbook.get_file_name()
+        self._language = songbook.get_language()
         self.generate_page()
 
     def generate_page(self):

@@ -1,7 +1,7 @@
-import ChordsSite
+import WebPage
 
 
-class TAB4UChordsSite(ChordsSite.ChordsSite):
+class TAB4UWebPage(WebPage.WebPage):
     
     def __init__(self, url, max_line_len, browser):
         
@@ -45,12 +45,9 @@ class TAB4UChordsSite(ChordsSite.ChordsSite):
 
 def test():
     url = "https://www.tab4u.com/tabs/songs/2137_%D7%A2%D7%91%D7%A8%D7%99_%D7%9C%D7%99%D7%93%D7%A8_-_%D7%99%D7%95%D7%AA%D7%A8_%D7%98%D7%95%D7%91_%D7%9B%D7%9C%D7%95%D7%9D.html?ton=-0.5"
-    tab4u_chord_site = TAB4UChordsSite(url, 50)
-    #print(tab4u_chord_site._song_text)
-    #print(tab4u_chord_site._artist)
-    #print(tab4u_chord_site._song_name)
-    for line in tab4u_chord_site.get_parsed_lines()._song_line_list:
-        print(line.get_text()+'|  '+line.get_type())
+    tab4u_webpage = TAB4UWebPage(url, 50)
+    for line in tab4u_webpage.get_song()._lines:
+        print(line.get_text())
 
 
 # test()
