@@ -3,24 +3,24 @@
 
 participant User
 participant Orchestrator
-participant CSVReader
+participant JSONReader
 participant TXTReader
 participant PDFWriter
 participant FrontPage
 
-User         -> Orchestrator: CSV (ID, artist, title,\ncapo transpose, comment)
-User         -> Orchestrator: source txt directory
-Orchestrator -> CSVReader   : CSV
-CSVReader    -> Orchestrator: DataFrame
-Orchestrator -> TXTReader   : DataFrame
-TXTReader    -> Orchestrator: DataFrame with string column
-Orchestrator -> PDFWriter   : DataFrame
-PDFWriter    -> FrontPage   : DataFrame
-FrontPage    -> PDFWriter   : front page
+User         -> Orchestrator : JSON (ID, artist, title,\ncapo transpose, comment)
+User         -> Orchestrator : source txt directory
+Orchestrator -> JSONReader   : JSON
+JSONReader   -> Orchestrator : DataFrame
+Orchestrator -> TXTReader    : DataFrame
+TXTReader    -> Orchestrator : DataFrame with string column
+Orchestrator -> PDFWriter    : DataFrame
+PDFWriter    -> FrontPage    : DataFrame
+FrontPage    -> PDFWriter    : front page
 loop DataFrame
-    PDFWriter    -> Song2Page   : Series
-    Song2Page    -> PDFWriter   : song page
+    PDFWriter    -> Song2Page : Series
+    Song2Page    -> PDFWriter : song page
 end
-PDFWriter    -> User        : PDF
+PDFWriter    -> User : PDF
 
 @enduml

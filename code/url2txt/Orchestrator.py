@@ -1,12 +1,12 @@
 from ThreadManager import ThreadManager
-from CSVReader     import CSVReader
+from JSONReader     import JSONReader
 from TXTWriter     import TXTWriter
 
 import pandas as pd
 
 class Orchestrator:
     def __init__(self, csv: str, txt_dir: str) -> None:
-        self.csv_reader     = CSVReader()
+        self.csv_reader     = JSONReader()
         self.thread_manager = ThreadManager()
         self.txt_writer     = TXTWriter()
         self.df             = pd.DataFrame([])

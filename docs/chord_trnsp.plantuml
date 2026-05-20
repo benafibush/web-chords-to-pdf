@@ -1,0 +1,23 @@
+@startuml flow
+!theme crt-amber
+
+participant User
+participant Orchestrator
+participant JSONReader
+participant Transposer
+participant TXTWriter
+
+User         -> Orchestrator  : JSON (ID, transpose)
+User         -> Orchestrator  : src/dir/ID.txt
+Orchestrator -> JSONReader    : JSON
+JSONReader   -> Orchestrator  : DataFrame
+loop DataFrame
+    Orchestrator -> Transposer   : Series' string
+    Transposer   -> Orchestrator : transposed string
+end
+loop DataFrame
+    Orchestrator -> TXTWriter: Series
+    TXTWriter    -> User     : src/dir/ID.txt
+end
+
+@enduml
