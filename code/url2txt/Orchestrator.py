@@ -17,7 +17,7 @@ class Orchestrator:
         self.df = self.json_reader.read_json(self.json)
 
     def get_txt_from_web(self) -> None:
-        # self.thread_manager.get_txt_from_web(self.df)
+        self.thread_manager.get_txt_from_web(self.df)
         self.df = self.thread_manager.get_result()
 
     def write_to_txt_files(self) -> None:

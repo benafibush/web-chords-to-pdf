@@ -1,28 +1,20 @@
 from .Browser import Browser
-import threading
+from concurrent.futures import ThreadPoolExecutor
+import pandas as pd
 
 class ThreadManager:
     def __init__(self):
         self.browser = Browser()
-        self.threads = []
         self.result = []
 
-    def process_dataframe(self, df):
-        """Process DataFrame in parallel using threads"""
-        for index, row in df.iterrows():
-            thread = threading.Thread(target=self.process_row, args=(row,))
-            thread.start()
-            self.threads.append(thread)
-
-        for thread in self.threads:
-            thread.join()
+    def get_txt_from_web(self, df):
+        with ThreadPoolExecutor(max_workers=3) as executor:
+            for index, row in df.iterrows():
+                executor.submit(self.process_row, row)
 
     def process_row(self, row):
-        """Process a single row using the Browser"""
         result = self.browser.process_row(row)
         self.result.append(result)
 
     def get_result(self):
-        """Get the processed DataFrame"""
-        # df = pd.DataFrame(self.result)
-        # return df
+        return pd.DataFrame(self.result)
