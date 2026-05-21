@@ -1,4 +1,4 @@
-from Browser import Browser
+from .Browser import Browser
 import threading
 
 class ThreadManager:
@@ -24,5 +24,5 @@ class ThreadManager:
 
     def get_result(self):
         """Get the processed DataFrame"""
-        df = pd.DataFrame(self.result)
-        return df
+        # df = pd.DataFrame(self.result)
+        # return df
