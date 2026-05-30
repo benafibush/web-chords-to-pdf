@@ -49,19 +49,19 @@ class JSONReader:
     def verify_column_value_non_empty(self, column: str) -> None:
         invalid_rows = self.df[~(self.df[column].notna())]
         if not invalid_rows.empty:
-            raise ValueError(f"The column '{column}' in the JSON file '{self.json}' should contain values.\nFirst invalid row: {invalid_rows.iloc[0]}")
+            raise ValueError(f"The column '{column}' in the JSON file '{self.json}' should contain values.\nFirst invalid row:\n{invalid_rows.iloc[0]}")
 
     def verify_column_type_string(self, column: str) -> None:
         invalid_rows = self.df[~(self.df[column].astype(str).str.len().astype(bool))]
         if not invalid_rows.empty:
-            raise ValueError(f"The column '{column}' in the JSON file '{self.json}' should contain strings.\nFirst invalid row: {invalid_rows.iloc[0]}")
+            raise ValueError(f"The column '{column}' in the JSON file '{self.json}' should contain strings.\nFirst invalid row:\n{invalid_rows.iloc[0]}")
         
     def verify_column_type_number(self, column: str) -> None:
-        invalid_rows = self.df[~(self.df[column].astype(str).str.isdigit())]
+        invalid_rows = self.df[~self.df[column].astype(str).str.match(r"^-?\d*\.?\d+(,\s*-?\d*\.?\d+)*$")]
         if not invalid_rows.empty:
-            raise ValueError(f"The column '{column}' in the JSON file '{self.json}' should contain numbers.\nFirst invalid row: {invalid_rows.iloc[0]}")
+            raise ValueError(f"The column '{column}' in the JSON file '{self.json}' should contain numbers.\nFirst invalid row:\n{invalid_rows.iloc[0]}")
         
     def verify_column_value_non_zero(self, column: str) -> None:
-        invalid_rows = self.df[~(self.df[column].astype(int) == 0)]
+        invalid_rows = self.df[~(self.df[column].astype(int) != 0)]
         if not invalid_rows.empty:
-            raise ValueError(f"The column '{column}' in the JSON file '{self.json}' should contain non-zero values.\nFirst invalid row: {invalid_rows.iloc[0]}")
+            raise ValueError(f"The column '{column}' in the JSON file '{self.json}' should contain non-zero values.\nFirst invalid row:\n{invalid_rows.iloc[0]}")
