@@ -1,5 +1,5 @@
-from WebPage import WebPage
-from Songbook import Songbook
+from code.unused.old.WebPage import WebPage
+from code.unused.old.Songbook import Songbook
 
 
 class WebParser:

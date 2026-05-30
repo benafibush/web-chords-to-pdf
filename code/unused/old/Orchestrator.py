@@ -1,5 +1,5 @@
-import WebPage
-import Songbook
+import code.unused.old.WebPage as WebPage
+import code.unused.old.Songbook as Songbook
 
 
 class Orchestrator:

@@ -1,4 +1,4 @@
-import WebPage
+import code.unused.old.WebPage as WebPage
 
 
 class TAB4UWebPage(WebPage.WebPage):

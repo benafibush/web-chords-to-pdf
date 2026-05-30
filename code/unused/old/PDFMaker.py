@@ -2,8 +2,8 @@ from reportlab.pdfgen import canvas
 from io import BytesIO
 from pdfrw import PdfWriter, PdfReader
 
-from Songbook import *
-from FrontPage import FrontPage
+from code.unused.old.Songbook import *
+from code.unused.old.FrontPage import FrontPage
 
 
 class PDFMaker(canvas.Canvas):
@@ -46,7 +46,7 @@ class PDFMaker(canvas.Canvas):
 
 
 def test():
-    from PDFConfig import PDFConfig
+    from code.unused.old.PDFConfig import PDFConfig
     cfg = PDFConfig()
     urls_file_path = '../../input_urls/UG-test.txt'
     pdf_chord_writer = PDFMaker(urls_file_path, cfg)
