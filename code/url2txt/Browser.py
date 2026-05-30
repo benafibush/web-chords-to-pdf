@@ -1,5 +1,5 @@
 from urllib.parse import urlparse
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import sync_playwright, Browser as pw_Browser, BrowserContext, Page
 import pandas as pd
 
 
@@ -13,8 +13,9 @@ class Browser:
         self.ultimate_guitar_lyrics: str = ""
         self.text = []
         self.playwright = None
-        self.browser: sync_playwright.chromium.Browser = None
-        self.context: sync_playwright.chromium.BrowserContext = None
+        self.browser: pw_Browser | None = None
+        self.context: BrowserContext | None = None
+        self.page: Page | None = None
 
     def process_row(self, row: pd.Series) -> pd.Series:
         link: str = str(row.get('Link'))
@@ -23,30 +24,19 @@ class Browser:
         return row
 
     def _ensure_browser(self) -> None:
-        if sync_playwright is None:
-            raise RuntimeError(
-                "Playwright is required for Edge browsing. Install with: pip install playwright && playwright install"
-            )
-
-        if self.browser is not None:
+        if self.browser is not None and self.page is not None:
             return
 
         self.playwright = sync_playwright().start()
-        try:
-            self.browser = self.playwright.chromium.launch(channel="msedge", headless=True)
-        except Exception:
-            self.browser = self.playwright.chromium.launch(headless=True)
-
+        self.browser = self.playwright.chromium.launch(channel="msedge", headless=False)
         self.context = self.browser.new_context()
+        self.page = self.context.new_page()
 
     def browse_and_extract(self, link: str) -> str:
-        if not link:
-            return ""
-
         self._ensure_browser()
 
         hostname = urlparse(link).hostname or ""
-        page = self.context.new_page()
+        page = self.page
         try:
             try:
                 page.goto(link, timeout=15000)
@@ -55,10 +45,12 @@ class Browser:
                 pass
 
             if "tab4u" in hostname or "tab4u.com" in link:
+                page.wait_for_selector(f".{self.tab4u_text}")
                 elems = page.query_selector_all(f".{self.tab4u_text}")
                 texts = [el.inner_text().strip() for el in elems if el]
                 content = "\n\n".join(texts)
             elif "ultimate-guitar" in hostname or "ultimate-guitar.com" in link:
+                page.wait_for_selector(f".{self.ultimate_guitar_text}")
                 elems = page.query_selector_all(f".{self.ultimate_guitar_text}")
                 texts = [el.inner_text().strip() for el in elems if el]
                 content = "\n\n".join(texts)
@@ -67,10 +59,5 @@ class Browser:
                 content = page.inner_text('body')
         except Exception as e:
             content = f"EXTRACT_ERROR: {e}"
-        finally:
-            try:
-                page.close()
-            except Exception:
-                pass
 
         return content

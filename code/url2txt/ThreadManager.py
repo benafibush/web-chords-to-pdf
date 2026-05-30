@@ -8,7 +8,7 @@ class ThreadManager:
         self.result = []
 
     def get_txt_from_web(self, df):
-        with ThreadPoolExecutor(max_workers=3) as executor:
+        with ThreadPoolExecutor(max_workers=1) as executor:
             for index, row in df.iterrows():
                 executor.submit(self.process_row, row)
 
