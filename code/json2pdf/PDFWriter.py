@@ -82,16 +82,16 @@ class PDFWriter:
     
     def set_page_size_table_of_contents(self, text: str) -> None:
         num_of_lines = len(text.splitlines())
-        page_height = self.top_margin + self.bottom_margin + num_of_lines * self.font_size * self.line_leading
-        self.canvas.setPageSize((self.page_width, page_height))
+        self.page_height = self.top_margin + self.bottom_margin + num_of_lines * self.font_size * self.line_leading
+        self.canvas.setPageSize((self.page_width, self.page_height))
 
     def set_page_size_song(self, text: str) -> None:
         num_of_lines = len(text.splitlines()) + 3
-        page_height = self.top_margin + self.bottom_margin + num_of_lines * self.font_size * self.line_leading
-        self.canvas.setPageSize((self.page_width, page_height))
+        self.page_height = self.top_margin + self.bottom_margin + num_of_lines * self.font_size * self.line_leading
+        self.canvas.setPageSize((self.page_width, self.page_height))
 
     def print_table_of_contents_LTR(self, text: str) -> None:
-        current_y = self.canvas._pagesize[1] - self.top_margin
+        current_y = self.page_height - self.top_margin
         line_height = self.font_size * self.line_leading
 
         for line in text.splitlines():
@@ -101,12 +101,12 @@ class PDFWriter:
         self.canvas.showPage()
 
     def print_table_of_contents_RTL(self, text: str) -> None:
-        current_y = self.canvas._pagesize[1] - self.top_margin
+        current_y = self.page_height - self.top_margin
         line_height = self.font_size * self.line_leading
 
         for line in text.splitlines():
             text_width = self.canvas.stringWidth(line, self.font_name, self.font_size)
-            x_position = self.canvas._pagesize[0] - self.right_margin - text_width
+            x_position = self.page_width - self.right_margin - text_width
             self.canvas.drawString(x_position, current_y, line)
             current_y -= line_height
 
@@ -116,10 +116,10 @@ class PDFWriter:
         line1 = f"{row.get('Artist', '')} - {row.get('Title', '')}"
         line2 = f"Capo transpose: {row.get('Capo Transpose', '')}  |  Singing Style: {row.get('Singing Style', '')}  |  Strumming Style: {row.get('Strumming Style', '')}"
         line3 = f"Genre: {row.get('Genre', '')}  |  Order: {row.get('Order', '')}"
-        y_position = self.canvas._pagesize[1] - self.top_margin
+        y_position = self.page_height - self.top_margin
         for line in [line1, line2, line3]:
             text_width = self.canvas.stringWidth(line, self.font_name, self.font_size)
-            x_position = (self.canvas._pagesize[0] - text_width) / 2
+            x_position = (self.page_width - text_width) / 2
             self.canvas.drawString(x_position, y_position, line)
             y_position -= self.font_size * self.line_leading
 
@@ -127,12 +127,30 @@ class PDFWriter:
         line1 = f"{row.get('Artist', '')} - {row.get('Title', '')}"
         line2 = f"Capo transpose: {row.get('Capo Transpose', '')}  |  Singing Style: {row.get('Singing Style', '')}  |  Strumming Style: {row.get('Strumming Style', '')}"
         line3 = f"Genre: {row.get('Genre', '')}  |  Order: {row.get('Order', '')}"
-        y_position = self.canvas._pagesize[1] - self.top_margin
+        y_position = self.page_height - self.top_margin
         for line in [line1, line2, line3]:
             text_width = self.canvas.stringWidth(line, self.font_name, self.font_size)
-            x_position = self.canvas._pagesize[0] - self.right_margin - text_width
+            x_position = self.page_width - self.right_margin - text_width
             self.canvas.drawString(x_position, y_position, line)
             y_position -= self.font_size * self.line_leading
+
+    def print_song_text_LTR(self, text: str) -> None:
+        line_height = self.font_size * self.line_leading
+        current_y = self.page_height - self.top_margin - 3 * line_height
+
+        for line in text.splitlines():
+            self.canvas.drawString(self.left_margin, current_y, line)
+            current_y -= line_height
+
+    def print_song_text_RTL(self, text: str) -> None:
+        line_height = self.font_size * self.line_leading
+        current_y = self.page_height - self.top_margin - 3 * line_height
+
+        for line in text.splitlines():
+            text_width = self.canvas.stringWidth(line, self.font_name, self.font_size)
+            x_position = self.page_width - self.right_margin - text_width
+            self.canvas.drawString(x_position, current_y, line)
+            current_y -= line_height
 
     def save_pdf(self, dir: str, filename: str = "songbook.pdf") -> None:
         pdf_path = os.path.join(dir, filename)
