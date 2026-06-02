@@ -13,11 +13,11 @@ class PDFWriter:
     def __init__(
         self,
         font_name: str = "Courier-New-Bold",
-        font_size: int = 10,
-        left_margin: int = 50,
-        top_margin: int = 50,
-        right_margin: int = 50,
-        bottom_margin: int = 50,
+        font_size: int = 8,
+        left_margin: int = 10,
+        top_margin: int = 25,
+        right_margin: int = 10,
+        bottom_margin: int = 25,
         line_leading: float = 1.4,
         page_width: float = 13.6 * 72 / 2.54
     ):
@@ -47,8 +47,10 @@ class PDFWriter:
         self.create_table_of_contents(df)
         for index, row in df.iterrows():
             self.create_song_page(row)
+        self.canvas.save()
 
     def create_table_of_contents(self, df: pd.DataFrame) -> None:
+        self.canvas.setFont(self.font_name, self.font_size)
         text:str = self.prepare_text_for_table_of_contents(df)
         self.set_page_size_table_of_contents(text)
         if df.iloc[0].get("Language", "").strip() == "Hebrew":
@@ -57,6 +59,7 @@ class PDFWriter:
             self.print_table_of_contents_LTR(text)
 
     def create_song_page(self, row: pd.Series) -> None:
+        self.canvas.setFont(self.font_name, self.font_size)
         text:str = self.prepare_text_for_song(row)
         self.set_page_size_song(text)
         if row.get("Language", "").strip() == "Hebrew":
@@ -107,15 +110,15 @@ class PDFWriter:
         for line in text.splitlines():
             text_width = self.canvas.stringWidth(line, self.font_name, self.font_size)
             x_position = self.page_width - self.right_margin - text_width
-            self.canvas.drawString(x_position, current_y, line)
+            self.canvas.drawString(x_position, current_y, line[::-1])
             current_y -= line_height
 
         self.canvas.showPage()
 
     def print_song_header_LTR(self, row: pd.Series) -> None:
         line1 = f"{row.get('Artist', '')} - {row.get('Title', '')}"
-        line2 = f"Capo transpose: {row.get('Capo Transpose', '')}  |  Singing Style: {row.get('Singing Style', '')}  |  Strumming Style: {row.get('Strumming Style', '')}"
-        line3 = f"Genre: {row.get('Genre', '')}  |  Order: {row.get('Order', '')}"
+        line2 = f"Capo: {row.get('Capo Transpose', '')} | Sing: {row.get('Singing Style', '')} | Strum: {row.get('Strumming Style', '')}"
+        line3 = f"Genre: {row.get('Genre', '')} | Order: {row.get('Order', '')}"
         y_position = self.page_height - self.top_margin
         for line in [line1, line2, line3]:
             text_width = self.canvas.stringWidth(line, self.font_name, self.font_size)
@@ -125,12 +128,12 @@ class PDFWriter:
 
     def print_song_header_RTL(self, row: pd.Series) -> None:
         line1 = f"{row.get('Artist', '')} - {row.get('Title', '')}"
-        line2 = f"Capo transpose: {row.get('Capo Transpose', '')}  |  Singing Style: {row.get('Singing Style', '')}  |  Strumming Style: {row.get('Strumming Style', '')}"
-        line3 = f"Genre: {row.get('Genre', '')}  |  Order: {row.get('Order', '')}"
+        line2 = f"Capo: {row.get('Capo Transpose', '')} | Sing: {row.get('Singing Style', '')} | Strum: {row.get('Strumming Style', '')}"
+        line3 = f"Genre: {row.get('Genre', '')} | Order: {row.get('Order', '')}"
         y_position = self.page_height - self.top_margin
-        for line in [line1, line2, line3]:
+        for line in [line1[::-1], line2, line3]:
             text_width = self.canvas.stringWidth(line, self.font_name, self.font_size)
-            x_position = self.page_width - self.right_margin - text_width
+            x_position = (self.page_width - text_width) / 2
             self.canvas.drawString(x_position, y_position, line)
             y_position -= self.font_size * self.line_leading
 
@@ -147,6 +150,10 @@ class PDFWriter:
         current_y = self.page_height - self.top_margin - 3 * line_height
 
         for line in text.splitlines():
+            if any('א' <= char <= 'ת' for char in line):
+                line = line[::-1]
+                line = line.replace('(', '^').replace(')', '(').replace('^', ')')
+                line = line.replace('[', '^').replace(']', '[').replace('^', ']')
             text_width = self.canvas.stringWidth(line, self.font_name, self.font_size)
             x_position = self.page_width - self.right_margin - text_width
             self.canvas.drawString(x_position, current_y, line)
