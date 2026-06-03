@@ -58,6 +58,8 @@ class PDFWriter:
         else:
             self.print_table_of_contents_LTR(text)
 
+        self.canvas.showPage()
+
     def create_song_page(self, row: pd.Series) -> None:
         self.canvas.setFont(self.font_name, self.font_size)
         text:str = self.prepare_text_for_song(row)
@@ -68,6 +70,9 @@ class PDFWriter:
         else:
             self.print_song_header_LTR(row)
             self.print_song_text_LTR(text)
+
+        self.canvas.showPage()
+        
 
     def prepare_text_for_table_of_contents(self, df: pd.DataFrame) -> str:
         text = ""
@@ -101,8 +106,6 @@ class PDFWriter:
             self.canvas.drawString(self.left_margin, current_y, line)
             current_y -= line_height
 
-        self.canvas.showPage()
-
     def print_table_of_contents_RTL(self, text: str) -> None:
         current_y = self.page_height - self.top_margin
         line_height = self.font_size * self.line_leading
@@ -112,8 +115,6 @@ class PDFWriter:
             x_position = self.page_width - self.right_margin - text_width
             self.canvas.drawString(x_position, current_y, line[::-1])
             current_y -= line_height
-
-        self.canvas.showPage()
 
     def print_song_header_LTR(self, row: pd.Series) -> None:
         line1 = f"{row.get('Artist', '')} - {row.get('Title', '')}"
@@ -151,6 +152,10 @@ class PDFWriter:
 
         for line in text.splitlines():
             if any('א' <= char <= 'ת' for char in line):
+                leading_spaces = len(line) - len(line.lstrip())
+                trailing_spaces = len(line) - len(line.rstrip())
+                line_content = line.strip()
+                line = ' ' * trailing_spaces + line_content + ' ' * leading_spaces
                 line = line[::-1]
                 line = line.replace('(', '^').replace(')', '(').replace('^', ')')
                 line = line.replace('[', '^').replace(']', '[').replace('^', ']')
