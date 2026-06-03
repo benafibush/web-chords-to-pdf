@@ -1,5 +1,4 @@
-{
-"Guitar Setlist":[
+[
  {
   "Title": 1973,
   "Artist": "James Blunt",
@@ -6342,39 +6341,4 @@
   "JSON": false,
   "Language": "Hebrew"
  }
-],
-"Statistics":[
- {
-  "No Capo": "Total",
-  "Column3": 449
- },
- {
-  "No Capo": "Opening",
-  "Column3": 49
- },
- {
-  "No Capo": "Second",
-  "Column3": 102
- },
- {
-  "No Capo": "Middle",
-  "Column3": 101
- },
- {
-  "No Capo": "Drop",
-  "Column3": 65
- },
- {
-  "No Capo": "After Drop",
-  "Column3": 121
- },
- {
-  "No Capo": "Before Last",
-  "Column3": 77
- },
- {
-  "No Capo": "Last",
-  "Column3": 61
- }
 ]
-}
