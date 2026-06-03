@@ -1,4 +1,5 @@
-[
+{
+"Guitar Setlist":[
  {
   "Title": 1973,
   "Artist": "James Blunt",
@@ -9,7 +10,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 2
+  "ID": 2,
+  "JSON": true,
+  "Language": "English"
  },
  {
   "Title": "A Hard Days Night",
@@ -21,7 +24,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies, Pop, Rock",
-  "ID": 3
+  "ID": 3,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "A Lifetime",
@@ -33,7 +38,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 4
+  "ID": 4,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "A New Day Has Come",
@@ -45,7 +52,9 @@
   "Singing Style": "Strong Chest, Nosy, Airy, Open Mouth",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 5
+  "ID": 5,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "A Sky Full Of Stars",
@@ -57,7 +66,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Rock",
-  "ID": 6
+  "ID": 6,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "A Thousand Miles",
@@ -69,7 +80,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Special",
   "Genre": "Pop",
-  "ID": 7
+  "ID": 7,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "A Womans Worth",
@@ -81,7 +94,9 @@
   "Singing Style": "Nosy, Strong Chest",
   "Strumming Style": "Pick - One Way",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 8
+  "ID": 8,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Adventure Of A Lifetime",
@@ -93,7 +108,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Fun",
   "Genre": "Rock",
-  "ID": 9
+  "ID": 9,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Aftermath",
@@ -105,7 +122,9 @@
   "Singing Style": "Strong Chest, Falsetto",
   "Strumming Style": "Pick - Metalic, Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 10
+  "ID": 10,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Aint No Sunshine",
@@ -117,7 +136,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 11
+  "ID": 11,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Alien",
@@ -129,7 +150,9 @@
   "Singing Style": "Strong Chest, Nosy",
   "Strumming Style": "Pick - Fun",
   "Genre": "Electronic, Pop",
-  "ID": 12
+  "ID": 12,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "All About Lovin You",
@@ -141,7 +164,9 @@
   "Singing Style": "Nosy, Airy, Open Mouth, Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 13
+  "ID": 13,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "All You Wanted",
@@ -153,7 +178,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 14
+  "ID": 14,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Amazed",
@@ -165,7 +192,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Country",
-  "ID": 15
+  "ID": 15,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Angels",
@@ -177,7 +206,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 16
+  "ID": 16,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Are You Happy Now",
@@ -189,7 +220,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 17
+  "ID": 17,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Baby One More Time",
@@ -201,7 +234,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 18
+  "ID": 18,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Bailamos",
@@ -213,7 +248,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Fun",
   "Genre": "Latin, Pop",
-  "ID": 19
+  "ID": 19,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Barenaked",
@@ -225,7 +262,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 20
+  "ID": 20,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Be With You",
@@ -237,7 +276,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Hand - Pull Chuk",
   "Genre": "Latin, Pop",
-  "ID": 21
+  "ID": 21,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Beautiful Soul",
@@ -249,7 +290,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 22
+  "ID": 22,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Beautiful That Way",
@@ -261,7 +304,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - One Way",
   "Genre": "Oldies",
-  "ID": 23
+  "ID": 23,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Beautiful World",
@@ -273,7 +318,9 @@
   "Singing Style": "Strong Chest, Nosy, Falsetto",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 24
+  "ID": 24,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Because You Loved Me",
@@ -285,7 +332,9 @@
   "Singing Style": "Strong Chest, Falsetto",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 25
+  "ID": 25,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Believe",
@@ -297,7 +346,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop",
-  "ID": 26
+  "ID": 26,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Better Off As We Are",
@@ -309,7 +360,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Country",
-  "ID": 27
+  "ID": 27,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Born This Way",
@@ -321,7 +374,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 28
+  "ID": 28,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Breakaway",
@@ -333,7 +388,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 29
+  "ID": 29,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Broken Strings",
@@ -345,7 +402,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way",
   "Genre": "Pop",
-  "ID": 30
+  "ID": 30,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Broken Wings",
@@ -357,7 +416,9 @@
   "Singing Style": "Strong Chest, Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 31
+  "ID": 31,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "California",
@@ -369,7 +430,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 32
+  "ID": 32,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Cant Buy Me Love",
@@ -381,7 +444,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies, Rock",
-  "ID": 33
+  "ID": 33,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Cant Stop Loving You",
@@ -393,7 +458,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - One Way, Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 34
+  "ID": 34,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Cant Take My Eyes Off You",
@@ -405,7 +472,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Single Down, Pick - Campfire",
   "Genre": "Rock",
-  "ID": 35
+  "ID": 35,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Caught In The Middle",
@@ -417,7 +486,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Special",
   "Genre": "Pop, Rock",
-  "ID": 36
+  "ID": 36,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Charlie Brown",
@@ -429,7 +500,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way",
   "Genre": "Rock",
-  "ID": 37
+  "ID": 37,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Cheyenne",
@@ -441,7 +514,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 38
+  "ID": 38,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Clocks",
@@ -453,7 +528,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - One Way, Pick - Metalic",
   "Genre": "Rock",
-  "ID": 39
+  "ID": 39,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Crazy",
@@ -465,7 +542,9 @@
   "Singing Style": "Nosy, Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 40
+  "ID": 40,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Criminal",
@@ -477,7 +556,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Pull Chuk",
   "Genre": "Pop",
-  "ID": 41
+  "ID": 41,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Crying For No Reason",
@@ -489,7 +570,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Metalic, Pick - One Way",
   "Genre": "Pop",
-  "ID": 42
+  "ID": 42,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Dame Tu Aire",
@@ -501,7 +584,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Single Down, Pick - Campfire",
   "Genre": "Latin, Pop",
-  "ID": 43
+  "ID": 43,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Dancing On My Own",
@@ -513,7 +598,9 @@
   "Singing Style": "Open Mouth, Nosy, Airy",
   "Strumming Style": "Pick - One Way",
   "Genre": "Pop",
-  "ID": 44
+  "ID": 44,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Dani California",
@@ -525,7 +612,9 @@
   "Singing Style": "Nosy, Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 45
+  "ID": 45,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Diamonds",
@@ -537,7 +626,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 46
+  "ID": 46,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Don't Look Back In Anger",
@@ -549,7 +640,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 47
+  "ID": 47,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Dont Go Away",
@@ -561,7 +654,9 @@
   "Singing Style": "Open Mouth, Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Pop, Rock",
-  "ID": 48
+  "ID": 48,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Dont Tell Me",
@@ -573,7 +668,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 49
+  "ID": 49,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Dont You Worry Child",
@@ -585,7 +682,9 @@
   "Singing Style": "Strong Chest, Nosy",
   "Strumming Style": "Pick - Metalic, Pick - One Way",
   "Genre": "Electronic, Rock",
-  "ID": 50
+  "ID": 50,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Drifter",
@@ -597,7 +696,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 51
+  "ID": 51,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Drops Of Jupiter",
@@ -609,7 +710,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 52
+  "ID": 52,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Dust In The Wind",
@@ -621,7 +724,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 53
+  "ID": 53,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Escape",
@@ -633,7 +738,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Latin, Pop",
-  "ID": 54
+  "ID": 54,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Euphoria",
@@ -645,7 +752,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - One Way",
   "Genre": "Pop",
-  "ID": 55
+  "ID": 55,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Everything",
@@ -657,7 +766,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 56
+  "ID": 56,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Fall To Pieces",
@@ -669,7 +780,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 57
+  "ID": 57,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Feel",
@@ -681,7 +794,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - One Way, Pick - Fun",
   "Genre": "Pop",
-  "ID": 58
+  "ID": 58,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Fix You",
@@ -693,7 +808,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Gloomy, Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 59
+  "ID": 59,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Flowers",
@@ -705,7 +822,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 60
+  "ID": 60,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Fly Away",
@@ -717,7 +836,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 61
+  "ID": 61,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Forever Young",
@@ -729,7 +850,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Single Down",
   "Genre": "Pop",
-  "ID": 62
+  "ID": 62,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Fourfiveseconds",
@@ -741,7 +864,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Metalic",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 63
+  "ID": 63,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Free",
@@ -753,7 +878,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Rock",
-  "ID": 64
+  "ID": 64,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Freed From Desire",
@@ -765,7 +892,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Metalic, Pick - One Way",
   "Genre": "New Age, Pop",
-  "ID": 65
+  "ID": 65,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Frozen",
@@ -777,7 +906,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 66
+  "ID": 66,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Get Lucky",
@@ -789,7 +920,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Electronic",
-  "ID": 67
+  "ID": 67,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Glorious",
@@ -801,7 +934,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire, Pick - Ongoing",
   "Genre": "Pop",
-  "ID": 68
+  "ID": 68,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Go Let It Out",
@@ -813,7 +948,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 69
+  "ID": 69,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Go The Distance",
@@ -825,7 +962,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Special",
   "Genre": "Pop",
-  "ID": 70
+  "ID": 70,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Good Riddance",
@@ -837,7 +976,9 @@
   "Singing Style": "Open Mouth, Nosy, Airy",
   "Strumming Style": "Hand - Umpa Chuk",
   "Genre": "Rock",
-  "ID": 71
+  "ID": 71,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Grace Kelly",
@@ -849,7 +990,9 @@
   "Singing Style": "Strong Chest, Nosy, Open Mouth",
   "Strumming Style": "Pick - Waltz",
   "Genre": "Pop",
-  "ID": 72
+  "ID": 72,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hallelujah",
@@ -861,7 +1004,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Enrique",
   "Genre": "Rock",
-  "ID": 73
+  "ID": 73,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Heavens Not Enough",
@@ -873,7 +1018,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 74
+  "ID": 74,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hello",
@@ -885,7 +1032,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 75
+  "ID": 75,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hero",
@@ -897,7 +1046,9 @@
   "Singing Style": "Nosy, Airy, Open Mouth",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Special",
   "Genre": "Latin, Pop",
-  "ID": 76
+  "ID": 76,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hey Brother",
@@ -909,7 +1060,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way, Pick - Ongoing",
   "Genre": "Electronic",
-  "ID": 77
+  "ID": 77,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hey Jude",
@@ -921,7 +1074,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies, Pop",
-  "ID": 78
+  "ID": 78,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hey There Delilah",
@@ -933,7 +1088,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop, Rock",
-  "ID": 79
+  "ID": 79,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hit The Road Jack",
@@ -945,7 +1102,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies, R&B\/Soul\/Disco",
-  "ID": 80
+  "ID": 80,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hotel California",
@@ -957,7 +1116,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 81
+  "ID": 81,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "How Deep Is Your Love",
@@ -969,7 +1130,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop, Rock",
-  "ID": 82
+  "ID": 82,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hymn For The Weekend",
@@ -981,7 +1144,9 @@
   "Singing Style": "Strong Chest, Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Rock",
-  "ID": 83
+  "ID": 83,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "I Believe In A Thing Called Love",
@@ -993,7 +1158,9 @@
   "Singing Style": "Nosy, Open Mouth, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 84
+  "ID": 84,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "I Just Wanna Live",
@@ -1005,7 +1172,9 @@
   "Singing Style": "Nosy, Falsetto",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 85
+  "ID": 85,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "I Lived",
@@ -1017,7 +1186,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 86
+  "ID": 86,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "I Only Wanna Be With You",
@@ -1029,7 +1200,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Rock",
-  "ID": 87
+  "ID": 87,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "I Saw Her Standing There",
@@ -1041,7 +1214,9 @@
   "Singing Style": "Strong Chest, Falsetto",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies, Rock",
-  "ID": 88
+  "ID": 88,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "I Turn To You",
@@ -1053,7 +1228,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 89
+  "ID": 89,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "I Want It That Way",
@@ -1065,7 +1242,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 90
+  "ID": 90,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "I Will Survive",
@@ -1077,7 +1256,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Oldies, R&B\/Soul\/Disco",
-  "ID": 91
+  "ID": 91,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Im Alive",
@@ -1089,7 +1270,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 92
+  "ID": 92,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Im Not The Only One",
@@ -1101,7 +1284,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 93
+  "ID": 93,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Im So Excited",
@@ -1113,7 +1298,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies, R&B\/Soul\/Disco",
-  "ID": 94
+  "ID": 94,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Im With You",
@@ -1125,7 +1312,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 95
+  "ID": 95,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Im Yours",
@@ -1137,7 +1326,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Pull Chuk",
   "Genre": "Pop",
-  "ID": 96
+  "ID": 96,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Imagine",
@@ -1149,7 +1340,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies, Rock",
-  "ID": 97
+  "ID": 97,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Impossible",
@@ -1161,7 +1354,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Single Down, Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 98
+  "ID": 98,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "In Love With A Girl",
@@ -1173,7 +1368,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 99
+  "ID": 99,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "In My Place",
@@ -1185,7 +1382,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 100
+  "ID": 100,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "In Your Eyes",
@@ -1197,7 +1396,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 101
+  "ID": 101,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Into the Black",
@@ -1209,7 +1410,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 102
+  "ID": 102,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "It Aint Me",
@@ -1221,7 +1424,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 103
+  "ID": 103,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Its All Coming Back To Me Now",
@@ -1233,7 +1438,9 @@
   "Singing Style": "Strong Chest, Airy, Open Mouth",
   "Strumming Style": "Pick - Special",
   "Genre": "Rock",
-  "ID": 104
+  "ID": 104,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Its My Life",
@@ -1245,7 +1452,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Pick - Metalic, Pick - One Way",
   "Genre": "Rock",
-  "ID": 105
+  "ID": 105,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Its Okay",
@@ -1257,7 +1466,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 106
+  "ID": 106,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Jai Ho",
@@ -1269,7 +1480,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 107
+  "ID": 107,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Jar Of Hearts",
@@ -1281,7 +1494,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 108
+  "ID": 108,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Jolene",
@@ -1293,7 +1508,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Country, Oldies",
-  "ID": 109
+  "ID": 109,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "King",
@@ -1305,7 +1522,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop",
-  "ID": 110
+  "ID": 110,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Knocking On Heavens Door",
@@ -1317,7 +1536,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 111
+  "ID": 111,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Learn To Fly",
@@ -1329,7 +1550,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Metalic, Pick - One Way",
   "Genre": "Rock",
-  "ID": 112
+  "ID": 112,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Leave Get Out",
@@ -1341,7 +1564,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 113
+  "ID": 113,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Leaving On A Jet Plane",
@@ -1353,7 +1578,9 @@
   "Singing Style": "Open Mouth, Airy, Nosy",
   "Strumming Style": "Hand - Umpa Chuk, Hand - Special",
   "Genre": "Country, Pop",
-  "ID": 114
+  "ID": 114,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Left Outside Alone",
@@ -1365,7 +1592,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 115
+  "ID": 115,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Let Her Go",
@@ -1377,7 +1606,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Single Down",
   "Genre": "Rock",
-  "ID": 116
+  "ID": 116,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Let It Be",
@@ -1389,7 +1620,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies, Pop, R&B\/Soul\/Disco",
-  "ID": 117
+  "ID": 117,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Life",
@@ -1401,7 +1634,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 118
+  "ID": 118,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Life For Rent",
@@ -1413,7 +1648,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 119
+  "ID": 119,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Life Is A Flower",
@@ -1425,7 +1662,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Pop",
-  "ID": 120
+  "ID": 120,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Light a Candle",
@@ -1437,7 +1676,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Pop, Rock",
-  "ID": 121
+  "ID": 121,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Light In Your Eyes",
@@ -1449,7 +1690,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 122
+  "ID": 122,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Lonely Boy",
@@ -1461,7 +1704,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop, Rock",
-  "ID": 123
+  "ID": 123,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Love At First Sight",
@@ -1473,7 +1718,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 124
+  "ID": 124,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Love Me More",
@@ -1485,7 +1732,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 125
+  "ID": 125,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Million Reasons",
@@ -1497,7 +1746,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 126
+  "ID": 126,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Mirrors",
@@ -1509,7 +1760,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Hand - Pull Chuk",
   "Genre": "Pop",
-  "ID": 127
+  "ID": 127,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Misery",
@@ -1521,7 +1774,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 128
+  "ID": 128,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Monsoon",
@@ -1533,7 +1788,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way, Pick - Metalic",
   "Genre": "Rock",
-  "ID": 129
+  "ID": 129,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Murder On The Dancefloor",
@@ -1545,7 +1802,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 130
+  "ID": 130,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "My Love",
@@ -1557,7 +1816,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 131
+  "ID": 131,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "My Oasis",
@@ -1569,7 +1830,9 @@
   "Singing Style": "Falsetto",
   "Strumming Style": "Pick - One Way",
   "Genre": "Pop",
-  "ID": 132
+  "ID": 132,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "My Universe",
@@ -1581,7 +1844,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 133
+  "ID": 133,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "No Tears Left To Cry",
@@ -1593,7 +1858,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - Special, Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 134
+  "ID": 134,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Nothing In My Way",
@@ -1605,7 +1872,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 135
+  "ID": 135,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "One Call Away",
@@ -1617,7 +1886,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 136
+  "ID": 136,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "One Day",
@@ -1629,7 +1900,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Special",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 137
+  "ID": 137,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "One Last Breath",
@@ -1641,7 +1914,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Single Down, Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 138
+  "ID": 138,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "One Love",
@@ -1653,7 +1928,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Single Down, Pick - Fun",
   "Genre": "Pop",
-  "ID": 139
+  "ID": 139,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Only Time",
@@ -1665,7 +1942,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - One Way",
   "Genre": "New Age",
-  "ID": 140
+  "ID": 140,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Oops I Did It Again",
@@ -1677,7 +1956,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Pick - Metalic, Pick - Fun",
   "Genre": "Pop",
-  "ID": 141
+  "ID": 141,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Paradise",
@@ -1689,7 +1970,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - One Way",
   "Genre": "Rock",
-  "ID": 142
+  "ID": 142,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Perfect",
@@ -1701,7 +1984,9 @@
   "Singing Style": "Strong Chest, Airy, Falsetto",
   "Strumming Style": "Pick - Special",
   "Genre": "Pop",
-  "ID": 143
+  "ID": 143,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Perfect",
@@ -1713,7 +1998,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Waltz",
   "Genre": "Pop",
-  "ID": 144
+  "ID": 144,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Photograph",
@@ -1725,7 +2012,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 145
+  "ID": 145,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Pokemon Johto",
@@ -1737,7 +2026,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire, Pick - Single Down",
   "Genre": "Rock",
-  "ID": 146
+  "ID": 146,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Prayer In C",
@@ -1749,7 +2040,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Pull Chuk",
   "Genre": "Pop",
-  "ID": 147
+  "ID": 147,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Princess Of China",
@@ -1761,7 +2054,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 148
+  "ID": 148,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Relax Take It Easy",
@@ -1773,7 +2068,9 @@
   "Singing Style": "Strong Chest, Falsetto, Open Mouth",
   "Strumming Style": "Pick - One Way",
   "Genre": "Pop",
-  "ID": 149
+  "ID": 149,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Rhythm is a dnacer",
@@ -1785,7 +2082,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Um Pam Pam, Hand - Special",
   "Genre": "Pop",
-  "ID": 150
+  "ID": 150,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Rooftops",
@@ -1797,7 +2096,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Metalic, Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 151
+  "ID": 151,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Se A Vida E",
@@ -1809,7 +2110,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 152
+  "ID": 152,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Shallow",
@@ -1821,7 +2124,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - One Way",
   "Genre": "Pop",
-  "ID": 153
+  "ID": 153,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Shes So High",
@@ -1833,7 +2138,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop, Rock",
-  "ID": 154
+  "ID": 154,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Shut Up And Dance",
@@ -1845,7 +2152,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Metalic, Pick - One Way, Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 155
+  "ID": 155,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Sigo Buscando",
@@ -1857,7 +2166,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Latin, Pop",
-  "ID": 156
+  "ID": 156,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Sing",
@@ -1869,7 +2180,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 157
+  "ID": 157,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Sister Golden Hair",
@@ -1881,7 +2194,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies, Rock",
-  "ID": 158
+  "ID": 158,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Snow",
@@ -1893,7 +2208,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Single Down, Pick - Campfire, Pick - One Way",
   "Genre": "Rock",
-  "ID": 159
+  "ID": 159,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Soak Up The Sun",
@@ -1905,7 +2222,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Metalic",
   "Genre": "Country, Rock",
-  "ID": 160
+  "ID": 160,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Society",
@@ -1917,7 +2236,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 161
+  "ID": 161,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Somebody Told Me",
@@ -1929,7 +2250,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Metalic, Pick - One Way, Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 162
+  "ID": 162,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Something Just Like This",
@@ -1941,7 +2264,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop, Rock",
-  "ID": 163
+  "ID": 163,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Somewhere Only We Know",
@@ -1953,7 +2278,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 164
+  "ID": 164,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Space And Time",
@@ -1965,7 +2292,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Waltz",
   "Genre": "Pop",
-  "ID": 165
+  "ID": 165,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Spectrum",
@@ -1977,7 +2306,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Pick - Metalic",
   "Genre": "Pop, Rock",
-  "ID": 166
+  "ID": 166,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Speed Of Sound",
@@ -1989,7 +2320,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Metalic, Pick - One Way",
   "Genre": "Rock",
-  "ID": 167
+  "ID": 167,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Steal Your Heart Away",
@@ -2001,7 +2334,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Rock",
-  "ID": 168
+  "ID": 168,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Stronger",
@@ -2013,7 +2348,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 169
+  "ID": 169,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Stronger",
@@ -2025,7 +2362,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Metalic, Pick - One Way, Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 170
+  "ID": 170,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Sway",
@@ -2037,7 +2376,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 171
+  "ID": 171,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Take A Bow",
@@ -2049,7 +2390,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Pull Chuk",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 172
+  "ID": 172,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Take Me Out",
@@ -2061,7 +2404,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Rock",
-  "ID": 173
+  "ID": 173,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "That Day",
@@ -2073,7 +2418,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 174
+  "ID": 174,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "The Days",
@@ -2085,7 +2432,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun, Pick - Special",
   "Genre": "Electronic",
-  "ID": 175
+  "ID": 175,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "The Edge Of Glory",
@@ -2097,7 +2446,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way, Pick - Metalic",
   "Genre": "Pop",
-  "ID": 176
+  "ID": 176,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "The Hardest Part",
@@ -2109,7 +2460,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 177
+  "ID": 177,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "The Nights",
@@ -2121,7 +2474,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Electronic",
-  "ID": 178
+  "ID": 178,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "The Scientist",
@@ -2133,7 +2488,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way, Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 179
+  "ID": 179,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "The Way",
@@ -2145,7 +2502,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 180
+  "ID": 180,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Theres A Kind Of Hush",
@@ -2157,7 +2516,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies",
-  "ID": 181
+  "ID": 181,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "This Is The Life",
@@ -2169,7 +2530,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 182
+  "ID": 182,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "This Is The World We Live In",
@@ -2181,7 +2544,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 183
+  "ID": 183,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "This Love",
@@ -2193,7 +2558,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 184
+  "ID": 184,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Tic Tic Tac",
@@ -2205,7 +2572,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Latin",
-  "ID": 185
+  "ID": 185,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Tide Is High",
@@ -2217,7 +2586,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 186
+  "ID": 186,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Time To Say Goodbye",
@@ -2229,7 +2600,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - Single Down, Pick - Ongoing Climax",
   "Genre": "Oldies, Pop",
-  "ID": 187
+  "ID": 187,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "To Be With You",
@@ -2241,7 +2614,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 188
+  "ID": 188,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Too Good At Goodbyes",
@@ -2253,7 +2628,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Single Down, Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 189
+  "ID": 189,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Violet Hill",
@@ -2265,7 +2642,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Metalic, Pick - One Way, Pick - Special",
   "Genre": "Rock",
-  "ID": 190
+  "ID": 190,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Viva La Vida",
@@ -2277,7 +2656,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 191
+  "ID": 191,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Wake Me Up",
@@ -2289,7 +2670,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Electronic",
-  "ID": 192
+  "ID": 192,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Walk Into The Sun",
@@ -2301,7 +2684,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Electronic",
-  "ID": 193
+  "ID": 193,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Walking Away",
@@ -2313,7 +2698,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 194
+  "ID": 194,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "We Were Us",
@@ -2325,7 +2712,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Country",
-  "ID": 195
+  "ID": 195,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Welcome To My Truth",
@@ -2337,7 +2726,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way",
   "Genre": "Pop",
-  "ID": 196
+  "ID": 196,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "What I Did For Love",
@@ -2349,7 +2740,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - One Way",
   "Genre": "Electronic",
-  "ID": 197
+  "ID": 197,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "What Makes You Beautiful",
@@ -2361,7 +2754,9 @@
   "Singing Style": "Airy, Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 198
+  "ID": 198,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "What Took You So Long",
@@ -2373,7 +2768,9 @@
   "Singing Style": "Airy, Nosy",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Pop",
-  "ID": 199
+  "ID": 199,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "What Youre Made Of",
@@ -2385,7 +2782,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 200
+  "ID": 200,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Whatever",
@@ -2397,7 +2796,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 201
+  "ID": 201,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "When A Man Loves A Woman",
@@ -2409,7 +2810,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - One Way",
   "Genre": "Oldies, R&B\/Soul\/Disco",
-  "ID": 202
+  "ID": 202,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "When Youre Gone",
@@ -2421,7 +2824,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 203
+  "ID": 203,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "When Youre Gone",
@@ -2433,7 +2838,9 @@
   "Singing Style": "Nosy, Airy, Open Mouth",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 204
+  "ID": 204,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Whenever Wherever",
@@ -2445,7 +2852,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop",
-  "ID": 205
+  "ID": 205,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Where Are You Now",
@@ -2457,7 +2866,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 206
+  "ID": 206,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Wherever I Go",
@@ -2469,7 +2880,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 207
+  "ID": 207,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Who Are You When Im Not Looking",
@@ -2481,7 +2894,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Country",
-  "ID": 208
+  "ID": 208,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Wonderwall",
@@ -2493,7 +2908,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Pop, Rock",
-  "ID": 209
+  "ID": 209,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Yellow",
@@ -2505,7 +2922,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 210
+  "ID": 210,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Yesterday",
@@ -2517,7 +2936,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Special",
   "Genre": "Oldies, Pop",
-  "ID": 211
+  "ID": 211,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "You Raise Me Up",
@@ -2529,7 +2950,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy, Pick - Waltz",
   "Genre": "Pop",
-  "ID": 212
+  "ID": 212,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Youve Got The Love",
@@ -2541,7 +2964,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Metalic",
   "Genre": "Pop, Rock",
-  "ID": 213
+  "ID": 213,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Восточные Сказки",
@@ -2553,7 +2978,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 214
+  "ID": 214,
+  "JSON": false,
+  "Language": "Russian"
  },
  {
   "Title": "Ты Должна Рядом Быть",
@@ -2565,7 +2992,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 215
+  "ID": 215,
+  "JSON": false,
+  "Language": "Russian"
  },
  {
   "Title": "אהבה",
@@ -2578,6 +3007,7 @@
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
   "ID": 216,
+  "JSON": true,
   "Language": "Hebrew"
  },
  {
@@ -2590,7 +3020,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies",
-  "ID": 217
+  "ID": 217,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אוהב להיות בבית",
@@ -2602,7 +3034,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 218
+  "ID": 218,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אוטו זבל",
@@ -2614,7 +3048,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Rock",
-  "ID": 219
+  "ID": 219,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אולי עוד קיץ",
@@ -2626,7 +3062,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Um Padampam",
   "Genre": "Oldies",
-  "ID": 220
+  "ID": 220,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אומרים ישנה ארץ",
@@ -2638,7 +3076,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies",
-  "ID": 221
+  "ID": 221,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אור",
@@ -2650,7 +3090,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies",
-  "ID": 222
+  "ID": 222,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אור גדול",
@@ -2662,7 +3104,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 223
+  "ID": 223,
+  "JSON": true,
+  "Language": "Hebrew"
  },
  {
   "Title": "אור הירח",
@@ -2674,7 +3118,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 224
+  "ID": 224,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אחכה לך",
@@ -2686,7 +3132,9 @@
   "Singing Style": "Airy, Strong Chest",
   "Strumming Style": "Hand - Umpa Chuk",
   "Genre": "Oldies",
-  "ID": 225
+  "ID": 225,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "איזו מדינה",
@@ -2698,7 +3146,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Oldies, מזרחי",
-  "ID": 226
+  "ID": 226,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אינך יכולה",
@@ -2710,7 +3160,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies",
-  "ID": 227
+  "ID": 227,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "איפה הן הבחורות",
@@ -2722,7 +3174,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies",
-  "ID": 228
+  "ID": 228,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אל תדאג",
@@ -2734,7 +3188,9 @@
   "Singing Style": "Nosy, Falsetto",
   "Strumming Style": "Hand - Pull Chuk",
   "Genre": "Rock",
-  "ID": 229
+  "ID": 229,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אם הוא ילך",
@@ -2746,7 +3202,9 @@
   "Singing Style": "Strong Chest, Falsetto",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 230
+  "ID": 230,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אם לא היום אז מחר",
@@ -2758,7 +3216,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Rock",
-  "ID": 231
+  "ID": 231,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אמצע הלילה בכפר",
@@ -2770,7 +3230,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop, Rock",
-  "ID": 232
+  "ID": 232,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אנה אפנה",
@@ -2782,7 +3244,9 @@
   "Singing Style": "Airy, Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 233
+  "ID": 233,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אנחנו לא צריכים",
@@ -2794,7 +3258,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Waltz",
   "Genre": "Oldies, Rock",
-  "ID": 234
+  "ID": 234,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אני אש",
@@ -2806,7 +3272,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop",
-  "ID": 235
+  "ID": 235,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אני ואתה",
@@ -2818,7 +3286,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Oldies, Pop, Rock",
-  "ID": 236
+  "ID": 236,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אני חולם על נעמי",
@@ -2830,7 +3300,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies",
-  "ID": 237
+  "ID": 237,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אנשים טובים באמצע הדרך",
@@ -2842,7 +3314,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies",
-  "ID": 238
+  "ID": 238,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ארץ",
@@ -2854,7 +3328,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies",
-  "ID": 239
+  "ID": 239,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ארץ חדשה",
@@ -2866,7 +3342,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Pick - Campfire, Pick - Single Down, Pick - One Way",
   "Genre": "Pop",
-  "ID": 240
+  "ID": 240,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ארץ ערבה",
@@ -2878,7 +3356,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies",
-  "ID": 241
+  "ID": 241,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "את דומה לכלב",
@@ -2890,7 +3370,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 242
+  "ID": 242,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אתה פה חסר לי",
@@ -2902,7 +3384,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 243
+  "ID": 243,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בא לה לרקוד",
@@ -2914,7 +3398,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 244
+  "ID": 244,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "באה מאהבה",
@@ -2926,7 +3412,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 245
+  "ID": 245,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בארץ אהבתי",
@@ -2938,7 +3426,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Waltz",
   "Genre": "Oldies",
-  "ID": 246
+  "ID": 246,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בגלל הרוח",
@@ -2950,7 +3440,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "R&B\/Soul\/Disco, Rock",
-  "ID": 247
+  "ID": 247,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בדיוק כמוך",
@@ -2962,7 +3454,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 248
+  "ID": 248,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בוא",
@@ -2974,7 +3468,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 249
+  "ID": 249,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בואי",
@@ -2986,7 +3482,9 @@
   "Singing Style": "Airy, Talk",
   "Strumming Style": "Hand - Eastern",
   "Genre": "New Age",
-  "ID": 250
+  "ID": 250,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בחולצת פסים",
@@ -2998,7 +3496,9 @@
   "Singing Style": "Airy, Nosy, Open Mouth",
   "Strumming Style": "Pick - Metalic, Pick - One Way",
   "Genre": "Rock",
-  "ID": 251
+  "ID": 251,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בחום של תל אביב",
@@ -3010,7 +3510,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 252
+  "ID": 252,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בין האצבעות",
@@ -3022,7 +3524,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies",
-  "ID": 253
+  "ID": 253,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בלי לומר מילה",
@@ -3034,7 +3538,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Hand - Gloomy, Pick - One Way",
   "Genre": "Rock",
-  "ID": 254
+  "ID": 254,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "במכונית",
@@ -3046,7 +3552,9 @@
   "Singing Style": "Nosy, Strong Chest",
   "Strumming Style": "Pick - Waltz",
   "Genre": "מזרחי",
-  "ID": 255
+  "ID": 255,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בסוף העולם",
@@ -3058,7 +3566,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 256
+  "ID": 256,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בראש השנה",
@@ -3070,7 +3580,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Um Pam Pam",
   "Genre": "מועדי ישראל",
-  "ID": 257
+  "ID": 257,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "בשנה הבאה",
@@ -3082,7 +3594,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "מועדי ישראל",
-  "ID": 258
+  "ID": 258,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "גן השיקמים",
@@ -3094,7 +3608,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Um Pam Pam",
   "Genre": "Oldies",
-  "ID": 259
+  "ID": 259,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "גשם כבד עומד ליפול",
@@ -3106,7 +3622,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Special",
   "Genre": "Rock",
-  "ID": 260
+  "ID": 260,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "דיווה",
@@ -3118,7 +3636,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - One Way, Pick - Metalic",
   "Genre": "Electronic, Pop",
-  "ID": 261
+  "ID": 261,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "דרך הכורכר",
@@ -3130,7 +3650,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies, Rock",
-  "ID": 262
+  "ID": 262,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "דרכנו",
@@ -3142,7 +3664,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 263
+  "ID": 263,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "האהבה הישנה",
@@ -3154,7 +3678,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 264
+  "ID": 264,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "האורח",
@@ -3166,7 +3692,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies",
-  "ID": 265
+  "ID": 265,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "האיש ההוא",
@@ -3178,7 +3706,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 266
+  "ID": 266,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "האם להיות בך מאוהב",
@@ -3190,7 +3720,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Rock",
-  "ID": 267
+  "ID": 267,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הביתה הלוך חזור",
@@ -3202,7 +3734,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Um Padampam",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 268
+  "ID": 268,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הוי ארצי מולדתי",
@@ -3214,7 +3748,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Special, Hand - Umpa Umpa",
   "Genre": "Oldies",
-  "ID": 269
+  "ID": 269,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הורה",
@@ -3226,7 +3762,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies",
-  "ID": 270
+  "ID": 270,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הזמנה לחתונה",
@@ -3238,7 +3776,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 271
+  "ID": 271,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "החיטה צומחת שוב",
@@ -3250,7 +3790,9 @@
   "Singing Style": "Strong Chest, Nosy",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies",
-  "ID": 272
+  "ID": 272,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "היא לא יודעת מה עובר עלי",
@@ -3262,7 +3804,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 273
+  "ID": 273,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "היום היום",
@@ -3274,7 +3818,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 274
+  "ID": 274,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הכוס הכחולה",
@@ -3286,7 +3832,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop, Rock",
-  "ID": 275
+  "ID": 275,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הכל יכול לקרות",
@@ -3298,7 +3846,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Special",
   "Genre": "Pop",
-  "ID": 276
+  "ID": 276,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הכל פתוח",
@@ -3310,7 +3860,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies",
-  "ID": 277
+  "ID": 277,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הלוואי",
@@ -3322,7 +3874,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Oldies",
-  "ID": 278
+  "ID": 278,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הליכה לקיסריה",
@@ -3334,7 +3888,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies",
-  "ID": 279
+  "ID": 279,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הללויה",
@@ -3346,7 +3902,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies, Pop",
-  "ID": 280
+  "ID": 280,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "המקום האמיתי",
@@ -3358,7 +3916,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 281
+  "ID": 281,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הניחי לי",
@@ -3370,7 +3930,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 282
+  "ID": 282,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הקיץ האחרון",
@@ -3382,7 +3944,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Hand - Special, Hand - Gloomy",
   "Genre": "Rock",
-  "ID": 283
+  "ID": 283,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הרגלים רעים",
@@ -3394,7 +3958,9 @@
   "Singing Style": "Strong Chest, Nosy",
   "Strumming Style": "Pick - One Way, Pick - Metalic, Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 284
+  "ID": 284,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "השיר שיביא לך אהבה",
@@ -3406,7 +3972,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Special",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 285
+  "ID": 285,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "השיר שלנו",
@@ -3418,7 +3986,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 286
+  "ID": 286,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "השקט שנשאר",
@@ -3430,7 +4000,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Eastern",
   "Genre": "Pop",
-  "ID": 287
+  "ID": 287,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "התחלה חדשה",
@@ -3442,7 +4014,9 @@
   "Singing Style": "Strong Chest, Nosy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 288
+  "ID": 288,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ואולי",
@@ -3454,7 +4028,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Pick - Metalic, Pick - One Way",
   "Genre": "Rock",
-  "ID": 289
+  "ID": 289,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ולס להגנת הצומח",
@@ -3466,7 +4042,9 @@
   "Singing Style": "Strong Chest, Open Mouth, Nosy",
   "Strumming Style": "Pick - Waltz",
   "Genre": "Oldies",
-  "ID": 290
+  "ID": 290,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "זה רק הלב שכואב לך",
@@ -3478,7 +4056,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 291
+  "ID": 291,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "זהב",
@@ -3490,7 +4070,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 292
+  "ID": 292,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "זוכר אני",
@@ -3502,7 +4084,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop",
-  "ID": 293
+  "ID": 293,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "זמר נוגה",
@@ -3514,7 +4098,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies",
-  "ID": 294
+  "ID": 294,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "זן נדיר",
@@ -3526,7 +4112,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way",
   "Genre": "New Age, Rock",
-  "ID": 295
+  "ID": 295,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "חגיגה",
@@ -3538,7 +4126,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "מזרחי",
-  "ID": 296
+  "ID": 296,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "חופים",
@@ -3550,7 +4140,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies",
-  "ID": 297
+  "ID": 297,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "חייל של 100 שערים",
@@ -3562,7 +4154,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 298
+  "ID": 298,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "חלומות",
@@ -3574,7 +4168,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies",
-  "ID": 299
+  "ID": 299,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "חסקה",
@@ -3586,7 +4182,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies",
-  "ID": 300
+  "ID": 300,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יהיה בסדר",
@@ -3598,7 +4196,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 301
+  "ID": 301,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יהיה לנו טוב",
@@ -3610,7 +4210,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 302
+  "ID": 302,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יום יבוא",
@@ -3622,7 +4224,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - Waltz",
   "Genre": "R&B\/Soul\/Disco",
-  "ID": 303
+  "ID": 303,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יומולדת",
@@ -3634,7 +4238,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way, Pick - Metalic",
   "Genre": "Rock",
-  "ID": 304
+  "ID": 304,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יומן מסע",
@@ -3646,7 +4252,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 305
+  "ID": 305,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יוצא לאור",
@@ -3658,7 +4266,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies, Pop",
-  "ID": 306
+  "ID": 306,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יותר טוב כלום",
@@ -3670,7 +4280,9 @@
   "Singing Style": "Airy, Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 307
+  "ID": 307,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יחידה שלי",
@@ -3682,7 +4294,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Waltz",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 308
+  "ID": 308,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ים השיבולים",
@@ -3694,7 +4308,9 @@
   "Singing Style": "Strong Chest, Nosy, Airy",
   "Strumming Style": "Hand - Um Pam Pam",
   "Genre": "Oldies",
-  "ID": 309
+  "ID": 309,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ימי בנימינה",
@@ -3706,7 +4322,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies",
-  "ID": 310
+  "ID": 310,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ימי הפרח והאהבה",
@@ -3718,7 +4336,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "New Age, Rock",
-  "ID": 311
+  "ID": 311,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ימים טובים",
@@ -3730,7 +4350,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Special",
   "Genre": "Pop",
-  "ID": 312
+  "ID": 312,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ימים של שקט",
@@ -3742,7 +4364,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 313
+  "ID": 313,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יפה כלבנה",
@@ -3754,7 +4378,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Waltz",
   "Genre": "Pop",
-  "ID": 314
+  "ID": 314,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יפה שלי",
@@ -3766,7 +4392,9 @@
   "Singing Style": "Talk, Strong Chest",
   "Strumming Style": "Pick - Single Down, Pick - Ongoing Climax",
   "Genre": "מזרחי",
-  "ID": 315
+  "ID": 315,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יש בי אהבה",
@@ -3778,7 +4406,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Special",
   "Genre": "Oldies, Pop, Rock",
-  "ID": 316
+  "ID": 316,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יש לי חולשה לרקדנים",
@@ -3790,7 +4420,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Metalic",
   "Genre": "Rock",
-  "ID": 317
+  "ID": 317,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "יש לך שמש",
@@ -3802,7 +4434,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Pick - Single Down",
   "Genre": "Oldies",
-  "ID": 318
+  "ID": 318,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "כבר עכשיו",
@@ -3814,7 +4448,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Special",
   "Genre": "Pop, Rock",
-  "ID": 319
+  "ID": 319,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "כל הכוכבים",
@@ -3826,7 +4462,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 320
+  "ID": 320,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "כל הציפורים",
@@ -3838,7 +4476,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 321
+  "ID": 321,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "כמו אוהבים",
@@ -3850,7 +4490,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 322
+  "ID": 322,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לא יכול להוריד ממך את העיניים",
@@ -3862,7 +4504,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies, Pop",
-  "ID": 323
+  "ID": 323,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לא יכולתי לעשות כלום",
@@ -3874,7 +4518,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 324
+  "ID": 324,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לאן שלא תלכי",
@@ -3886,7 +4532,9 @@
   "Singing Style": "Airy, Nosy, Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 325
+  "ID": 325,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לב חופשי",
@@ -3898,7 +4546,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Pop, Rock",
-  "ID": 326
+  "ID": 326,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לבכות לך",
@@ -3910,7 +4560,9 @@
   "Singing Style": "Airy, Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Rock",
-  "ID": 327
+  "ID": 327,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לו יהי",
@@ -3922,7 +4574,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies",
-  "ID": 328
+  "ID": 328,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לו יהי",
@@ -3934,7 +4588,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies",
-  "ID": 329
+  "ID": 329,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לוקח את הזמן",
@@ -3946,7 +4602,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Special",
   "Genre": "Oldies",
-  "ID": 330
+  "ID": 330,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לחיי העם הזה",
@@ -3958,7 +4616,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies",
-  "ID": 331
+  "ID": 331,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לכל אחד יש",
@@ -3970,7 +4630,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "מזרחי",
-  "ID": 332
+  "ID": 332,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "למה לא אמרת לי",
@@ -3982,7 +4644,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Oldies",
-  "ID": 333
+  "ID": 333,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לצפון באהבה",
@@ -3994,7 +4658,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies, Rock",
-  "ID": 334
+  "ID": 334,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לשם",
@@ -4006,7 +4672,9 @@
   "Singing Style": "Nosy, Airy, Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 335
+  "ID": 335,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לתת ולקחת",
@@ -4018,7 +4686,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop",
-  "ID": 336
+  "ID": 336,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מה אם נתנשק",
@@ -4030,7 +4700,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Pull Chuk",
   "Genre": "Rock",
-  "ID": 337
+  "ID": 337,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מה אעשה",
@@ -4042,7 +4714,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Rock",
-  "ID": 338
+  "ID": 338,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מה הפרח",
@@ -4054,7 +4728,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - One Way",
   "Genre": "Rock",
-  "ID": 339
+  "ID": 339,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מה שאת אוהבת",
@@ -4066,7 +4742,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 340
+  "ID": 340,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מה שיהיה יהיה",
@@ -4078,7 +4756,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Waltz",
   "Genre": "New Age, Rock",
-  "ID": 341
+  "ID": 341,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מהמרחקים",
@@ -4090,7 +4770,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 342
+  "ID": 342,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מחכה",
@@ -4102,7 +4784,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop, Rock",
-  "ID": 343
+  "ID": 343,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מחכה",
@@ -4114,7 +4798,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 344
+  "ID": 344,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מחר",
@@ -4126,7 +4812,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies",
-  "ID": 345
+  "ID": 345,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מי נהר",
@@ -4138,7 +4826,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "New Age",
-  "ID": 346
+  "ID": 346,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מישהו",
@@ -4150,7 +4840,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies, Rock, מועדי ישראל",
-  "ID": 347
+  "ID": 347,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מכה אפורה",
@@ -4162,7 +4854,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Pop, Rock",
-  "ID": 348
+  "ID": 348,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מכיר אותו",
@@ -4174,7 +4868,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 349
+  "ID": 349,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מכתב לאחי",
@@ -4186,7 +4882,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Eastern",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 350
+  "ID": 350,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מלאו אסמינו בר",
@@ -4198,7 +4896,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies",
-  "ID": 351
+  "ID": 351,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מלכות החרמון",
@@ -4210,7 +4910,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Um Pam Pam",
   "Genre": "Oldies",
-  "ID": 352
+  "ID": 352,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מלנכוליה אהובתי",
@@ -4222,7 +4924,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "R&B\/Soul\/Disco, Rock",
-  "ID": 353
+  "ID": 353,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מנגינה",
@@ -4234,7 +4938,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way, Pick - Special",
   "Genre": "Rock",
-  "ID": 354
+  "ID": 354,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מסע",
@@ -4246,7 +4952,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Hand - Special",
   "Genre": "Pop",
-  "ID": 355
+  "ID": 355,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מספיק בן אדם",
@@ -4258,7 +4966,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 356
+  "ID": 356,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מעביר דף",
@@ -4270,7 +4980,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Rock",
-  "ID": 357
+  "ID": 357,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מעיל אחד בגשם",
@@ -4282,7 +4994,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Waltz",
   "Genre": "Pop, Rock",
-  "ID": 358
+  "ID": 358,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מקום לצידך",
@@ -4294,7 +5008,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 359
+  "ID": 359,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מקסיקו",
@@ -4306,7 +5022,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 360
+  "ID": 360,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "משא ומתן",
@@ -4318,7 +5036,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "R&B\/Soul\/Disco, Rock",
-  "ID": 361
+  "ID": 361,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "משהו חדש מתחיל",
@@ -4330,7 +5050,9 @@
   "Singing Style": "Open Mouth, Airy",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 362
+  "ID": 362,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "משהו ממני",
@@ -4342,7 +5064,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Hand - Enrique",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 363
+  "ID": 363,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "משירי ארץ אהבתי",
@@ -4354,7 +5078,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Um Pam Pam",
   "Genre": "Oldies",
-  "ID": 364
+  "ID": 364,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "משקאות חריפים",
@@ -4366,7 +5092,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing, Pick - Special",
   "Genre": "Rock",
-  "ID": 365
+  "ID": 365,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מתגעגע",
@@ -4378,7 +5106,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "מזרחי",
-  "ID": 366
+  "ID": 366,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מתוק מתוק",
@@ -4390,7 +5120,9 @@
   "Singing Style": "Strong Chest, Open Mouth, Nosy, Airy",
   "Strumming Style": "Pick - Special",
   "Genre": "Oldies",
-  "ID": 367
+  "ID": 367,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "נובמבר",
@@ -4402,7 +5134,9 @@
   "Singing Style": "Strong Chest, Nosy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop",
-  "ID": 368
+  "ID": 368,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "נפוליאון",
@@ -4414,7 +5148,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Rock",
-  "ID": 369
+  "ID": 369,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "נר על החלון",
@@ -4426,7 +5162,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 370
+  "ID": 370,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "נשימה",
@@ -4438,7 +5176,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 371
+  "ID": 371,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "סאלאם",
@@ -4450,7 +5190,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Hand - Gloomy, Pick - Ongoing Climax",
   "Genre": "New Age",
-  "ID": 372
+  "ID": 372,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "סודותיי",
@@ -4462,7 +5204,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Single Down, Pick - Special",
   "Genre": "New Age",
-  "ID": 373
+  "ID": 373,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "סוף העולם",
@@ -4474,7 +5218,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 374
+  "ID": 374,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "סיגפו",
@@ -4486,7 +5232,9 @@
   "Singing Style": "Open Mouth, Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 375
+  "ID": 375,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "סיון",
@@ -4498,7 +5246,9 @@
   "Singing Style": "Strong Chest, Airy, Nosy",
   "Strumming Style": "Pick - Ongoing, Pick - Metalic",
   "Genre": "Oldies, Pop",
-  "ID": 376
+  "ID": 376,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "סימנים",
@@ -4510,7 +5260,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop",
-  "ID": 377
+  "ID": 377,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עבדים",
@@ -4522,7 +5274,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 378
+  "ID": 378,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עד סוף אפריל",
@@ -4534,7 +5288,9 @@
   "Singing Style": "Strong Chest, Open Mouth",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "New Age, Rock",
-  "ID": 379
+  "ID": 379,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עדיף",
@@ -4546,7 +5302,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 380
+  "ID": 380,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עוד",
@@ -4558,7 +5316,9 @@
   "Singing Style": "Open Mouth, Nosy",
   "Strumming Style": "Pick - Single Down",
   "Genre": "Rock",
-  "ID": 381
+  "ID": 381,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עוד חוזר הניגון",
@@ -4570,7 +5330,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Enrique",
   "Genre": "Rock",
-  "ID": 382
+  "ID": 382,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עוד יהיה לי",
@@ -4582,7 +5344,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop, מזרחי",
-  "ID": 383
+  "ID": 383,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עוד לא אהבתי די",
@@ -4594,7 +5358,9 @@
   "Singing Style": "Strong Chest, Airy, Nosy",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "Oldies",
-  "ID": 384
+  "ID": 384,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עוד לא תמו כל פלאייך",
@@ -4606,7 +5372,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies",
-  "ID": 385
+  "ID": 385,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עוד סיפור אחד של אהבה",
@@ -4618,7 +5386,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "מזרחי",
-  "ID": 386
+  "ID": 386,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עונות",
@@ -4630,7 +5400,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Rock",
-  "ID": 387
+  "ID": 387,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עורי עור",
@@ -4642,7 +5414,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way",
   "Genre": "Rock",
-  "ID": 388
+  "ID": 388,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עכשיו טוב",
@@ -4654,7 +5428,9 @@
   "Singing Style": "Nosy, Falsetto",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 389
+  "ID": 389,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עכשיו קרוב",
@@ -4666,7 +5442,9 @@
   "Singing Style": "Airy, Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 390
+  "ID": 390,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "על הרצפה",
@@ -4678,7 +5456,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Rock",
-  "ID": 391
+  "ID": 391,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עמוק בתוך הים",
@@ -4690,7 +5470,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Enrique",
   "Genre": "Rock",
-  "ID": 392
+  "ID": 392,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "עניין של זמן",
@@ -4702,7 +5484,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - One Way, Pick - Metalic",
   "Genre": "Rock",
-  "ID": 393
+  "ID": 393,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ערב של יום בהיר",
@@ -4714,7 +5498,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies, Rock",
-  "ID": 394
+  "ID": 394,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "פה זה לא אירופה",
@@ -4726,7 +5512,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "מזרחי",
-  "ID": 395
+  "ID": 395,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "צאי אל החלון",
@@ -4738,7 +5526,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Fun",
   "Genre": "מזרחי",
-  "ID": 396
+  "ID": 396,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "קום והתהלך בארץ",
@@ -4750,7 +5540,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies",
-  "ID": 397
+  "ID": 397,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "קוצים",
@@ -4762,7 +5554,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 398
+  "ID": 398,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "קיץ",
@@ -4774,7 +5568,9 @@
   "Singing Style": "Open Mouth, Strong Chest, Nosy, Airy",
   "Strumming Style": "Pick - Special",
   "Genre": "Pop",
-  "ID": 399
+  "ID": 399,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "קרוב אל ליבך",
@@ -4786,7 +5582,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Fun",
   "Genre": "Rock",
-  "ID": 400
+  "ID": 400,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "רוחות מלחמה",
@@ -4798,7 +5596,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Metalic, Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 401
+  "ID": 401,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "רוצי קטנה",
@@ -4810,7 +5610,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 402
+  "ID": 402,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "רכבת לצפון",
@@ -4822,7 +5624,9 @@
   "Singing Style": "Airy, Open Mouth",
   "Strumming Style": "Pick - Fun",
   "Genre": "Pop",
-  "ID": 403
+  "ID": 403,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שבט אחים ואחיות",
@@ -4834,7 +5638,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 404
+  "ID": 404,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שובי אל ביתי",
@@ -4846,7 +5652,9 @@
   "Singing Style": "Open Mouth, Strong Chest, Airy",
   "Strumming Style": "Hand - Eastern",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 405
+  "ID": 405,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שיר הרעות",
@@ -4858,7 +5666,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Oldies",
-  "ID": 406
+  "ID": 406,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שיר לאהבה",
@@ -4870,7 +5680,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "New Age, Pop",
-  "ID": 407
+  "ID": 407,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שיר לשלום",
@@ -4882,7 +5694,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Special, Pick - Campfire",
   "Genre": "Oldies",
-  "ID": 408
+  "ID": 408,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שיר נבואי קוסמי עליז",
@@ -4894,7 +5708,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Special",
   "Genre": "Oldies, R&B\/Soul\/Disco",
-  "ID": 409
+  "ID": 409,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שיר פרידה",
@@ -4906,7 +5722,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 410
+  "ID": 410,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שיר תקווה",
@@ -4918,7 +5736,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Special",
   "Genre": "Rock",
-  "ID": 411
+  "ID": 411,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שיר תשרי",
@@ -4930,7 +5750,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Oldies, מועדי ישראל",
-  "ID": 412
+  "ID": 412,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שלום לך ארץ נהדרת",
@@ -4942,7 +5764,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Oldies",
-  "ID": 413
+  "ID": 413,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שמיים כחולים",
@@ -4954,7 +5778,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 414
+  "ID": 414,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שנה טובה",
@@ -4966,7 +5792,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "מועדי ישראל",
-  "ID": 415
+  "ID": 415,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שנים עשר ירחים",
@@ -4978,7 +5806,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "מועדי ישראל",
-  "ID": 416
+  "ID": 416,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "שעתיים אחרי",
@@ -4990,7 +5820,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "Pop",
-  "ID": 417
+  "ID": 417,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "תגידי שטוב",
@@ -5002,7 +5834,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Eastern",
   "Genre": "מזרחי",
-  "ID": 418
+  "ID": 418,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "תותים",
@@ -5014,7 +5848,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - One Way",
   "Genre": "Pop, Rock",
-  "ID": 419
+  "ID": 419,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "תל אביב",
@@ -5026,7 +5862,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 420
+  "ID": 420,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "תמיד כשאתה בא",
@@ -5038,7 +5876,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Special",
   "Genre": "Pop",
-  "ID": 421
+  "ID": 421,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "תן",
@@ -5050,7 +5890,9 @@
   "Singing Style": "Strong Chest, Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 422
+  "ID": 422,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "תן לי",
@@ -5062,7 +5904,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 423
+  "ID": 423,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "תתארו לכם",
@@ -5074,7 +5918,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing",
   "Genre": "Pop, R&B\/Soul\/Disco",
-  "ID": 424
+  "ID": 424,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "תתן לי יד",
@@ -5086,7 +5932,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Metalic, Pick - One Way",
   "Genre": "Pop, Rock",
-  "ID": 425
+  "ID": 425,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "ימי החנוכה",
@@ -5098,7 +5946,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "מועדי ישראל",
-  "ID": 426
+  "ID": 426,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "הנרות הללו",
@@ -5110,7 +5960,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Eastern",
   "Genre": "מועדי ישראל",
-  "ID": 427
+  "ID": 427,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "חג יפה כל כך",
@@ -5122,7 +5974,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "מועדי ישראל",
-  "ID": 428
+  "ID": 428,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מעוז צור",
@@ -5134,7 +5988,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Enrique",
   "Genre": "מועדי ישראל",
-  "ID": 429
+  "ID": 429,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "אמא מלבבת לביבות",
@@ -5146,7 +6002,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "מועדי ישראל",
-  "ID": 430
+  "ID": 430,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "לכבוד החנוכה",
@@ -5158,7 +6016,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Eastern",
   "Genre": "מועדי ישראל",
-  "ID": 431
+  "ID": 431,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מי ימלל",
@@ -5170,7 +6030,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Campfire",
   "Genre": "מועדי ישראל",
-  "ID": 432
+  "ID": 432,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "באנו חושך לגרש",
@@ -5182,7 +6044,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Eastern",
   "Genre": "מועדי ישראל",
-  "ID": 433
+  "ID": 433,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "כד קטן",
@@ -5194,7 +6058,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Eastern",
   "Genre": "מועדי ישראל",
-  "ID": 434
+  "ID": 434,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "נרותי הזעירים",
@@ -5206,7 +6072,9 @@
   "Singing Style": "Nosy, Open Mouth",
   "Strumming Style": "Hand - Gloomy",
   "Genre": "מועדי ישראל",
-  "ID": 435
+  "ID": 435,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "Abracadabra",
@@ -5218,7 +6086,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Single Down, Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 436
+  "ID": 436,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "סביבון סוב סוב סוב",
@@ -5230,7 +6100,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Hand - Umpa Umpa",
   "Genre": "מועדי ישראל",
-  "ID": 437
+  "ID": 437,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "Behind These Hazel Eyes",
@@ -5242,7 +6114,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Rock",
-  "ID": 438
+  "ID": 438,
+  "JSON": true,
+  "Language": "English"
  },
  {
   "Title": "If You Only Knew",
@@ -5254,7 +6128,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - One Way",
   "Genre": "Rock",
-  "ID": 439
+  "ID": 439,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "שיר הבריחה",
@@ -5266,7 +6142,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 440
+  "ID": 440,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "Everything",
@@ -5278,7 +6156,9 @@
   "Singing Style": "Airy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 441
+  "ID": 441,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "One Day In Your Life",
@@ -5290,7 +6170,9 @@
   "Singing Style": "Strong Chest, Airy, Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 442
+  "ID": 442,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Stone Cold",
@@ -5302,7 +6184,9 @@
   "Singing Style": "Strong Chest, Nosy, Airy",
   "Strumming Style": "Pick - Waltz",
   "Genre": "Pop, Rock, R&B\/Soul\/Disco",
-  "ID": 443
+  "ID": 443,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "תן",
@@ -5314,7 +6198,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop, Latin",
-  "ID": 444
+  "ID": 444,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "One Indescribable Instant",
@@ -5326,7 +6212,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Single Down, Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 445
+  "ID": 445,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hold My Hand",
@@ -5338,7 +6226,9 @@
   "Singing Style": "Strong Chest, Nosy",
   "Strumming Style": "Pick - Ongoing Climax, Pick - Single Down",
   "Genre": "Pop",
-  "ID": 446
+  "ID": 446,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "I Will Always Love You",
@@ -5350,7 +6240,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Pop",
-  "ID": 447
+  "ID": 447,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "Hold The Line",
@@ -5362,7 +6254,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Special",
   "Genre": "Rock",
-  "ID": 448
+  "ID": 448,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "One Of Us",
@@ -5374,7 +6268,9 @@
   "Singing Style": "Nosy, Airy",
   "Strumming Style": "Hand - Enrique, Pick - One Way, Pick - Ongoing Climax",
   "Genre": "Rock, Country",
-  "ID": 449
+  "ID": 449,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "טבריה",
@@ -5386,7 +6282,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "Rock",
-  "ID": 450
+  "ID": 450,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "All About The Base",
@@ -5398,7 +6296,9 @@
   "Singing Style": "Nosy",
   "Strumming Style": "Pick - Campfire",
   "Genre": "Pop",
-  "ID": 451
+  "ID": 451,
+  "JSON": false,
+  "Language": "English"
  },
  {
   "Title": "שלא יגמר לי הלילה",
@@ -5410,7 +6310,9 @@
   "Singing Style": "Strong Chest, Nosy, Open Mouth",
   "Strumming Style": "Pick - Campfire, Pick - Special",
   "Genre": "Oldies",
-  "ID": 452
+  "ID": 452,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "על כל אלה",
@@ -5422,7 +6324,9 @@
   "Singing Style": "Strong Chest",
   "Strumming Style": "Pick - Single Down",
   "Genre": "Oldies",
-  "ID": 453
+  "ID": 453,
+  "JSON": false,
+  "Language": "Hebrew"
  },
  {
   "Title": "מתחת לשמיים",
@@ -5434,6 +6338,43 @@
   "Singing Style": "Strong Chest, Nosy",
   "Strumming Style": "Pick - Ongoing Climax",
   "Genre": "New Age, Country",
-  "ID": 454
+  "ID": 454,
+  "JSON": false,
+  "Language": "Hebrew"
+ }
+],
+"Statistics":[
+ {
+  "No Capo": "Total",
+  "Column3": 449
+ },
+ {
+  "No Capo": "Opening",
+  "Column3": 49
+ },
+ {
+  "No Capo": "Second",
+  "Column3": 102
+ },
+ {
+  "No Capo": "Middle",
+  "Column3": 101
+ },
+ {
+  "No Capo": "Drop",
+  "Column3": 65
+ },
+ {
+  "No Capo": "After Drop",
+  "Column3": 121
+ },
+ {
+  "No Capo": "Before Last",
+  "Column3": 77
+ },
+ {
+  "No Capo": "Last",
+  "Column3": 61
  }
 ]
+}
