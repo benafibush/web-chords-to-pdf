@@ -1,0 +1,80 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus1",
+        "chorus",
+        "verse2",
+        "pre-chorus2",
+        "chorus",
+        "bridge",
+        "verse3",
+        "pre-chorus1",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "G             D     A            "},
+        {"lyrics": "Allie woke up 8 AM graduation day"},
+        {"chords": "G              D                 A  "},
+        {"lyrics": "got into a car crashed along the way"},
+        {"chords": "G                          "},
+        {"lyrics": "we arrived late to the wait"},
+        {"chords": "D                        A          "},
+        {"lyrics": "stole the urn while they looked away"},
+        {"chords": "G                          D                       A  "},
+        {"lyrics": "drove to the beach cause I knew you'd want it that way"}
+    ],
+    "pre-chorus1":[
+        {"chords": "E                                       "},
+        {"lyrics": "you were standin on the hood of your car"},
+        {"chords": "G                                 D "},
+        {"lyrics": "singing out loud when the sun came up"}
+    ],
+    "chorus": [
+        {"chords": "      G                   D               A   "},
+        {"lyrics": "And i know it wasn't right but it felt so good"},
+        {"chords": "         G                 D                   A    "},
+        {"lyrics": "and your mother didn't mind like i thought she would"},
+        {"chords": "     G             D           A   "},
+        {"lyrics": "that REM song was playin in my mind"},
+        {"chords": "E                 G                D   "},
+        {"lyrics": "3 and half minutes felt like a lifetime"}
+    ],
+    "verse2": [
+        {"chords": "                  G    D A"},
+        {"lyrics": "And you move like water   "},
+        {"chords": "                 G  D A"},
+        {"lyrics": "I could drown in you   "},
+        {"chords": "              G        D A"},
+        {"lyrics": "And I fell so deep once   "},
+        {"chords": "                     G    D A"},
+        {"lyrics": "Till you pulled me through   "},
+        {"chords": "                 "},
+        {"lyrics": "you would tell me"}
+    ],
+    "pre-chorus2":[
+        {"chords": "E                               "},
+        {"lyrics": "no one is allowed to be so proud"},
+        {"chords": "     G                                   D "},
+        {"lyrics": "They never reach out when they're giving up"}
+    ],
+    "bridge": [
+        {"chords": "D                       G     "},
+        {"lyrics": "Are you standing in the lights"},
+        {"chords": "                     D                   G    "},
+        {"lyrics": "or combing your hair again and talkin in rymes"},
+        {"chords": "D                       G     "},
+        {"lyrics": "are you standing in the lines"}
+    ],
+    "verse3": [
+        {"chords": "G                 D                    A                  "},
+        {"lyrics": "When I got home I heard the phone your parents had arrived"},
+        {"chords": "     G                     D                   A     "},
+        {"lyrics": "Your dad set his jaw, your mom just smiled and sighed"},
+        {"chords": "    G                    D               "},
+        {"lyrics": "But they left soon and I went to my room "},
+        {"chords": "A                              "},
+        {"lyrics": "played that disc you'd givin me"},
+        {"chords": "G             D                      A  "},
+        {"lyrics": "shut my eyes, swear I could hear the sea"}
+    ]
+}

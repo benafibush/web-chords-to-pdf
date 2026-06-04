@@ -1,0 +1,72 @@
+{
+    "structure": [
+        "verse1",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "verse3",
+        "pre-chorus",
+        "chorus",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "Em      C           G  D   "},
+        {"lyrics": "  I was waiting for so long"},
+        {"chords": "Em      C          G D "},
+        {"lyrics": "  For a miracle to come"},
+        {"chords": "Em     C           G       D   "},
+        {"lyrics": "  Everyone told me to be strong"},
+        {"chords": "C    C      Em           D   "},
+        {"lyrics": "Hold on and don't shed a tear"}
+    ],
+    "verse2": [
+        {"chords": "Em            C            G    D    "},
+        {"lyrics": "  Through the darkness and good times"},
+        {"chords": "Em       C           G  D   "},
+        {"lyrics": "  I knew I'd make it through"},
+        {"chords": "Em        C                 G      D  "},
+        {"lyrics": "  And the world thought I'd had it all"},
+        {"chords": "    C C   Em          D  "},
+        {"lyrics": "But I was waiting for you"}
+    ],
+    "pre-chorus": [
+        {"chords": "Em   C   G       D            Em "},
+        {"lyrics": "Hush now I see a light in the sky"},
+        {"chords": "C  G            D         "},
+        {"lyrics": "Oh it's almost blinding me"},
+        {"chords": "Em        C               G             D          A   "},
+        {"lyrics": "I can't believe I've been touched by an angel with love"}
+    ],
+    "chorus": [
+        {"chords": "        C              G         D      Em   "},
+        {"lyrics": "Let the rain come down and wash away my tears"},
+        {"chords": "       C            G            D    "},
+        {"lyrics": "Let it fill my soul and drown my fears"},
+        {"chords": "       C           G           D   Em "},
+        {"lyrics": "Let it shatter the walls for a new sun"},
+        {"chords": "  C   G   D   Em  "},
+        {"lyrics": "A new day has come"}
+    ],
+    "verse3": [
+        {"chords": "Em            C                G  D "},
+        {"lyrics": "  When it was dark now there's light"},
+        {"chords": "Em                C                  G  D"},
+        {"lyrics": "  Where there was pain now's there's joy "},
+        {"chords": "Em                C          G          D     "},
+        {"lyrics": "  Where there was weakness I found my strength"},
+        {"chords": "C   C      Em        D  "},
+        {"lyrics": "All in the eyes of a boy"}
+    ],
+    "ending": [
+        {"chords": "Em   C G         D             Em  "},
+        {"lyrics": "Hush now I see a light in your eyes"},
+        {"chords": "C          G         Em  C"},
+        {"lyrics": "All in the eyes of a boy  "},
+        {"chords": "G       D                 Em            C      G      D"},
+        {"lyrics": "I can't believe I've been touched by an angel with love"},
+        {"chords": "Em  C    G D"},
+        {"lyrics": "Hush now    "},
+        {"chords": "  Em  C   G D"},
+        {"lyrics": "A new day    "}
+    ]
+}
