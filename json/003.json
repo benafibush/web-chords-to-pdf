@@ -14,16 +14,20 @@
         {"lyrics": "It's been a hard day's night and I've been working like a dog"},
         {"chords": "            G    C     G                  F               G  "},
         {"lyrics": "It's been a hard day's night, I should be sleeping like a log"},
-        {"chords": "           C                           D                                G    C   G    "},
-        {"lyrics": "But when I get home to you, I find the things that you do, will make me feel all right"}
+        {"chords": "           C                           D                 "},
+        {"lyrics": "But when I get home to you, I find the things that you do"},
+        {"chords":"             G    C   G    "},
+        {"lyrics":"will make me feel all right"}
     ],
     "verse2": [
         {"chords": "           G    C   G              F                G         "},
         {"lyrics": "You know I work all day to get you money to buy you things and"},
         {"chords": "     G                C        G                 F            G    "},
         {"lyrics": "it's worth it just to hear you say, you're gonna give me everything"},
-        {"chords": "          C                                 D                            G    C G "},
-        {"lyrics": "So why on earth should I moan, cause when I get you alone, you know I'll feel O.K."}
+        {"chords": "          C                                 D            "},
+        {"lyrics": "So why on earth should I moan, cause when I get you alone"},
+        {"chords": "              G    C G "},
+        {"lyrics": "you know I'll feel O.K."}
     ],
     "chorus": [
         {"chords": "         Bm   Em                     Bm   "},
@@ -34,8 +38,10 @@
     "bridge": [
         {"chords": "G C G F G"},
         {"chords": "G C G F G"},
-        {"chords": "          C                                 D                            G    C G "},
-        {"lyrics": "So why on earth should I moan, cause when I get you alone, you know I'll feel O.K."}
+        {"chords": "          C                                 D            "},
+        {"lyrics": "So why on earth should I moan, cause when I get you alone"},
+        {"chords": "              G    C G "},
+        {"lyrics": "you know I'll feel O.K."}
     ],
     "ending": [
         {"chords": "C            G    C   G    "},
