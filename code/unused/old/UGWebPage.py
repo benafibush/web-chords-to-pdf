@@ -1,4 +1,4 @@
-import WebPage
+import code.unused.old.WebPage as WebPage
 from selenium.webdriver.common.by import By
 
 

@@ -1,0 +1,57 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "instrumental",
+        "verse2",
+        "chorus",
+        "instrumental",
+        "outro"
+    ],
+    "intro": [
+        {"chords": "Am   F   C   Em"}
+    ],
+    "verse1": [
+        {"chords": "Am               F                   C            Em  "},
+        {"lyrics": "  Cause you're a sky, cause you're a sky full of stars"},
+        {"chords": "Am          F           C     Em"},
+        {"lyrics": "  I'm gonna give you my heart   "},
+        {"chords": "Am               F                   C            Em  "},
+        {"lyrics": "  Cause you're a sky, cause you're a sky full of stars"},
+        {"chords": "Am          F            C   Em"},
+        {"lyrics": "  Cause you light up the path  "}
+    ],
+    "chorus": [
+        {"chords": "Am        F               C        Em  "},
+        {"lyrics": "  I don't care, go on and tear me apart"},
+        {"chords": "Am        F           C  Em"},
+        {"lyrics": "  I don't care if you do   "},
+        {"chords": "Am           F               C            Em  "},
+        {"lyrics": "  Cause in a sky, cause in a sky full of stars"},
+        {"chords": "              Am F C  Em"},
+        {"lyrics": "I think I saw yoooou    "}
+    ],
+    "instrumental": [
+        {"chords": "Am   F   C   Em  x3"}
+    ],
+    "verse2": [
+        {"chords": "Am               F                   C            Em  "},
+        {"lyrics": "  Cause you're a sky, cause you're a sky full of stars"},
+        {"chords": "Am        F           C     Em"},
+        {"lyrics": "  I wanna die in your arms, oh"},
+        {"chords": "Am              F           C            Em  "},
+        {"lyrics": "  Cause you get lighter the more it gets dark"},
+        {"chords": "Am          F           C     Em"},
+        {"lyrics": "  I'm gonna give you my heart   "}
+    ],
+    "outro": [
+        {"chords": "F                 G             Am           C   "},
+        {"lyrics": " Because you're a sky, you're a sky full of stars"},
+        {"chords": "                F G Am C"},
+        {"lyrics": "Such a heavenly vieeew  "},
+        {"chords": "                F G Am C"},
+        {"lyrics": "Such a heavenly vieeew  "},
+        {"chords": "F   G   Am    C  x3"}
+    ]
+}

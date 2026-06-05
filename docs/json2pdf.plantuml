@@ -1,0 +1,26 @@
+@startuml flow
+!theme crt-amber
+
+participant User
+participant Orchestrator
+participant DBJSONReader
+participant SongJSONReader
+participant PDFWriter
+participant FrontPage
+
+User         -> Orchestrator : DB JSON (ID, artist, title,\ncapo transpose, comment)
+User         -> Orchestrator : song JSONs directory
+Orchestrator -> DBJSONReader   : DB JSON
+DBJSONReader   -> Orchestrator : DataFrame
+Orchestrator -> SongJSONReader    : DataFrame
+SongJSONReader    -> Orchestrator : DataFrame with string column
+Orchestrator -> PDFWriter    : DataFrame
+PDFWriter    -> FrontPage    : DataFrame
+FrontPage    -> PDFWriter    : front page
+loop DataFrame
+    PDFWriter    -> Song2Page : Series
+    Song2Page    -> PDFWriter : song page
+end
+PDFWriter    -> User : PDF
+
+@enduml

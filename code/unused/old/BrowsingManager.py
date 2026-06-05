@@ -1,7 +1,7 @@
 from threading import Lock
 from selenium import webdriver
-from UGWebPage import UGWebPage
-from TAB4UWebPage import TAB4UWebPage
+from code.unused.old.UGWebPage import UGWebPage
+from code.unused.old.TAB4UWebPage import TAB4UWebPage
 from multiprocessing.pool import ThreadPool
 
 lock = Lock()

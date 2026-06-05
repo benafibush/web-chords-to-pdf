@@ -1,0 +1,90 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "intro": [
+        
+        {"chords": "Em C  G    D "},
+        {"lyrics": "     Oh ho ho"},
+        {"chords": "      Em C  G    D "},
+        {"lyrics": "Oh oh oh   Oh ho ho"}
+    ],
+    "verse1": [
+        {"chords": "Em                C        "},
+        {"lyrics": "  Seems like just yesterday"},
+        {"chords": "G            D         "},
+        {"lyrics": "  you were a part of me"},
+        {"chords": "Em           C           "},
+        {"lyrics": "  I used to stand so tall"},
+        {"chords": "  G               D   "},
+        {"lyrics": "I used to be so strong"},
+        {"chords": "Em           C             "},
+        {"lyrics": "  Your arms around me tight"},
+        {"chords": "G                        D    "},
+        {"lyrics": "  Everything, it felt so right"},
+        {"chords": "Em   C              G                D   "},
+        {"lyrics": "  Unbreakable, like noting could go wrong"}
+    ],
+    "pre-chorus": [
+        {"chords": "    C           "},
+        {"lyrics": "Now I cant sleep"},
+        {"chords": "    Em             "},
+        {"lyrics": "No, I can't breathe"},
+        {"chords": "    C              D "},
+        {"lyrics": "I'm bearly hanging on"}
+    ],
+    "chorus": [
+        {"chords": "       Em        C   "},
+        {"lyrics": "Here I am, once again"},
+        {"chords": "    G       D     "},
+        {"lyrics": "I'm torn to pieces"},
+        {"chords": "        Em              C   "},
+        {"lyrics": "Can't deny it, can't pretend"},
+        {"chords": "      G                   D  "},
+        {"lyrics": "Just thought you were the one"},
+        {"chords": "       Em         C   "},
+        {"lyrics": "Broken up, deep inside"},
+        {"chords": "    Am               Em              C  "},
+        {"lyrics": "But you won't get to see the tears I cry"},
+        {"chords": "  G                D   "},
+        {"lyrics": "Behind these hazel eyes"}
+    ],
+    "verse2": [
+        {"chords": "Em           C         "},
+        {"lyrics": "  I told you everything"},
+        {"chords": "G               D         "},
+        {"lyrics": "  Opened up and let you in"},
+        {"chords": "Em            C           "},
+        {"lyrics": "  You made me feel alright"},
+        {"chords": "    G          D   "},
+        {"lyrics": "For once in my life"},
+        {"chords": "Em               C         "},
+        {"lyrics": "  Now all that's left of me"},
+        {"chords": "G              D         "},
+        {"lyrics": "  Is what I pretend to be"},
+        {"chords": "Em     C              G           D   "},
+        {"lyrics": "  So together, but so broken up inside"}
+    ],
+    "bridge": [
+        {"chords": "Am      C               Em "},
+        {"lyrics": "Swallow me then spit me out"},
+        {"chords": "    Am           D       Em  "},
+        {"lyrics": "For hating you I blame myself"},
+        {"chords": "Am     C                Em "},
+        {"lyrics": "Seeing you, it kills me now"},
+        {"chords": "      C                           D   "},
+        {"lyrics": "No, I don't cry on the outside anymore"},
+        {"chords": "Em C G D"},
+        {"lyrics": "        "},
+        {"chords": "   Em C D"},
+        {"lyrics": "Anymore  "}
+    ]
+}

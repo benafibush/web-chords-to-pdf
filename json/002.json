@@ -1,0 +1,74 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus",
+        "chorus",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "Em Em7 C G"}
+    ],
+    "verse1": [
+        {"chords": "  Em                   Em7  "},
+        {"lyrics": "Simona, you're getting older"},
+        {"chords": "               C   "},
+        {"lyrics": "your journey's been"},
+        {"chords": "                G    D"},
+        {"lyrics": "etched on your skin   "},
+        {"chords": "  Em               Em7       "},
+        {"lyrics": "Simona, wish I had known that"},
+        {"chords": "                C   "},
+        {"lyrics": "what seems so strong"},
+        {"chords": "             D   B7"},
+        {"lyrics": "has been and gone  "}
+    ],
+    "chorus": [
+        {"chords": "        Em                              "},
+        {"lyrics": "I would call you up every Saturday night"},
+        {"chords": "         Em7                                 "},
+        {"lyrics": "And we'd both stay out 'til the morning light"},
+        {"chords": "         C                  G   D"},
+        {"lyrics": "And we sang, \"Here we go again\""},
+        {"chords": "              Em                         "},
+        {"lyrics": "And though time goes by, I will always be"},
+        {"chords": "     Em7                 C"},
+        {"lyrics": "In a club with you In 1973"},
+        {"chords": "                       G   D"},
+        {"lyrics": "Singing \"Here we go again\""}
+    ],
+    "verse2": [
+        {"chords": "  Em                Em7 "},
+        {"lyrics": "Simona, Wish I was sober"},
+        {"chords": "                 C        "},
+        {"lyrics": "So I could see clearly now"},
+        {"chords": "             G    D"},
+        {"lyrics": "The rain has gone  "},
+        {"chords": "  Em                 Em7 "},
+        {"lyrics": "Simona, I guess it's over"},
+        {"chords": "             C          "},
+        {"lyrics": "My memory plays our tune"},
+        {"chords": "             D    B7"},
+        {"lyrics": "The same old song   "}
+    ],
+    "bridge": [
+        {"chords": "C    Am   G    D   "},
+        {"lyrics": "Ahhh ahhh ahhh ahhh"},
+        {"chords": "C    Am   D    B7"},
+        {"lyrics": "Ahhh ahhh ahhh   "}
+    ],
+    "ending": [
+        {"chords": "           Cmaj7       "},
+        {"lyrics": "And though time goes by"},
+        {"chords": "                "},
+        {"lyrics": "I will always be"},
+        {"chords": "     D            "},
+        {"lyrics": "In a club with you"},
+        {"chords": "   Dsus4 D  G"},
+        {"lyrics": "In 19-   7- 3"}
+    ]
+}

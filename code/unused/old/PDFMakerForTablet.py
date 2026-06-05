@@ -1,5 +1,5 @@
-from PDFMaker import PDFMaker
-from PDFConfig import PDFConfig
+from code.unused.old.PDFMaker import PDFMaker
+from code.unused.old.PDFConfig import PDFConfig
 import re
 
 

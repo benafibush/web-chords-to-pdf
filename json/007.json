@@ -1,0 +1,70 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "bridge",
+        "verse1",
+        "pre-chorus",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "C                 D   "},
+        {"lyrics": "Making my way downtown"},
+        {"chords": "        G             C   "},
+        {"lyrics": "Walking fast, faces passed"},
+        {"chords": "                   C D G C D G"},
+        {"lyrics": "And I'm home bound            "},
+        {"chords": " C               D   "},
+        {"lyrics": "Staring blankly ahead"},
+        {"chords": "               G              D  "},
+        {"lyrics": "Just making my way, making my way"},
+        {"chords": "            C D G C D G"},
+        {"lyrics": "Through the crowd      "}
+    ],
+    "pre-chorus": [
+        {"chords": "C G D               "},
+        {"lyrics": "      And I need you"},
+        {"chords": "C G D               "},
+        {"lyrics": "      And I miss you"},
+        {"chords": "C G D           C  D  "},
+        {"lyrics": "      And now I wonder"}
+    ],
+    "chorus": [
+        {"chords": "   C       D      G      C  "},
+        {"lyrics": "If I could fall into the sky"},
+        {"chords": "   C         D          G       C "},
+        {"lyrics": "Do you think time would pass me by"},
+        {"chords": "       C        D          G        C    "},
+        {"lyrics": "'Cause you know I'd walk a thousand miles"},
+        {"chords": "           Em   C   D           C D G C D G"},
+        {"lyrics": "If I could just see you, tonight           "}
+    ],
+    "verse2": [
+        {"chords": "     C                 D    "},
+        {"lyrics": "it's always times like these"},
+        {"chords": "                G                "},
+        {"lyrics": "When I think of you, and I wonder"},
+        {"chords": "   C        C     D  G  C D G"},
+        {"lyrics": "If you ever think of me      "},
+        {"chords": "       C               D    "},
+        {"lyrics": "'Cause everything's so wrong"},
+        {"chords": "              G   "},
+        {"lyrics": "And I don't belong"},
+        {"chords": "       D                C D G    C D G"},
+        {"lyrics": "living in your precious memories      "}
+    ],
+    "bridge": [
+        {"chords": "    Em D G             Am          "},
+        {"lyrics": "And I, I don't want to let you know"},
+        {"chords": "Em D G             Am    "},
+        {"lyrics": "I, I drown in your memory"},
+        {"chords": "Em D G             Am         "},
+        {"lyrics": "I, I don't want to let this go"},
+        {"chords": "Em D D"},
+        {"lyrics": "I, I don't"}
+    ]
+}
