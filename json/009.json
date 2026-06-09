@@ -7,9 +7,9 @@
         "verse3",
         "chorus",
         "verse4",
-        "Interlude",
+        "interlude",
         "ending",
-        "Interlude"
+        "interlude"
     ],
     "intro" :[
         {"chords": "Dm  G  Am  Am"}

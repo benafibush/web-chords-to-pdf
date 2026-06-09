@@ -81,7 +81,7 @@ class PDFWriter:
             artist = str(row.get("Artist", ""))
             text += f"{artist} - {title}\n"
         text = "\n".join(sorted(text.splitlines()))
-        text = "\n".join([f"{i+1}. {line}" for i, line in enumerate(text.splitlines())])
+        text = "\n".join([f"{i+1:03d}. {line}" for i, line in enumerate(text.splitlines())])
         return text
     
     def prepare_text_for_song(self, row: pd.Series) -> str:
@@ -94,7 +94,7 @@ class PDFWriter:
         self.canvas.setPageSize((self.page_width, self.page_height))
 
     def set_page_size_song(self, text: str) -> None:
-        num_of_lines = len(text.splitlines()) + 3
+        num_of_lines = len(text.splitlines()) + 4
         self.page_height = self.top_margin + self.bottom_margin + num_of_lines * self.font_size * self.line_leading
         self.canvas.setPageSize((self.page_width, self.page_height))
 
@@ -118,10 +118,11 @@ class PDFWriter:
 
     def print_song_header_LTR(self, row: pd.Series) -> None:
         line1 = f"{row.get('Artist', '')} - {row.get('Title', '')}"
-        line2 = f"Capo: {row.get('Capo Transpose', '')} | Sing: {row.get('Singing Style', '')} | Strum: {row.get('Strumming Style', '')}"
-        line3 = f"Genre: {row.get('Genre', '')} | Order: {row.get('Order', '')}"
+        line2 = f"Capo Transpose: {row.get('Capo transpose', '')} | Strumming style: {row.get('Strumming Style', '')}"
+        line3 = f"Singing style: {row.get('Singing Style', '')}"
+        line4 = f"Genre: {row.get('Genre', '')} | Order: {row.get('Order', '')}"
         y_position = self.page_height - self.top_margin
-        for line in [line1, line2, line3]:
+        for line in [line1, line2, line3, line4]:
             text_width = self.canvas.stringWidth(line, self.font_name, self.font_size)
             x_position = (self.page_width - text_width) / 2
             self.canvas.drawString(x_position, y_position, line)
@@ -129,10 +130,11 @@ class PDFWriter:
 
     def print_song_header_RTL(self, row: pd.Series) -> None:
         line1 = f"{row.get('Artist', '')} - {row.get('Title', '')}"
-        line2 = f"Capo: {row.get('Capo Transpose', '')} | Sing: {row.get('Singing Style', '')} | Strum: {row.get('Strumming Style', '')}"
-        line3 = f"Genre: {row.get('Genre', '')} | Order: {row.get('Order', '')}"
+        line2 = f"Capo Transpose: {row.get('Capo transpose', '')} | Strumming style: {row.get('Strumming Style', '')}"
+        line3 = f"Singing style: {row.get('Singing Style', '')}"
+        line4 = f"Genre: {row.get('Genre', '')} | Order: {row.get('Order', '')}"
         y_position = self.page_height - self.top_margin
-        for line in [line1[::-1], line2, line3]:
+        for line in [line1[::-1], line2, line3, line4]:
             text_width = self.canvas.stringWidth(line, self.font_name, self.font_size)
             x_position = (self.page_width - text_width) / 2
             self.canvas.drawString(x_position, y_position, line)
@@ -140,7 +142,7 @@ class PDFWriter:
 
     def print_song_text_LTR(self, text: str) -> None:
         line_height = self.font_size * self.line_leading
-        current_y = self.page_height - self.top_margin - 3 * line_height
+        current_y = self.page_height - self.top_margin - 4 * line_height
 
         for line in text.splitlines():
             self.canvas.drawString(self.left_margin, current_y, line)
@@ -148,7 +150,7 @@ class PDFWriter:
 
     def print_song_text_RTL(self, text: str) -> None:
         line_height = self.font_size * self.line_leading
-        current_y = self.page_height - self.top_margin - 3 * line_height
+        current_y = self.page_height - self.top_margin - 4 * line_height
 
         for line in text.splitlines():
             if any('א' <= char <= 'ת' for char in line):
