@@ -1,0 +1,97 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus",
+        "verse4",
+        "Interlude",
+        "ending",
+        "Interlude"
+    ],
+    "intro" :[
+        {"chords": "Dm  G  Am  Am"}
+    ],
+    "verse1": [
+        {"chords": "Dm                G             Am "},
+        {"lyrics": "  Turn your magic on, Umi she'd say"},
+        {"chords": "                                Dm"},
+        {"lyrics": "Everything you want's a dream away"},
+        {"chords": "       G              Am "},
+        {"lyrics": "We are legends, every day"},
+        {"chords": "                       "},
+        {"lyrics": "That's what she told me"}
+    ],
+    "verse2": [
+        {"chords": "Dm                G               Am "},
+        {"lyrics": "  Turn your magic on, to me she'd say"},
+        {"chords": "                               Dm"},
+        {"lyrics": "Everything you want to dream away"},
+        {"chords": "           G                    Am    "},
+        {"lyrics": "Under this pressure, under this weight"},
+        {"chords": "               "},
+        {"lyrics": "We are diamonds"}
+    ],
+    "chorus": [
+        {"chords": "          Dm           "},
+        {"lyrics": "I feel my heart beating"},
+        {"chords": "G          Am                      "},
+        {"lyrics": " I feel my heart underneath my skin"},
+        {"chords": "          Dm           "},
+        {"lyrics": "I feel my heart beating"},
+        {"chords": "G                Am  "},
+        {"lyrics": " Oh, you make me feel"},
+        {"chords": "                Dm  "},
+        {"lyrics": "Like I'm alive again"},
+        {"chords": "G Am        Dm  "},
+        {"lyrics": "     Alive again"},
+        {"chords": "G                Am                   Dm  "},
+        {"lyrics": "  Oh you make me feel like I'm alive again"}
+    ],
+    "verse3": [
+        {"chords": "                G               Am "},
+        {"lyrics": "Said I can't go on, not in this way"},
+        {"chords": "                                   Dm"},
+        {"lyrics": "I'm a dream that died by light of day"},
+        {"chords": "              G                Am "},
+        {"lyrics": "Gonna hold up half the sky and say"},
+        {"chords": "             "},
+        {"lyrics": "Only I own me"}
+    ],
+    "verse4": [
+        {"chords": "Dm                G               Am "},
+        {"lyrics": "  Turn your magic on, to me she'd say"},
+        {"chords": "                               Dm"},
+        {"lyrics": "Everything you want to dream away"},
+        {"chords": "           G                    Am    "},
+        {"lyrics": "Under this pressure, under this weight"},
+        {"chords": "                            "},
+        {"lyrics": "We are diamonds taking shape"},
+        {"chords": "                            "},
+        {"lyrics": "We are diamonds taking shape"}
+    ],
+    "interlude": [
+        {"chords": "   Dm     G      Am     Am "},
+        {"lyrics": "woohoo woohoo woohoo woohoo"}
+    ],
+    "ending": [
+        {"chords": "         Dm            G   "},
+        {"lyrics": "If we've only got this life"},
+        {"chords": "       Am                "},
+        {"lyrics": "This adventure, oh then I"},
+        {"chords": "             Dm            G   "},
+        {"lyrics": "And if we've only got this life"},
+        {"chords": "           Am     "},
+        {"lyrics": "You get me through"},
+        {"chords": "             Dm            G   "},
+        {"lyrics": "and if we've only got this life"},
+        {"chords": "            Am                "},
+        {"lyrics": "Then this adventure, oh then I"},
+        {"chords": "                      Dm        G         Am "},
+        {"lyrics": "Want to share it with you, with you, with you"},
+        {"chords": "                  "},
+        {"lyrics": "I said, oh, say oh"}
+    ]
+}

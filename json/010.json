@@ -1,0 +1,90 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "C Em D Em D C C Em D"}
+    ],
+    "verse1": [
+        {"chords": "C         Em        D   "},
+        {"lyrics": " Have you lost your way?"},
+        {"chords": "D             C             Em               D   "},
+        {"lyrics": "Livin' in the shadow of the message that you made"},
+        {"chords": "C    Em    D   "},
+        {"lyrics": " And so it goes"},
+        {"chords": "D            C                Em            D   "},
+        {"lyrics": "Everything inside your circle starts to overflow"}
+    ],
+    "pre-chorus": [
+        {"chords": "Am       Em               D  "},
+        {"lyrics": "  Take a step before you leap"},
+        {"chords": "         D               Am  "},
+        {"lyrics": "Into the colors that you seek"},
+        {"chords": "              Em             D  "},
+        {"lyrics": "You give back what you give away"},
+        {"chords": "                               "},
+        {"lyrics": "So don't look back on yesterday"}
+    ],
+    "chorus": [
+        {"chords": "C                "},
+        {"lyrics": " Wanna scream out"},
+        {"chords": "G              "},
+        {"lyrics": " No more hiding"},
+        {"chords": "D           Em      D        C   "},
+        {"lyrics": " Don't be afraid of what's inside"},
+        {"chords": "             G                 "},
+        {"lyrics": "Wanna tell ya you'll be alright"},
+        {"chords": "D      Em   D   "},
+        {"lyrics": "In the Aftermath"},
+        {"chords": "C                G             "},
+        {"lyrics": " Anytime anybody pulls you down"},
+        {"chords": "D                Em          D     C    "},
+        {"lyrics": " Anytime anybody says you're not allowed"},
+        {"chords": "             G             D   "},
+        {"lyrics": "Just remember you are not alone"},
+        {"chords": "Em     D    C G D"},
+        {"lyrics": "In the Aftermaaath "}
+    ],
+    "verse2": [
+        {"chords": "C    Em       D     "},
+        {"lyrics": " You feel the weight"},
+        {"chords": "                  C                 Em              D  "},
+        {"lyrics": "Of lies and contradictions that you live with every day"},
+        {"chords": "C     Em      D   "},
+        {"lyrics": " It's not too late"},
+        {"chords": "                    C           Em                 D   "},
+        {"lyrics": "Think of what could be if you rewrite the role you play"}
+    ],
+    "bridge": [
+        {"chords": "Am                     Em                     "},
+        {"lyrics": "  Before you break you have to shed your armor"},
+        {"chords": "D                                     "},
+        {"lyrics": " Take a trip and fall into the glitter"},
+        {"chords": "Am                Em                 D  "},
+        {"lyrics": "  Tell a stranger that they're beautiful"},
+        {"chords": "                   Am Em   D  "},
+        {"lyrics": "So all you feel is loove, love"},
+        {"chords": "                Am Em   D  "},
+        {"lyrics": "All you feel is loove, love"}
+    ],
+    "ending": [
+        {"chords": "C   G              D   "},
+        {"lyrics": "Ohhhh you are not alone"},
+        {"chords": "Em D C G             D    Em D"},
+        {"lyrics": "        You are not alone     "},
+        {"chords": "C                G                D Em D"},
+        {"lyrics": " Wanna scream out, No more hiding       "},
+        {"chords": "C                G               D"},
+        {"lyrics": " Wanna scream out, No more hiding "}
+    ]
+}
+

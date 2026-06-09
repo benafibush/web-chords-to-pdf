@@ -1,0 +1,61 @@
+{
+    "structure": [
+        "verse1",
+        "verse2",
+        "interlude",
+        "verse3",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "                          Am     Em G Am"},
+        {"lyrics": "Ain't no sunshine when she's gone       "},
+        {"chords": "                          Am Em G Am"},
+        {"lyrics": "It's not warm when she's away       "},
+        {"chords": "                              Em                             Dm  "},
+        {"lyrics": "Ain't no sunshine when she's gone, and she's always gone too long"},
+        {"chords": "                  Am Em G Am"},
+        {"lyrics": "Anytime she goes away       "}
+    ],
+    "verse2": [
+        {"chords": "                          Am     Em G Am"},
+        {"lyrics": "Wonder this time where she's gone       "},
+        {"chords": "                        Am  Em G Am"},
+        {"lyrics": "Wonder if she's gone to stay       "},
+        {"chords": "                              Em                                Dm  "},
+        {"lyrics": "Ain't no sunshine when she's gone, and this house just ain't no home"},
+        {"chords": "                  Am Em G Am"},
+        {"lyrics": "Anytime she goes away       "}
+    ],
+    "interlude": [
+        {"chords": "N.C.                                      "},
+        {"lyrics": "And I know, I know, I know, I know, I know"},
+        {"chords": "N.C.                                                  "},
+        {"lyrics": "I know, I know, I know, I know, I know, I know, I know"},
+        {"chords": "N.C.                                          "},
+        {"lyrics": "I know, I know, I know, I know, I know, I know"},
+        {"chords": "N.C.                                                          "},
+        {"lyrics": "I know, I know, I know, I know, I know, I know, I know, I know"},
+        {"chords": "N.C.                                       "},
+        {"lyrics": "Hey, I ought to leave the young thing alone"},
+        {"chords": "                              Am     Em G Am"},
+        {"lyrics": "But ain't no sunshine when she's gone       "}
+    ],
+    "verse3": [
+        {"chords": "                          Am     Em G Am"},
+        {"lyrics": "Ain't no sunshine when she's gone       "},
+        {"chords": "                    Am Em G Am"},
+        {"lyrics": "Only darkness every day       "},
+        {"chords": "                              Em                                Dm  "},
+        {"lyrics": "Ain't no sunshine when she's gone, and this house just ain't no home"},
+        {"chords": "                  Am Em G Am"},
+        {"lyrics": "Anytime she goes away       "}
+    ],
+    "ending": [
+        {"chords": "                  Am Em G Am"},
+        {"lyrics": "Anytime she goes away       "},
+        {"chords": "                  Am Em G Am"},
+        {"lyrics": "Anytime she goes away       "},
+        {"chords": "                  Am Em G Am"},
+        {"lyrics": "Anytime she goes away       "}
+    ]
+}
