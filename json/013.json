@@ -1,0 +1,86 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "verse2",
+        "pre-chorus1",
+        "chorus",
+        "verse3",
+        "pre-chorus2",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "A E G D"}
+    ],
+    "verse1": [
+        {"chords": "A                          C#m "},
+        {"lyrics": "Looking at the pages of my life"},
+        {"chords": "      G                      "},
+        {"lyrics": "Faded: memories of me and you"},
+        {"chords": "D                                 "},
+        {"lyrics": " Mistakes you know I've made a few"}
+    ],
+    "verse2": [
+        {"chords": "  A                                 C#m     "},
+        {"lyrics": "I took some shots and fell from time to time"},
+        {"chords": "     G"},
+        {"lyrics": "Baby, you were there to pull me through"},
+        {"chords": "      D                               F#m"},
+        {"lyrics": "We've been around the block a time or two"}
+    ],
+    "pre-chorus1": [
+        {"chords": "    D                   E   "},
+        {"lyrics": "I'm gonna lay it on the line"},
+        {"chords": "C#m                        F#m"},
+        {"lyrics": "Ask me how we've come this far"},
+        {"chords": "    D                      E   "},
+        {"lyrics": "The answer's written in my eyes"}
+    ],
+    "chorus": [
+        {"chords": "             A                        C#m          "},
+        {"lyrics": "Every time I look at you, baby, I see something new"},
+        {"chords": "     D                               Dm                    "},
+        {"lyrics": "That takes me higher than before and makes me want you more"},
+        {"chords": "              A                               C#m      F#m "},
+        {"lyrics": "I don't wanna sleep tonight, dreamin's just a waste of time"},
+        {"chords": "       G                                  E "},
+        {"lyrics": "When I look at what my life's been comin' to"},
+        {"chords": "    D                   "},
+        {"lyrics": "I'm all about lovin' you"}
+    ],
+    "verse3": [
+        {"chords": "     A                                            C#m "},
+        {"lyrics": "I've lived, I've loved, I've lost, I've paid some dues"},
+        {"chords": "     G                                 "},
+        {"lyrics": "baby, We've been to hell and back again"},
+        {"chords": "D                                    F#m   "},
+        {"lyrics": "Through it all you're always my best friend"}
+    ],
+    "pre-chorus2": [
+        {"chords": "    D                      E  "},
+        {"lyrics": "For all the words I didn't say"},
+        {"chords": "    C#m                     F#m"},
+        {"lyrics": "and all the things I didn't do "},
+        {"chords": "  D                   E     "},
+        {"lyrics": "Tonight I'm gonna find a way"}
+    ],
+    "bridge": [
+        {"chords": "Bm        A                D  "},
+        {"lyrics": "  You can take this world away"},
+        {"chords": "                    A "},
+        {"lyrics": "You're everything I am"},
+        {"chords": "Bm              A             D   "},
+        {"lyrics": "  Just read the lines upon my face"},
+        {"chords": "    E"},
+        {"lyrics": "I'm all about lovin' you"},
+        {"chords": "A E    G                             D                   "},
+        {"lyrics": "   I'm all about, I'm all about, I'm all about loving you"}
+    ],
+    "ending": [
+        {"lyrics": "Bm A D                          A"},
+        {"chords": "       I'm all about lovin' you  "}
+    ]
+}

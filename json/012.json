@@ -1,0 +1,49 @@
+{
+    "structure": [
+        "chorus",
+        "verse1",
+        "chorus",
+        "post-chorus",
+        "verse2",
+        "chorus",
+        "post-chorus"
+    ],
+    "chorus": [
+        {"chords": "                    Am         Em"},
+        {"lyrics": "I'm feelin' like an alien, baby  "},
+        {"chords": "G                   Dm "},
+        {"lyrics": "Ridin' around the world"},
+        {"chords": "                   Am           Em"},
+        {"lyrics": "I'm feeling like a stranger lately"},
+        {"chords": " G                    Dm"},
+        {"lyrics": "‘Round and around we go "}
+    ],
+    "verse1": [
+        {"chords": "            Am                     Em"},
+        {"lyrics": "Where did I come from? Where do I go?"},
+        {"chords": "    G                 Dm "},
+        {"lyrics": "I'm so far away from home"},
+        {"chords": "          Am                   Em "},
+        {"lyrics": "What am I goin' for? I cannot know"},
+        {"chords": "G                  Dm"},
+        {"lyrics": "What I'm fightin' for"}
+    ],
+    "post-chorus": [
+        {"chords": "               Am Em G Dm Am Em"},
+        {"lyrics": "(And around we go)             "},
+        {"chords": " G                   Dm"},
+        {"lyrics": "‘Round and around we go"},
+        {"chords": "               Am"},
+        {"lyrics": "(And around we go)"}
+    ],
+    "verse2": [
+        {"chords": "                Em"},
+        {"lyrics": "So where can I go?"},
+        {"chords": "  G                   Dm "},
+        {"lyrics": "A million miles from home"},
+        {"chords": "          Am                   Em "},
+        {"lyrics": "What am I goin' for? I cannot know"},
+        {"chords": "G                  Dm"},
+        {"lyrics": "What I'm fightin' for"}
+    ]
+}
