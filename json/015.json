@@ -1,0 +1,60 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "interlude",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "G"}
+    ],
+    "verse1": [
+        {"chords": "G                          D                      "},
+        {"lyrics": "  Every time our eyes meet, this feeling inside me"},
+        {"chords": "Em                          C   "},
+        {"lyrics": "  Is almost more than I can take"},
+        {"chords": "G                         D                               "},
+        {"lyrics": "  Baby, when you touch me, I can feel how much you love me"},
+        {"chords": "Em                      C  "},
+        {"lyrics": "  And it just blows me away"},
+        {"chords": "Bb                              F                 "},
+        {"lyrics": "  I've never been this close to anyone or anything"},
+        {"chords": "Gm                         Eb                    "},
+        {"lyrics": "  I can hear your thoughts, I can see your dreams"}
+    ],
+    "chorus": [
+        {"chords": "C                                    "},
+        {"lyrics": "  I don't know how you do what you do"},
+        {"chords": "G                     Am                          F    "},
+        {"lyrics": "  I'm so in love with you, it just keeps getting better"},
+        {"chords": "C                                  G                Am "},
+        {"lyrics": "  I wanna spend the rest of my life with you by my side"},
+        {"chords": "            F   "},
+        {"lyrics": "Forever and ever"},
+        {"chords": "Eb                              "},
+        {"lyrics": "  Every little thing that you do"},
+        {"chords": "F                      G "},
+        {"lyrics": "  Baby, I'm amazed by you"}
+    ],
+    "verse2": [
+        {"chords": "G                        D                      "},
+        {"lyrics": "  The smell of your skin, the taste of your kiss"},
+        {"chords": "Em                           C   "},
+        {"lyrics": "  The way you whisper in the dark"},
+        {"chords": "G                         D                    "},
+        {"lyrics": "  Your hair all around me, baby you surround me"},
+        {"chords": "Em                            C    "},
+        {"lyrics": "  You touch every place in my heart"},
+        {"chords": "Bb                      F                    "},
+        {"lyrics": "  Oh, it feels like the first time every time"},
+        {"chords": "Gm                             Eb              "},
+        {"lyrics": "  I wanna spend the whole night in your eyes..."}
+    ],
+    "interlude": [
+        {"chords": "Bb  C  G"},
+        {"chords": "Bb  F  C"}
+    ]
+}

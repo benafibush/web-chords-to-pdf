@@ -1,0 +1,73 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "interlude",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "              E"},
+        {"lyrics": "I sit and wait "},
+        {"chords": "                     A            C#m B"},
+        {"lyrics": "Does an angel contemplate my fate      "},
+        {"chords": "              E "},
+        {"lyrics": "And do they know"},
+        {"chords": "                      "},
+        {"lyrics": "The places where we go"},
+        {"chords": "                     A  C#m B"},
+        {"lyrics": "When we're grey and old      "},
+        {"chords": "               F#m "},
+        {"lyrics": "'Cos I've been told"},
+        {"chords": "         A                C#m         A"},
+        {"lyrics": "That salvation lets their wings unfold "},
+        {"chords": "            D              "},
+        {"lyrics": "So when I'm lying in my bed"},
+        {"chords": "         A                      "},
+        {"lyrics": "Thoughts running through my head"},
+        {"chords": "      E                     D"},
+        {"lyrics": "And I feel that love is dead "},
+        {"chords": "           A           E "},
+        {"lyrics": "I'm loving angels instead"}
+    ],
+    "chorus": [
+        {"chords": "               B                     C#m   "},
+        {"lyrics": "And through it all she offers me protection"},
+        {"chords": "                    A      "},
+        {"lyrics": "A lot of love and affection"},
+        {"chords": "                     E    "},
+        {"lyrics": "Whether I'm right or wrong"},
+        {"chords": "                   B  "},
+        {"lyrics": "And down the waterfall"},
+        {"chords": "                 C#m   "},
+        {"lyrics": "Wherever it may take me"},
+        {"chords": "                       A       "},
+        {"lyrics": "I know that life won't break me"},
+        {"chords": "                E               F#m     D"},
+        {"lyrics": "When I come to call she won't forsake me "},
+        {"chords": "           A          E  "},
+        {"lyrics": "I'm loving angels instead"}
+    ],
+    "verse2": [
+        {"chords": "                     E"},
+        {"lyrics": "When I'm feeling weak "},
+        {"chords": "                          A            C#m B"},
+        {"lyrics": "And my pain walks down a one way street     "},
+        {"chords": "         E  "},
+        {"lyrics": "I look above"},
+        {"chords": "                            A              C#m  B"},
+        {"lyrics": "And I know I'll always be blessed with love      "},
+        {"chords": "    D                   "},
+        {"lyrics": "And as the feeling grows"},
+        {"chords": "             A                "},
+        {"lyrics": "She breathes flesh to my bones"},
+        {"chords": "    E                D"},
+        {"lyrics": "And when love is dead "},
+        {"chords": "           A          E  "},
+        {"lyrics": "I'm loving angels instead"}
+    ],
+    "interlude": [
+        {"chords": "Bm  A  E  E  x4"}
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "post-chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending",
+        "post-chorus"
+    ],
+    "intro": [
+        {"chords": "A  A  C  D x2"}
+    ],
+    "verse1": [
+        {"chords": "A    C          D     A       C       D    A           "},
+        {"lyrics": "Now, don't just walk away, pretending everything's okay"},
+        {"chords": "    C         D         A  C D"},
+        {"lyrics": "And you don't care about me   "},
+        {"chords": "    A C         D         A       C        D   "},
+        {"lyrics": "And I know it's just no use, when all your lies"},
+        {"chords": "     A                 C  G     D                 "},
+        {"lyrics": "Become your truths and I don't care yeah yeah yeah"}
+    ],
+    "chorus": [
+        {"chords": "          Am             C   G    Dm                  Am        "},
+        {"lyrics": "Could you look me in the eye, and tell me that you're happy now?"},
+        {"chords": "C            G  Dm"},
+        {"lyrics": "Ooh ooh ooh ooh   "},
+        {"chords": "          Am            C        G            Dm    "},
+        {"lyrics": "Would you tell it to my face, or have I been erased,"},
+        {"chords": "         Am        C G  Dm"},
+        {"lyrics": "Are you happy now?        "}
+    ],
+    "post-chorus": [
+        {"chords": "                  "},
+        {"lyrics": "Are you happy now?"}
+    ],
+    "verse2": [
+        {"chords": "A        C         D       A        C         D      A          "},
+        {"lyrics": "You took all there was to take, and left me with an empty plate,"},
+        {"chords": "    C          D         A     C  D"},
+        {"lyrics": "And you don't care about it, yeah  "},
+        {"chords": "    A   C      D       A         C       D        A            "},
+        {"lyrics": "And I'm giving up this game, and leaving you with all the blame"},
+        {"chords": "       C  G     D                  "},
+        {"lyrics": "'Cause I don't care, yeah yeah yeah"}
+    ],
+    "bridge": [
+        {"chords": "         C        D           C              Em    D"},
+        {"lyrics": "Are you happy now?   Are you happy now? Yeah-Yeah  Yeah"},
+        {"chords": "C                                      "},
+        {"lyrics": "Do you really have everything you want?"},
+        {"chords": "D                                         "},
+        {"lyrics": "You can never give something you ain't got"},
+        {"chords": "C                           Em    D     C  "},
+        {"lyrics": "You can't run away from yourself, yeah yeah"}
+    ],
+    "ending": [
+        {"chords": "Am   C      G  Dm"},
+        {"lyrics": "Yeah yeah, yeah  "},
+        {"chords": "          Am             C   G Dm"},
+        {"lyrics": "Would you look me in the eye?    "},
+        {"chords": "          Am             C   G Dm"},
+        {"lyrics": "Don't you look me in the eye?    "},
+        {"chords": "         Am             C         G            Dm    "},
+        {"lyrics": "I've had all that I can take. I'm not about to break,"},
+        {"chords": "           Am         C   G Dm"},
+        {"lyrics": "'cause I'm happy now. Ooh     "}
+    ]
+}

@@ -118,7 +118,7 @@ class PDFWriter:
 
     def print_song_header_LTR(self, row: pd.Series) -> None:
         line1 = f"{row.get('Artist', '')} - {row.get('Title', '')}"
-        line2 = f"Capo Transpose: {row.get('Capo transpose', '')} | Strumming style: {row.get('Strumming Style', '')}"
+        line2 = f"Capo transpose: {row.get('Capo Transpose', '')} | Strumming style: {row.get('Strumming Style', '')}"
         line3 = f"Singing style: {row.get('Singing Style', '')}"
         line4 = f"Genre: {row.get('Genre', '')} | Order: {row.get('Order', '')}"
         y_position = self.page_height - self.top_margin
@@ -130,7 +130,7 @@ class PDFWriter:
 
     def print_song_header_RTL(self, row: pd.Series) -> None:
         line1 = f"{row.get('Artist', '')} - {row.get('Title', '')}"
-        line2 = f"Capo Transpose: {row.get('Capo transpose', '')} | Strumming style: {row.get('Strumming Style', '')}"
+        line2 = f"Capo transpose: {row.get('Capo Transpose', '')} | Strumming style: {row.get('Strumming Style', '')}"
         line3 = f"Singing style: {row.get('Singing Style', '')}"
         line4 = f"Genre: {row.get('Genre', '')} | Order: {row.get('Order', '')}"
         y_position = self.page_height - self.top_margin

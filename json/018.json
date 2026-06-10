@@ -1,0 +1,100 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "interlude",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "Am             "},
+        {"lyrics": "  Oh baby, baby"},
+        {"chords": "     E                 C  "},
+        {"lyrics": "How was I supposed to know"},
+        {"chords": "     Dm               E         "},
+        {"lyrics": "That something wasn't right here"},
+        {"chords": "Am             "},
+        {"lyrics": "  Oh baby, baby"},
+        {"chords": "  E                      C "},
+        {"lyrics": "I shouldn't have let you go"},
+        {"chords": "    Dm                E          "},
+        {"lyrics": "And now you're out of sight, yeah"}
+    ],
+    "pre-chorus": [
+        {"chords": "Am                       E    "},
+        {"lyrics": "Show me, how you want it to be"},
+        {"chords": "         C   "},
+        {"lyrics": "Tell me, baby"},
+        {"chords": "                 Dm        E          "},
+        {"lyrics": "'Cause I need to know now, oh, because"}
+    ],
+    "chorus": [
+        {"chords": "Am                 E                 "},
+        {"lyrics": "  My loneliness is killing me (and I)"},
+        {"chords": "C                   Dm           E               "},
+        {"lyrics": "  I must confess, I still believe (still believe)"},
+        {"chords": "Am                             E      "},
+        {"lyrics": "  When I'm not with you I lose my mind"},
+        {"chords": "F       G  C  "},
+        {"lyrics": "Give me a sign"},
+        {"chords": "Dm           E            "},
+        {"lyrics": "Hit me baby, one more time"}
+    ],
+    "verse2": [
+        {"chords": "Am             "},
+        {"lyrics": "  Oh baby, baby"},
+        {"chords": "    E                    C "},
+        {"lyrics": "The reason I breathe is you"},
+        {"chords": "Dm                E      "},
+        {"lyrics": "Boy you've got me blinded"},
+        {"chords": "Am               "},
+        {"lyrics": "  Oh, pretty baby"},
+        {"chords": "        E               C         "},
+        {"lyrics": "There's nothing that I wouldn't do"},
+        {"chords": "     Dm              E       "},
+        {"lyrics": "It's not the way I planned it"}
+    ],
+    "interlude": [
+        {"chords": "Am             "},
+        {"lyrics": "  Oh baby, baby"},
+        {"chords": "Am             "},
+        {"lyrics": "  Oh baby, baby"},
+        {"chords": "Am             "},
+        {"lyrics": "  Oh baby, baby"},
+        {"chords": "     E                 C  Dm  E"},
+        {"lyrics": "How was I supposed to know     "},
+        {"chords": "F                    G"},
+        {"lyrics": "  Oh, pretty baby, I shouldn't have let you"},
+        {"chords": "Dm             F"},
+        {"lyrics": "Gooooooooooooo  "}
+    ],
+    "bridge": [
+        {"chords": "G           Am                 E  "},
+        {"lyrics": "I must confess, that my loneliness"},
+        {"chords": "               C              Dm      E        F "},
+        {"lyrics": "Is killing me now, don't you know I still believe"},
+        {"chords": "                  G  "},
+        {"lyrics": "That you will be here"},
+        {"chords": "               F  "},
+        {"lyrics": "And give me a sign"},
+        {"chords": "Dm           G            "},
+        {"lyrics": "Hit me baby, one more time"}
+    ],
+    "ending": [
+        {"chords": "G          Am                 E  "},
+        {"lyrics": "I must confess that my loneliness"},
+        {"chords": "              C              Dm     E              "},
+        {"lyrics": "Is killing me now (don't you know I still believe?)"},
+        {"chords": "Am                   E "},
+        {"lyrics": "  That you will be here"},
+        {"chords": "    F    G     C   "},
+        {"lyrics": "and give me a sign?"},
+        {"chords": "Dm           E            "},
+        {"lyrics": "Hit me baby, one more time"}
+    ]
+}

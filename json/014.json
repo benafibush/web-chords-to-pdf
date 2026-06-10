@@ -1,0 +1,63 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "Em  C  G  D  x2"}
+    ],
+    "verse1": [
+        {"chords": "Em  C     G      D       Em  C      G      D  "},
+        {"lyrics": "  I wanted to be like you. I wanted everything"},
+        {"chords": "Em   C      G      D       Em    C     G       D "},
+        {"lyrics": "  So I tried to be like you, and I got swept away"},
+        {"chords": "Em         C        G          D       "},
+        {"lyrics": "  I didn't know that it was so cold and"},
+        {"chords": "Em           C          G             D "},
+        {"lyrics": "  You needed someone to show you the way"},
+        {"chords": "Em               C       G           D  "},
+        {"lyrics": "  So I took your hand and we figured out that"},
+        {"chords": "Em         C              G          D "},
+        {"lyrics": "  when the time comes I'd take you away"}
+    ],
+    "chorus": [
+        {"chords": "Em       C      G      D       "},
+        {"lyrics": "  If you want to I can save you"},
+        {"chords": "Em      C          G          D"},
+        {"lyrics": "  I can take you away from here"},
+        {"chords": "Em          C      G        D        "},
+        {"lyrics": "  So lonely inside, so busy out there"},
+        {"chords": "Em            C              G         D   "},
+        {"lyrics": "  and all you wanted was somebody who cares"}
+    ],
+    "verse2": [
+        {"chords": "Em            C      G         D      "},
+        {"lyrics": "  I'm sinking slowly, so hurry hold me"},
+        {"chords": "Em             C             G               D "},
+        {"lyrics": "  Your hand is all I have to keep me hanging on"},
+        {"chords": "Em               C      G         D           "},
+        {"lyrics": "  Please can you tell me so I can finally see,"},
+        {"chords": "Em          C              G D "},
+        {"lyrics": "  Where you go when you're gone"}
+    ],
+    "bridge": [
+        {"chords": "C         D                       C    "},
+        {"lyrics": "  All you wanted was somebody who cares"},
+        {"chords": "       D                        C    "},
+        {"lyrics": "If you need me you know I'll be there"},
+        {"chords": "        D        "},
+        {"lyrics": "Oh, oh, yeah yeah"}
+    ],
+    "ending": [
+        {"chords": "Em               C      G         D          "},
+        {"lyrics": "  Please can you tell me so I can finally see"},
+        {"chords": "Em          C               G  "},
+        {"lyrics": "  Where you go when you're gone"}
+    ]
+}
