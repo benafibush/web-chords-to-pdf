@@ -1,0 +1,41 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse1",
+        "chorus",
+        "verse2"
+    ],
+    "intro": [
+        {"chords": "C"}
+    ],
+    "verse1": [
+        {"chords": "Em                  G      "},
+        {"lyrics": "Bones, sinking like stones "},
+        {"chords": "            C       "},
+        {"lyrics": "All that we fall for"},
+        {"chords": "Em                 G    "},
+        {"lyrics": "Homes places we've grown"},
+        {"chords": "              C       "},
+        {"lyrics": "All of us are done for"}    
+    ],
+    "chorus": [
+        {"chords": "Am                                Em"},
+        {"lyrics": "  And we live in a beautiful world  "},
+        {"chords": "G                      "},
+        {"lyrics": "  yeah we do yeah we do"},
+        {"chords": "Am                          C "},
+        {"lyrics": "  We live in a beautiful world"}
+    ],
+    "verse2": [
+        {"chords": "Em            G   "},
+        {"lyrics": "Oh all that I know"},
+        {"chords": "                   C       "},
+        {"lyrics": "is nothing here to run from"},
+        {"chords": "      Em             G   "},
+        {"lyrics": "Cause yeah everybody here"},
+        {"chords": "                  C      "},
+        {"lyrics": "got's somebody to lean on"}
+    ]
+}

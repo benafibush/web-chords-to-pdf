@@ -1,0 +1,68 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "Am            Dm  "},
+        {"lyrics": "  Tonight we dance"},
+        {"chords": "G          F            Am   "},
+        {"lyrics": "I leave my life in your hands"},
+        {"chords": "Am              Dm "},
+        {"lyrics": "  We take the floor"},
+        {"chords": "G             F         E   "},
+        {"lyrics": "Nothing is forbidden anymore"},
+        {"chords": "              Am              "},
+        {"lyrics": "Don't let the world in outside"},
+        {"chords": "            Dm          "},
+        {"lyrics": "Don't let a moment go by"},
+        {"chords": "C           G         E    "},
+        {"lyrics": "Nothing can stop us tonight"}
+    ],
+    "chorus": [
+        {"chords": "     Am            G               F         Am "},
+        {"lyrics": "Bailamos - let the rhythm take you over Bailamos"},
+        {"chords": "      G        F          Am "},
+        {"lyrics": "Te quiero amor mio - Bailamos"},
+        {"chords": "      G                  F           Am "},
+        {"lyrics": "Wanna live this night forever - bailamos"},
+        {"chords": "      G        F           E  "},
+        {"lyrics": "Te quiero amor mio - te quiero"}
+    ],
+    "verse2": [
+        {"chords": "Am             Dm  "},
+        {"lyrics": "  Tonight I'm yours"},
+        {"chords": "G              F             Am  "},
+        {"lyrics": "We can make it happen I'm so sure"},
+        {"chords": "Am               Dm"},
+        {"lyrics": "  I won't let it go"},
+        {"chords": "G                  F                  E   "},
+        {"lyrics": "There is something I think you should know"},
+        {"chords": "           Am               "},
+        {"lyrics": "I won't be leaving your side"},
+        {"chords": "                Dm                    "},
+        {"lyrics": "We're going to dance through the night"},
+        {"chords": "C         G             E    "},
+        {"lyrics": "I want to reach for the stars"}
+    ],
+    "bridge": [
+        {"chords": "Am    "},
+        {"lyrics": "oooooh"},
+        {"chords": "  G         F   "},
+        {"lyrics": "Tonight we dance"},
+        {"chords": "Am    "},
+        {"lyrics": "oooooh"},
+        {"chords": "     G       F  "},
+        {"lyrics": "Like no tomorrow"},
+        {"chords": "Am    "},
+        {"lyrics": "oooooh"},
+        {"chords": "G            F        Am"},
+        {"lyrics": "If you will stay with me"},
+        {"chords": "                 "},
+        {"lyrics": "Te quiero mi amor"}
+    ]
+}

@@ -1,0 +1,81 @@
+        {
+    "structure": [
+        "verse1",
+        "verse2",
+        "pre-chorus1",
+        "chorus",
+        "verse3",
+        "pre-chorus2",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "C                G          "},
+        {"lyrics": "  Monday night I feel so low"},
+        {"chords": "Am                     Em"},
+        {"lyrics": "  Count the hours they go so slow"},
+        {"chords": "F                               "},
+        {"lyrics": "  I know the sound of your voice"},
+        {"chords": "    Am          "},
+        {"lyrics": "Can save my soul"}
+    ],
+    "verse2": [
+        {"chords": "C              G              "},
+        {"lyrics": "  City lights, streets of gold"},
+        {"chords": "Am                          Em         "},
+        {"lyrics": "  Look out my window to the world below"},
+        {"chords": "F                                   "},
+        {"lyrics": "  Moves so fast and it feels so cold"},
+        {"chords": "        Am       "},
+        {"lyrics": "And I'm all alone"}
+    ],
+    "pre-chorus1": [
+        {"chords": "F               "},
+        {"lyrics": "Don't let me die"},
+        {"chords": "F                 "},
+        {"lyrics": "I'm losing my mind"},
+        {"chords": "G                         "},
+        {"lyrics": "  Baby just give me a sign"}
+    ],
+    "chorus": [
+        {"chords": "    F               G   "},
+        {"lyrics": "And now that you're gone"},
+        {"chords": "             Am         Em"},
+        {"lyrics": "I just wanna be with you  "},
+        {"chords": "    F          G "},
+        {"lyrics": "And I can't go on"},
+        {"chords": "        Am         Em"},
+        {"lyrics": "I wanna be with you  "},
+        {"chords": "      F          "},
+        {"lyrics": "Wanna be with you"}
+    ],
+    "verse3": [
+        {"chords": "Am C                       G           "},
+        {"lyrics": "     I can't sleep and I'm up all night"},
+        {"chords": "Am                      Em          "},
+        {"lyrics": "  Through these tears I try to smile"},
+        {"chords": "F                              "},
+        {"lyrics": "  I know the touch of your hand"},
+        {"chords": "    Am          "},
+        {"lyrics": "Can save my life"}
+    ],
+    "pre-chorus2": [
+        {"chords": "F                "},
+        {"lyrics": "Don't let me down"},
+        {"chords": "F             "},
+        {"lyrics": "Come to me now"},
+        {"chords": "G                              "},
+        {"lyrics": "  I got to be with you some how"}
+    ],
+    "bridge": [
+        {"chords": "    F               G   "},
+        {"lyrics": "And now that you're gone"},
+        {"chords": "Am             Em         "},
+        {"lyrics": "  Who am I without you now"},
+        {"chords": "F          G "},
+        {"lyrics": "I can't go on"},
+        {"chords": "             Am         Em"},
+        {"lyrics": "I just wanna be with you  "}
+    ]
+}

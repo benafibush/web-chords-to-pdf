@@ -1,0 +1,75 @@
+{
+    "structure": [
+        "verse1",
+        "verse2",
+        "interlude",
+        "bridge",
+        "verse3",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "C                       G  "},
+        {"lyrics": "Smile, without a reason why"},
+        {"chords": "G7   G                 C     C E"},
+        {"lyrics": "Love, as if you were a child    "},
+        {"chords": "Am   Dm                    Am      "},
+        {"lyrics": "Smile, no matter what they tell you"},
+        {"chords": "Dm                  D7        E  "},
+        {"lyrics": "  Don't listen to a word they say"},
+        {"chords": "      D7      E              Am "},
+        {"lyrics": "Cause life is beautiful that way"}
+    ],
+    "verse2": [
+        {"chords": "C                      G    "},
+        {"lyrics": "Tears, a tidal wave of tears"},
+        {"chords": "G7    G                 C     C E"},
+        {"lyrics": "Light, that slowly disappears    "},
+        {"chords": "Am  Dm                     Am     "},
+        {"lyrics": "Wait, before you close the curtain"},
+        {"chords": "Dm                     D7      E   "},
+        {"lyrics": "There is still another game to play"},
+        {"chords": "    D7      E              Am "},
+        {"lyrics": "And life is beautiful that way"}
+    ],
+    "interlude": [
+        {"chords": "C G C G Em"}
+    ],
+    "bridge": [
+        {"chords": "Am  Dm                     Am  "},
+        {"lyrics": "Here  with his eyes forevermore"},
+        {"chords": "Dm                    Dm          "},
+        {"lyrics": "  I will always be as close as you"},
+        {"chords": "  E             Am  "},
+        {"lyrics": "remember from before"},
+        {"chords": "Am Dm                              Am "},
+        {"lyrics": "Now  that you're out there on your own"},
+        {"chords": "Dm                 Am      "},
+        {"lyrics": "  Remember what is real and"},
+        {"chords": "        Dm             E   "},
+        {"lyrics": "what we dream is love alone"}
+    ],
+    "verse3": [
+        {"chords": "C                         G   "},
+        {"lyrics": "Keep the laughter in your eyes"},
+        {"chords": "G7  G                  C     C E"},
+        {"lyrics": "Soon your long awaited prize    "},
+        {"chords": "Am   Dm                 Am     "},
+        {"lyrics": "We'll  forget about our sorrows"},
+        {"chords": "Dm                  D7       E  "},
+        {"lyrics": "  And think about a brighter day"},
+        {"chords": "      D7      E              Am "},
+        {"lyrics": "Cause life is beautiful that way"}
+    ],
+    "ending": [
+        {"chords": "Am   Dm                 Am     "},
+        {"lyrics": "We'll  forget about our sorrows"},
+        {"chords": "Dm                  D7       E  "},
+        {"lyrics": "  And think about a brighter day"},
+        {"chords": "      D7      E              Am "},
+        {"lyrics": "Cause life is beautiful that way"},
+        {"chords": "Dm                      D7      E   "},
+        {"lyrics": "  There's still another game to play"},
+        {"chords": "    D7      E              Am "},
+        {"lyrics": "And life is beautiful that way"}
+    ]
+}

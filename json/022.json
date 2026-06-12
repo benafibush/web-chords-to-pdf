@@ -1,0 +1,80 @@
+        {
+    "structure": [
+        "intro",
+        "short-chorus",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus",
+        "short-chorus"
+    ],
+    "intro": [
+        {"chords": "G D Em C x2"}
+    ],
+    "short-chorus": [
+        {"chords": "                     G      D   "},
+        {"lyrics": "I don't want another pretty face"},
+        {"chords": "                  Em        C   "},
+        {"lyrics": "I don't want just anyone to hold"},
+        {"chords": "                Em            D    "},
+        {"lyrics": "I don't want my love to go to waste"},
+        {"chords": "       G            C             "},
+        {"lyrics": "I want you and your beautiful soul"}
+    ],
+    "verse1": [
+        {"chords": "G       D        Em     C               "},
+        {"lyrics": "  I know that you  are something special"},
+        {"chords": "G       D      Em C              "},
+        {"lyrics": "  To you I'd be   always faithful"},
+        {"chords": "G       D     Em   C                   "},
+        {"lyrics": "  I want to be   what you always needed"},
+        {"chords": "G        D                   Em         C"},
+        {"lyrics": "  Then I hope you'll see the heart in me "}
+    ],
+    "chorus": [
+        {"chords": "                     G      D   "},
+        {"lyrics": "I don't want another pretty face"},
+        {"chords": "                  Em        C   "},
+        {"lyrics": "I don't want just anyone to hold"},
+        {"chords": "                Em            D    "},
+        {"lyrics": "I don't want my love to go to waste"},
+        {"chords": "       G            C             "},
+        {"lyrics": "I want you and your beautiful soul"},
+        {"chords": "           G           D    "},
+        {"lyrics": "You're the one I wanna chase"},
+        {"chords": "           Em          C   "},
+        {"lyrics": "You're the one I wanna hold"},
+        {"chords": "                    Em           D    "},
+        {"lyrics": "I won't let another minute go to waste"},
+        {"chords": "       G            C             G D Em C"},
+        {"lyrics": "I want you and your beautiful soul        "},
+        {"chords": "            G   D    Em C"},
+        {"lyrics": "Your beautiful soul, yeah"}
+    ],
+    "verse2": [
+        {"chords": "G          D         Em   C            "},
+        {"lyrics": "  You might need time  to think it over"},
+        {"chords": "G        D         Em C             "},
+        {"lyrics": "  But I'm just fine   moving forward"},
+        {"chords": "G          D         Em        C                 "},
+        {"lyrics": "  I'll ease your mind   if you give me the chance"},
+        {"chords": "G            D              Em           C"},
+        {"lyrics": "I will never make you cry c`mon let's try "}
+    ],
+    "bridge": [
+        {"chords": "     Em        C           "},
+        {"lyrics": "Am I crazy for wanting you?"},
+        {"chords": "G                            D           "},
+        {"lyrics": "Maybe do you think you could want me too?"},
+        {"chords": "Em            D          G   C"},
+        {"lyrics": "I don't wanna waste your time "},
+        {"chords": "       Em             C        "},
+        {"lyrics": "Do you see things the way I do?"},
+        {"chords": "G                          D          "},
+        {"lyrics": "I just wanna know that you feel it too"},
+        {"chords": "Em               D       G  C"},
+        {"lyrics": "There is nothing left to hide"}
+    ]
+}
