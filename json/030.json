@@ -1,0 +1,91 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "       Am      "},
+        {"lyrics": "Let me hold you"},
+        {"chords": "        C        "},
+        {"lyrics": "For the last time"},
+        {"chords": "         F                        "},
+        {"lyrics": "It's the last chance to feel again"},
+        {"chords": "        Am      "},
+        {"lyrics": "But you broke me"},
+        {"chords": "      C             F    Dm"},
+        {"lyrics": "Now I can't feel anything  "},
+        {"chords": "       Am      "},
+        {"lyrics": "When I love you"},
+        {"chords": "        C     "},
+        {"lyrics": "It's so untrue"},
+        {"chords": "  F                         "},
+        {"lyrics": "I can't even convince myself"},
+        {"chords": "         Am      "},
+        {"lyrics": "When I'm speaking"},
+        {"chords": "         C                F   Dm"},
+        {"lyrics": "It's the voice of someone else  "}
+    ],
+    "pre-chorus": [
+        {"chords": "      F     G  Am"},
+        {"lyrics": "Oh it tears me up"},
+        {"chords": "  F           G          Em            "},
+        {"lyrics": "I try to hold on, but it hurts too much"},
+        {"chords": "  F         G              Em            F               "},
+        {"lyrics": "I try to forgive, but it's not enough to make it all okay"}
+    ],
+    "chorus": [
+        {"chords": "          Dm             Am     "},
+        {"lyrics": "You can't play on broken strings"},
+        {"chords": "          C       G    "},
+        {"lyrics": "You can't feel anything"},
+        {"chords": "          Dm                  Am  "},
+        {"lyrics": "That your heart don't want to feel"},
+        {"chords": "        C                             G   "},
+        {"lyrics": "I can't tell you something that ain't real"},
+        {"chords": "       F          "},
+        {"lyrics": "Oh the truth hurts"},
+        {"chords": "    Am        "},
+        {"lyrics": "And lies worse"},
+        {"chords": "C                 G   "},
+        {"lyrics": "How can I give anymore"},
+        {"chords": "       Dm                Am          G   "},
+        {"lyrics": "When I love you a little less than before"}
+    ],
+    "verse2":[
+        {"chords": "        Am     C    "},
+        {"lyrics": "Oh what are we doing"},
+        {"chords": "       F                "},
+        {"lyrics": "We are turning into dust"},
+        {"chords": "        Am           C        F Dm"},
+        {"lyrics": "Playing house in the ruins of us  "},
+        {"chords": "        Am               C   "},
+        {"lyrics": "Running back through the fire"},
+        {"chords": "             F                   "},
+        {"lyrics": "When there's nothing left to save"},
+        {"chords": "          Am               C                        F   Dm"},
+        {"lyrics": "It's like chasing the very last train when it's too late  "}
+    ],
+    "bridge": [
+        {"chords": "          F                   Am  "},
+        {"lyrics": "But we're running through the fire"},
+        {"chords": "             C                F  "},
+        {"lyrics": "When there's nothing left to save"},
+        {"chords": "          F                Am        "},
+        {"lyrics": "It's like chasing the very last train"},
+        {"chords": "        C                            Em   "},
+        {"lyrics": "When we both know it's too late (too late)"}
+    ],
+    "ending": [
+        {"chords": "       Am               C        "},
+        {"lyrics": "Let me hold you for the last time"},
+        {"chords": "         F                    Dm  "},
+        {"lyrics": "It's the last chance to feel again"}
+    ]
+}

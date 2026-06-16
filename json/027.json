@@ -1,0 +1,70 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "interlude",
+        "verse2",
+        "interlude",
+        "chorus",
+        "verse3",
+        "interlude",
+        "chorus",
+        "interlude",
+        "verse4",
+        "interlude",
+        "chorus"
+    ],
+    "interlude": [
+        {"chords": "Em C G D x2"}
+    ],
+    "verse1": [
+        {"chords": "Em        C                  G               D          "},
+        {"lyrics": "  We sat around at night and talked about so many things"},
+        {"chords": "Em           C              G         D     "},
+        {"lyrics": "  lay on the floor till the morning appeared"},
+        {"chords": "    Em         C      G                 D     "},
+        {"lyrics": "you laughed at me and said I just don't get it"},
+        {"chords": "    Em                C                G              D   "},
+        {"lyrics": "you said we should be making plans for getting out of here"}
+    ],
+    "verse2": [
+        {"chords": "Em         C            G            D         "},
+        {"lyrics": "  Somebody told me when I was just a little kid"},
+        {"chords": "Em             C            G               D "},
+        {"lyrics": "  don't follow leaders just think for yourself"},
+        {"chords": "    Em        C          G           D            "},
+        {"lyrics": "but everybody minds everybody else's business here"},
+        {"chords": "Em               C                  G          D "},
+        {"lyrics": "  why can't they turn their eyes to somebody else"}
+    ],
+    "chorus": [
+        {"chords": "        G              "},
+        {"lyrics": "Tell me no use thinking"},
+        {"chords": "F        C          G     "},
+        {"lyrics": "we could ever be something"},
+        {"chords": "F        C               G  "},
+        {"lyrics": "we could rise with the stars"},
+        {"chords": "F         C         D "},
+        {"lyrics": "  better off as we are"}
+    ],
+    "verse3": [
+        {"chords": "Em         C          G               D              "},
+        {"lyrics": "  My older brother he left the day he finished school"},
+        {"chords": "Em                C       G             D  "},
+        {"lyrics": "moved down to New York to Washington Square"},
+        {"chords": "   Em       C           G                   D     "},
+        {"lyrics": "he calls me up and says you should come and see me"},
+        {"chords": "Em                 C              G      D  "},
+        {"lyrics": "watch the waves of people rolling everywhere"}
+    ],
+    "verse4": [
+        {"chords": "Em            C           G        D   "},
+        {"lyrics": "  Late in the evening I'm up in my room"},
+        {"chords": "Em                 C       G              D  "},
+        {"lyrics": "trying to think of nothing clear away the day"},
+        {"chords": "  Em   C        G           D     "},
+        {"lyrics": "I lie awake and let my body wander"},
+        {"chords": "Em          C         G         D  "},
+        {"lyrics": "up into the moonlight floating away"}
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "pre-chorus1",
+        "chorus",
+        "verse2",
+        "pre-chorus2",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "G D Am C G Bm Am Em x2"}
+    ],
+    "verse1": [
+        {"chords": "G                         "},
+        {"lyrics": "  No matter how hard I try"},
+        {"chords": "G                          "},
+        {"lyrics": "  you keep pushing me aside"},
+        {"chords": "      C                  "},
+        {"lyrics": "and I can't break through"},
+        {"chords": "           D              "},
+        {"lyrics": "there's no talking to you."}
+    ],
+    "pre-chorus1": [
+        {"chords": "        G                      "},
+        {"lyrics": "It's so sad that you're leavin'"},
+        {"chords": "         Bm                 "},
+        {"lyrics": "it takes time to believe it."},
+        {"chords": "C                               "},
+        {"lyrics": "  But after all is said and done"},
+        {"chords": "D                                   "},
+        {"lyrics": "  you're gonna be the lonely one, oh"}
+    ],
+    "chorus": [
+        {"chords": "G          D                    Am  C"},
+        {"lyrics": "  Do you believe in life after love? "},
+        {"chords": "      G                D          "},
+        {"lyrics": "I can feel something inside me say"},
+        {"chords": "  Am                        Em                "},
+        {"lyrics": "I really don't think you're strong enough now."},
+        {"chords": "G          D                    Am  C"},
+        {"lyrics": "  Do you believe in life after love? "},
+        {"chords": "      G                D          "},
+        {"lyrics": "I can feel something inside me say"},
+        {"chords": "  Am                        Em                "},
+        {"lyrics": "I really don't think you're strong enough now."}
+    ],
+    "verse2": [
+        {"chords": "G                          "},
+        {"lyrics": "  What am I supposed to do?"},
+        {"chords": "G                             "},
+        {"lyrics": "  Sit around and wait for you,"},
+        {"chords": "       C            "},
+        {"lyrics": "well I can't do that"},
+        {"chords": "            Bm              "},
+        {"lyrics": "and there's no turnin' back."}
+    ],
+    "pre-chorus2": [
+        {"chords": "       G              "},
+        {"lyrics": "I need time to move on"},
+        {"chords": "       Bm                  "},
+        {"lyrics": "I need love to feel strong,"},
+        {"chords": "C                                       "},
+        {"lyrics": "  'cos I've had time to think it through"},
+        {"chords": "D                                     "},
+        {"lyrics": "  'n maybe I'm too good for you, oh..."}
+    ],
+    "bridge": [
+        {"chords": "Em                                  D   "},
+        {"lyrics": "  Well I know that I'll get through this"},
+        {"chords": "Em                      D     "},
+        {"lyrics": "  'cos I know that I am strong"},
+        {"chords": "            C               "},
+        {"lyrics": "And I don't need you anymore"},
+        {"chords": "        D                "},
+        {"lyrics": "I don't need you anymore."},
+        {"chords": "        C               "},
+        {"lyrics": "I don't need you anymore"},
+        {"chords": "           D                "},
+        {"lyrics": "no I don't need you anymore."}
+    ]
+}
