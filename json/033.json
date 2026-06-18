@@ -1,0 +1,54 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus",
+        "verse3",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "             Em Am Em Am"},
+        {"lyrics": "Can't buy me love, love,"},
+        {"chords": "             Dm G"},
+        {"lyrics": "Can't buy me love"}
+    ],
+    "verse1": [
+        {"chords": "     C7                                                           "},
+        {"lyrics": "I'll buy you a diamond ring my friend if it makes you feel alright"},
+        {"chords": "     F                                C                     "},
+        {"lyrics": "I'll get you anything my friend if it makes you feel alright"},
+        {"chords": "      G7              F                F                  C   "},
+        {"lyrics": "Cause I don't care too much for money, money can't buy me love"}
+    ],
+    "verse2": [
+        {"chords": "     C7                                                      "},
+        {"lyrics": "I'll give you all I've got to give if you say you love me too"},
+        {"chords": "  F                                     C                   "},
+        {"lyrics": "I may not have a lot to give but what I got I'll give to you"},
+        {"chords": "G7              F                F                  C   "},
+        {"lyrics": "I don't care too much for money, money can't buy me love"}
+    ],
+    "chorus": [
+        {"chords": "             Em Am C"},
+        {"lyrics": "Can't buy me love, everybody tells me so"},
+        {"chords": "             Em Am Dm          G "},
+        {"lyrics": "Can't buy me love, no, no, no, no"}
+    ],
+    "verse3": [
+        {"chords": "C7                                                       "},
+        {"lyrics": "Say you don't need no diamond rings and I'll be satisfied"},
+        {"chords": "F                                             C                   "},
+        {"lyrics": "Tell me that you want the kind of things that money just can't buy"},
+        {"chords": "G7              F                F                  C   "},
+        {"lyrics": "I don't care too much for money, money can't buy me love"}
+    ],
+    "ending": [
+        {"chords": "             Em Am Em Am"},
+        {"lyrics": "Can't buy me love, love,"},
+        {"chords": "             Dm G   C"},
+        {"lyrics": "Can't buy me love, oh"}
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "Am Em"}
+    ],
+    "verse1": [
+        {"chords": "Am                                      Em    "},
+        {"lyrics": "  You said that love was just a state of  mind"},
+        {"chords": "                                 F    "},
+        {"lyrics": "A puzzle made of pieces you can't find"},
+        {"chords": "                                        "},
+        {"lyrics": "But for me you never really had the time"},
+        {"chords": "Dm       G       "},
+        {"lyrics": "  I was blind, oh"}
+    ],
+    "verse2": [
+        {"chords": "Am                                  Em"},
+        {"lyrics": "  And everything that you meant to me "},
+        {"chords": "                              F      "},
+        {"lyrics": "Is written in the pages of my history"},
+        {"chords": "                                     "},
+        {"lyrics": "But it's over now as far as I can see"},
+        {"chords": "Dm      G "},
+        {"lyrics": "  Suddenly"}
+    ],
+    "chorus": [
+        {"chords": "C                                    G  "},
+        {"lyrics": " Things are so different now you're gone"},
+        {"chords": "                            Em                   F    "},
+        {"lyrics": "Thought it'd be easy, I was wrong (and now I'm caught)"},
+        {"chords": "                                 "},
+        {"lyrics": "And now, I'm caught in the middle"},
+        {"chords": "C                              G  "},
+        {"lyrics": "  Even though I'm with someone new"},
+        {"chords": "                         Em                 F    "},
+        {"lyrics": "All I can think about is you (and now I'm caught)"},
+        {"chords": "                                 "},
+        {"lyrics": "And now, I'm caught in the middle"}
+    ],
+    "verse3": [
+        {"chords": "Am                                Em    "},
+        {"lyrics": "  Moving on she brings me brighter  days"},
+        {"chords": "                                     F   "},
+        {"lyrics": "But thoughts of you are in my mind always"},
+        {"chords": "                                "},
+        {"lyrics": "Like a memory that I can't erase"},
+        {"chords": "Dm             G          "},
+        {"lyrics": "  It's here to stay, oh oh"}
+    ],
+    "bridge": [
+        {"chords": "Dm                      G    "},
+        {"lyrics": "  (So different) So different"},
+        {"chords": "                Dm                          G   "},
+        {"lyrics": "(So easy) Oh so easy, (but I can't get over you)"},
+        {"chords": "  G                 "},
+        {"lyrics": "I can't get over you"},
+        {"chords": "Dm                           G    "},
+        {"lyrics": "  (So different) It's so different"},
+        {"chords": "              Dm                          G   "},
+        {"lyrics": "(So easy) (So easy) (but I can't get over you)"},
+        {"chords": "      G                          "},
+        {"lyrics": "And I can't get over you, no baby"}
+    ]
+}

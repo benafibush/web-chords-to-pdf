@@ -1,0 +1,63 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "interlude",
+        "verse3",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "Em                Em  "},
+        {"lyrics": "Baby, don`t understand"},
+        {"chords": "       Em                "},
+        {"lyrics": "why we can`t just hold on"},
+        {"chords": "   Em                D A"},
+        {"lyrics": "to each other`s hands   "},
+        {"chords": "Em                     Em         "},
+        {"lyrics": "This time might be the last I fear"},
+        {"chords": "  Em              Em           "},
+        {"lyrics": "unless I  make it all too clear"},
+        {"chords": "           D       A "},
+        {"lyrics": "I need you so... whoa"}
+    ],
+    "chorus": [
+        {"chords": "Am                     "},
+        {"lyrics": "Take these Broken Wings"},
+        {"chords": "             G                           F"},
+        {"lyrics": "and learn to fly again, learn to live so free"},
+        {"chords": "        Am                  "},
+        {"lyrics": "When we hear the voices sing"},
+        {"chords": "            G                            F "},
+        {"lyrics": "the book of love will open up and let us in"},
+        {"chords": "Am                    Em"},
+        {"lyrics": "Take these Broken Wings "}
+    ],
+    "verse2": [
+        {"chords": "Em              Em   "},
+        {"lyrics": "Baby, I think tonight"},
+        {"chords": "       Em                 "},
+        {"lyrics": "we can take what was wrong"},
+        {"chords": "    Em              D A"},
+        {"lyrics": "and make it right Hmmm "},
+        {"chords": "Em               Em  "},
+        {"lyrics": "Baby, it`s all I know"},
+        {"chords": "            Em               "},
+        {"lyrics": "that you`re half of the flesh"},
+        {"chords": "    Em                     D              A "},
+        {"lyrics": "and blood that makes me whole... Need you so"}
+    ],
+    "interlude": [
+        {"chords": "Dm F        C    Bb"},
+        {"lyrics": "    Let us innnn  "}
+    ],
+    "verse3": [
+        {"chords": "Em               Em  "},
+        {"lyrics": "Baby, it`s all I know"},
+        {"chords": "            Em               "},
+        {"lyrics": "that you`re half of the flesh"},
+        {"chords": "    Em                     D          A   "},
+        {"lyrics": "and blood that makes me whole... Yeah yeah"}
+    ]
+}

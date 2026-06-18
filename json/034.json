@@ -1,0 +1,68 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "verse3",
+        "modulation",
+        "chorus",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "C                  G              Am             Em   "},
+        {"lyrics": "  So you're leaving in the morning  on the early train"},
+        {"chords": "F             G                    F               G                   "},
+        {"lyrics": "  I could say everything's alright, and I could pretend and say goodbye"},
+        {"chords": "C                 G                 Am                  Em  "},
+        {"lyrics": "  Got your ticket, got your suitcase, got your leaving smile"},
+        {"chords": "F             G                      F               G                    Am"},
+        {"lyrics": "  I could say that's the way it goes, and I could pretend and you won't know"},
+        {"chords": "           G    "},
+        {"lyrics": "That I was lying"}
+    ],
+    "chorus": [
+        {"chords": "         C     G    F                C     G    F         "},
+        {"lyrics": "'Cause I can't stop loving you, no I can't stop loving you"},
+        {"chords": "     C     G    F                     Bb F"},
+        {"lyrics": "No I won't stop loving you, why should I? "}
+    ],
+    "verse2": [
+        {"chords": "C               G              Am               Em  "},
+        {"lyrics": "  We took a taxi to the station, not a word was said"},
+        {"chords": "F               G                    F              G                     "},
+        {"lyrics": "  And I saw you walk across the road, for maybe the last time I don't know"},
+        {"chords": "C               G                 Am               Em   "},
+        {"lyrics": "  Feeling humble, heard the rumble  on the railway track"},
+        {"chords": "F            G                      "},
+        {"lyrics": "  And when I hear that whistle blow,"},
+        {"chords": "F            G                   Am"},
+        {"lyrics": "  I'll walk away and you won't know"},
+        {"chords": "             G     "},
+        {"lyrics": "That I'll be crying"}
+    ],
+    "bridge": [
+        {"chords": "Dm G   C"},
+        {"lyrics": "Eeeven try - I'll always be here by your side"},
+        {"chords": "Dm   G    C                                  "},
+        {"lyrics": "Why, why, why - I never wanted to say goodbye"},
+        {"chords": "Dm  G    C                            Bb                  F   "},
+        {"lyrics": "Why even try - I'm always here if you change, change your mind"}
+    ],
+    "modulation": [
+        {"chords": "+0.5 tone"}
+    ],
+    "verse3": [ 
+        {"chords": "C                  G              Am             Em   "},
+        {"lyrics": "  So you're leaving in the morning  on the early train"},
+        {"chords": "F             G                    F               G                   "},
+        {"lyrics": "  I could say everything's alright, and I could pretend and say goodbye"},
+        {"chords": "Am                  G    "},
+        {"lyrics": "  But that would be lying"}
+    ],
+    "ending": [
+        {"chords": "           A# F     G   "},
+        {"lyrics": "why should I   Even try?"}
+    ]
+}

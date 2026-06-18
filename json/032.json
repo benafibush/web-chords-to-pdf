@@ -1,0 +1,61 @@
+{
+    "structure": [
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "verse4",
+        "chorus",
+        "interlude",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "Am                                       "},
+        {"lyrics": "We've been on the run, driving in the sun"},
+        {"chords": "                F       C "},
+        {"lyrics": "Looking out for number one"},
+        {"chords": "     F              C  "},
+        {"lyrics": "California here we come"},
+        {"chords": "           F                  C "},
+        {"lyrics": "Right back where we started from"}
+    ],
+    "verse2": [
+        {"chords": "Am                                               "},
+        {"lyrics": "Hustlers grab your guns, your shadow weighs a ton"},
+        {"chords": "                 F     C  "},
+        {"lyrics": "Driving down the one-o-one"},
+        {"chords": "     F              C  "},
+        {"lyrics": "California here we come"},
+        {"chords": "           F                  C "},
+        {"lyrics": "Right back where we started from"}
+    ],
+    "chorus": [
+        {"chords": "    C            C     "},
+        {"lyrics": "California! California!"},
+        {"chords": "        F  C "},
+        {"lyrics": "Here we come!"}
+    ],
+    "verse3": [
+        {"chords": "Am                            "},
+        {"lyrics": "On the stereo, listen as we go"},
+        {"chords": "                F       C  "},
+        {"lyrics": "Nothing's gonna stop me now"},
+        {"chords": "     F              C  "},
+        {"lyrics": "California here we come"},
+        {"chords": "           F                 C  "},
+        {"lyrics": "Right back where we started from"}
+    ],
+    "verse4": [
+        {"chords": "Am                                      "},
+        {"lyrics": "Pedal to the floor, thinkin' of the roar"},
+        {"chords": "             F      C   "},
+        {"lyrics": "Gotta get us to the show"},
+        {"chords": "    F               C  "},
+        {"lyrics": "California here we come"},
+        {"chords": "           F                 C  "},
+        {"lyrics": "Right back where we started from"}
+    ],
+    "interlude": [
+        {"chords": "Am F C F C F"}
+    ]
+}
