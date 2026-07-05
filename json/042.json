@@ -1,0 +1,82 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "Em D C  x2"}
+    ],
+    "verse1": [
+        {"chords": "Em                              D          C"},
+        {"lyrics": "  I push all my problems to the back of my mind"},
+        {"chords": "C                               D          Em  "},
+        {"lyrics": "Then they surface in my dreams, they come alive"},
+        {"chords": "Em                             D             C   "},
+        {"lyrics": "  I sweep all my issues to somewhere I can't find"},
+        {"chords": "   C                                      D       Em   "},
+        {"lyrics": "In hope that I'll forget but there's just so many times"},
+        {"chords": "                                  D            C     "},
+        {"lyrics": "Why can't I be strong and just confront all my fears?"},
+        {"chords": "C                              D        Em  "},
+        {"lyrics": "When my fear is hurting you by being sincere"},
+        {"chords": "    Em                            D        C     "},
+        {"lyrics": "But how many more days can I run? How many years?"},
+        {"chords": "C                                  D          C    "},
+        {"lyrics": "Emotions flooding and now it's all seeming so clear"}
+    ],
+    "chorus": [
+        {"chords": "Am                                        Em  "},
+        {"lyrics": "Crying for no reason, feel the tears roll down"},
+        {"chords": "       D                        Am  "},
+        {"lyrics": "I felt strong but am I breaking now?"},
+        {"chords": "Am                                     Em"},
+        {"lyrics": "Crying for no reason 'cause I buried it deep"},
+        {"chords": "Em     D                    C   "},
+        {"lyrics": "I made promises I could not keep"},
+        {"chords": "C                                   G     "},
+        {"lyrics": "'Cause I never faced all the pain I caused"},
+        {"chords": "        D                       Em   "},
+        {"lyrics": "Now the pain is hitting me full force"}
+    ],
+    "verse2": [
+        {"chords": "Em                              D          C    "},
+        {"lyrics": "  I push all my problems to the back of my brain"},
+        {"chords": "  C                                 D             Em "},
+        {"lyrics": "A darkness deep inside where I just can't find my way"},
+        {"chords": "Em                               D          C  "},
+        {"lyrics": "How can I walk with a smile? Get on with my day"},
+        {"chords": "     C                            D          Em"},
+        {"lyrics": "When I deceived myself pretending it's all okay"},
+        {"chords": "  Em                             D         C   "},
+        {"lyrics": "I tried my best to hold it all together, I know"},
+        {"chords": "    C                              D         Em   "},
+        {"lyrics": "The strings have worn away and now I'm all exposed"},
+        {"chords": "  Em                         D          C    "},
+        {"lyrics": "I try to hide it all away on top of the shelf"},
+        {"chords": "C                         D        C   "},
+        {"lyrics": "I can lie to everyone but not to myself"}
+    ],
+    "bridge": [
+        {"chords": "Em           C                              G                       D  "},
+        {"lyrics": "  Forgive me now 'cause I said that I'll be there for you, care for you"},
+        {"chords": "          Em              C  "},
+        {"lyrics": "I let you down, I walked away"},
+        {"chords": "                                    G                  D  "},
+        {"lyrics": "'Cause there were things I couldn't say to you, say to you"},
+        {"chords": "             Em"},
+        {"lyrics": "I'm breaking now"},
+        {"chords": "Em                          "},
+        {"lyrics": "  I burned some bridges down"},
+        {"chords": "C                           "},
+        {"lyrics": "  There must be some way out"},
+        {"chords": "G                         "},
+        {"lyrics": "  The voices speak so loud"},
+        {"chords": "D                         "},
+        {"lyrics": "  Will you forgive me now?"}
+    ]
+}

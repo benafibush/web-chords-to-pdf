@@ -1,0 +1,55 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "chorus",
+        "interlude",
+        "chorus",
+        "bridge",
+        "interlude",
+        "chorus",
+        "ending"
+    ],
+    "interlude": [
+        {"chords": "D  Am  Am  Em  x2"}
+    ],
+    "verse1": [
+        {"chords": "D                   Am                                    Em          "},
+        {"lyrics": "Lights go out and I can't be saved, tides that I tried to swim against"},
+        {"chords": "D                Am                        Em                     "},
+        {"lyrics": "Brought me down upon my knees, oh I beg, I beg and plead - singing"},
+        {"chords": "D                 Am                            Em                 "},
+        {"lyrics": "  Come out of the things unsaid, shoot an apple off my head - and a"},
+        {"chords": "D              Am                             Em                   "},
+        {"lyrics": "  Trouble that can't be named, tigers waiting to be tamed - singing"}
+    ],
+    "chorus": [
+        {"chords": "D   Am Am  Em D   Am Am  Em"},
+        {"lyrics": "  You     are   You     are"}
+    ],
+    "verse2": [
+        {"chords": "D         Am                             Em                    "},
+        {"lyrics": "Confusion never stops, closing walls and ticking clocks - gonna"},
+        {"chords": "D               Am                                   Em                    "},
+        {"lyrics": "  come back and take you home, I could not stop that you now know - singing"},
+        {"chords": "D           Am                             Em             "},
+        {"lyrics": "  Come out upon my seas, curse missed opportunities - am I"},
+        {"chords": "D        Am                             Em                    "},
+        {"lyrics": "  A part of the cure, or am I a part of the disease? - singing"}
+    ],
+    "bridge": [
+        {"chords": "F                   C     G"},
+        {"lyrics": "  And nothing else compares"},
+        {"chords": "F                   C     G"},
+        {"lyrics": "  Oh, nothing else compares"},
+        {"chords": "F                   C     G F"},
+        {"lyrics": "  And nothing else compares  "}
+    ],
+    "ending": [
+        {"chords": "D      Am                     Em  x4"},
+        {"lyrics": "Home, home, where I wanted to go  x4"}
+    ]
+}

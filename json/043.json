@@ -1,0 +1,60 @@
+{
+    "structure": [
+        "verse1",
+        "chorus1",
+        "post-chorus",
+        "verse2",
+        "chorus1",
+        "post-chorus",
+        "chorus2",
+        "post-chorus"
+    ],
+    "verse1": [
+        {"chords": "Em      C            Em           C  "},
+        {"lyrics": "Hoy te perdí una vez más al despertar"},
+        {"chords": "     Bm           C        Bm             C  "},
+        {"lyrics": "si soñara la realidad y viviera lo que se fue"},
+        {"chords": "     Em     C                 Em            C "},
+        {"lyrics": "Mi humor, míralo, pintando un cuadro sin color"},
+        {"chords": "      Bm              C         Bm            C  "},
+        {"lyrics": "puedo ver un paisaje gris que refleja mi interior"},
+        {"chords": "     B      Am     "},
+        {"lyrics": "y en él, y en él..."}
+    ],
+    "chorus1": [
+        {"chords": "C         G             D               Em             C  "},
+        {"lyrics": "Palomas blancas vuelan raso, sobre el tejado brilla el sol"},
+        {"chords": "        G           D"},
+        {"lyrics": "y ríen todos menos yo"},
+        {"chords": "           C          G                D          Em "},
+        {"lyrics": "Que ahora soy un reo más, pidiendo a gritos la verdad"},
+        {"chords": "                C        G               D   Em "},
+        {"lyrics": "mi vida eres tú y, si te vas vendrá la oscuridad"}
+    ],
+    "post-chorus": [
+        {"chords": "         C             G          D         Em "},
+        {"lyrics": "Dame tu aire un día más para que pueda respirar"},
+        {"chords": "                C               G "},
+        {"lyrics": "que un rayo de luz me haga brillar"},
+        {"chords": "           D  Em "},
+        {"lyrics": "que muera soledad"}
+    ],
+    "verse2": [
+        {"chords": "Em    C           Em             C "},
+        {"lyrics": "Hoy soñaré que despierto junto a ti"},
+        {"chords": "     Bm              C    Bm            C "},
+        {"lyrics": "y te canto canciones que anoche te escribí"},
+        {"chords": "        G     C          G          C  "},
+        {"lyrics": "Y llegaré por ti a donde nadie pudo ir,"},
+        {"chords": "      Bm             C      Bm             C "},
+        {"lyrics": "puedo ver el mejor lugar de tantos que conocí"},
+        {"chords": "     B      Am     "},
+        {"lyrics": "y en él, y en él..."}
+    ],
+    "chorus2": [
+        {"chords": "              C            G                D          Em  "},
+        {"lyrics": "Que ahora soy...   un reo más, pidiendo a gritos la verdad,"},
+        {"chords": "              C           G          D          Em    "},
+        {"lyrics": "mi vida eres tú, y si te vas me cegará la oscuridad..."}
+    ]
+}

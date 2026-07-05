@@ -1,0 +1,61 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus1",
+        "chorus",
+        "verse2",
+        "pre-chorus2",
+        "chorus",
+        "interlude",
+        "bridge",
+        "chorus",
+        "interlude"
+    ],
+    "verse1": [
+        {"chords": "G           D                       C"},
+        {"lyrics": "  somebody said you got a new friend "},
+        {"chords": "G           D                        C"},
+        {"lyrics": "  does she love you better than I can?"},
+        {"chords": "G            D              C"},
+        {"lyrics": "  big black sky over my town "},
+        {"chords": "G                  D                     C"},
+        {"lyrics": "  I know where you at, I bet she's around "}
+    ],
+    "pre-chorus1": [
+        {"chords": "Em          D             C"},
+        {"lyrics": "  yeah, I know i'ts stupid "},
+        {"chords": "                              "},
+        {"lyrics": "I just gotta see it for myself"}
+    ],
+    "chorus": [
+        {"chords": "G             D                    C            "},
+        {"lyrics": "  I'm in the corner, watching you kiss her, oh.."},
+        {"chords": "G                 D                   C          "},
+        {"lyrics": "  I'm right over here, why can't you see me, oh.."},
+        {"chords": "Em               D                       C                   "},
+        {"lyrics": "  I'm giving it my all, but I'm not the girl your taking home"},
+        {"chords": "  Em        D              C "},
+        {"lyrics": "oohh I keep dancing on my own"}
+    ],
+    "verse2": [
+        {"chords": "G                 D             C"},
+        {"lyrics": "  I'm just gonna dance all night "},
+        {"chords": "G                D                    C"},
+        {"lyrics": "  I'm all messed up, I'm so outta line "}
+    ],
+    "pre-chorus2": [
+        {"chords": "Em                D           C"},
+        {"lyrics": "  Stilettos and broken bottles "},
+        {"chords": "                              "},
+        {"lyrics": "I'm spinnin' around in circles"}
+    ],
+    "interlude": [
+        {"chords": "G D C"}
+    ],
+    "bridge": [
+        {"chords": "C          D                C                    D               C"},
+        {"lyrics": "  So far away but still so near (the lights go on, the music dies)"},
+        {"chords": "               D               C               D              G"},
+        {"lyrics": "but you don't see me standing here (I just came to say goodbye)"}
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "interlude",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "interlude",
+        "bridge",
+        "chorus",
+        "interlude",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "Em  C     G  "},
+        {"lyrics": "  Stole a key"},
+        {"chords": "       Em                     C             "},
+        {"lyrics": "Took a car downtown where the lost boys meet"},
+        {"chords": "       C                Am                       Em"},
+        {"lyrics": "Took a car downtown and took what they offered me  "},
+        {"chords": "   C      G   "},
+        {"lyrics": "To set me free"},
+        {"chords": "          Em                    C               "},
+        {"lyrics": "I saw the lights go down at the end of the scene"},
+        {"chords": "        C                  Am                     "},
+        {"lyrics": "Saw the lights go down and standing in front of me"}
+    ],
+    "interlude": [
+        {"chords": "Em C G G"},
+        {"chords": "Em C C Am"}
+    ],
+    "verse2": [
+        {"chords": "Em      C         G     "},
+        {"lyrics": "  In my scarecrow dreams"},
+        {"chords": "          Em                  C          "},
+        {"lyrics": "When they smash my heart into smithereens"},
+        {"chords": "     C                    Am                   Em"},
+        {"lyrics": "Be a bright red rose come bursting the concrete  "},
+        {"chords": "     C       G    "},
+        {"lyrics": "Be a cartoon heart"}
+    ],
+    "pre-chorus": [
+        {"chords": "C                            "},
+        {"lyrics": "Light a fire, a fire, a spark"},
+        {"chords": "D                             C  "},
+        {"lyrics": "Light a fire, a flame in my heart"}
+    ],
+    "chorus": [
+        {"chords": "          C   "},
+        {"lyrics": "We'll run wild"},
+        {"chords": "                        Em  "},
+        {"lyrics": "We'll be glowing in the dark"}
+    ],
+    "bridge": [
+        {"chords": "        D                  "},
+        {"lyrics": "All the boys, all the girls"},
+        {"chords": "         C                G  "},
+        {"lyrics": "All that matters in the world"},
+        {"chords": "        D                  "},
+        {"lyrics": "All the boys, all the girls"},
+        {"chords": "        C              G   "},
+        {"lyrics": "All the madness that occurs"},
+        {"chords": "        D                  "},
+        {"lyrics": "All the highs, all the lows"},
+        {"chords": "       C                 G  C"},
+        {"lyrics": "As the room a-spinning, goes "}
+    ],
+    "ending": [
+        {"chords": "         Em C G"},
+        {"lyrics": "So we'll soooar"},
+        {"chords": "C                 "},
+        {"lyrics": "Luminous and wired"},
+        {"chords": "                        G   "},
+        {"lyrics": "We'll be glowing in the dark"}
+    ]
+}

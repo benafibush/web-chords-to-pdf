@@ -1,0 +1,69 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "interlude",
+        "verse2",
+        "chorus",
+        "bridge",
+        "interlude",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "Am                         Em         "},
+        {"lyrics": "  He is a hustler, he's no good at all"},
+        {"chords": "D                       Am                "},
+        {"lyrics": "  He is a loser, he's a bum, bum, bum, bum"},
+        {"chords": "Am                             Em    "},
+        {"lyrics": "  He lies, he bluffs, he's unreliable"},
+        {"chords": "D                       Am                "},
+        {"lyrics": "  He is a sucker with a gun, gun, gun, gun"},
+        {"chords": "Am                            Em       "},
+        {"lyrics": "  I know you told me I should stay away"},
+        {"chords": "D                             Am        "},
+        {"lyrics": "  I know you said he's just a dog astray"},
+        {"chords": "Am                      Em           "},
+        {"lyrics": "  He is a badboy with a tainted heart"},
+        {"chords": "D                            Am   "},
+        {"lyrics": "  And even I know this ain't smart"}
+    ],
+    "chorus": [
+        {"chords": "    Am                       Em      "},
+        {"lyrics": "But mama, I'm in love with a criminal"},
+        {"chords": "D                           Am                     "},
+        {"lyrics": "And this type of love isn't rational, it's physical"},
+        {"chords": "Am                             Em        "},
+        {"lyrics": "Mama, please don't cry, I will be alright"},
+        {"chords": "D                        Am                      "},
+        {"lyrics": "All reason aside, I just can't deny, love the guy"}
+    ],
+    "interlude": [
+        {"chords": "Am  Em  D  Am"}
+    ],
+    "verse2": [
+        {"chords": "Am                       Em         "},
+        {"lyrics": "  He is a villain by the devil's law"},
+        {"chords": "D                         Am                "},
+        {"lyrics": "  He is a killer just for fun, fun, fun, fun"},
+        {"chords": "Am                             Em      "},
+        {"lyrics": "  That man's a snitch and unpredictable"},
+        {"chords": "D                                Am                    "},
+        {"lyrics": "  He's got no conscience, he got none, none, none, none"},
+        {"chords": "Am      Em           D           Am"},
+        {"lyrics": "Aooo, I know shoulda let go, but no"},
+        {"chords": "Am                           Em           "},
+        {"lyrics": "  Cause he's a badboy with a tainted heart"},
+        {"chords": "D                            Am   "},
+        {"lyrics": "  And even I know this ain't smart"}
+    ],
+    "bridge": [
+        {"chords": "F                 Am  G         Am                         "},
+        {"lyrics": "  And he's got my name tattooed on his arm, his lucky charm"},
+        {"chords": "F                  Am             G "},
+        {"lyrics": "  So I guess it's okay, he's with me"},
+        {"chords": "F                   Am   G       Am                         "},
+        {"lyrics": "  And I hear people talk, try to make remarks, keep us apart"},
+        {"chords": "F                  Am            G   "},
+        {"lyrics": "  But I don't even hear, I don't care"}
+    ]
+}

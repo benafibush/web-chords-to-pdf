@@ -1,0 +1,82 @@
+{
+    "structure": [
+        "verse1",
+        "chorus1",
+        "verse2",
+        "chorus2",
+        "verse3",
+        "chorus3"
+    ],
+    "verse1": [
+        {"chords": "           Am                                           C  "},
+        {"lyrics": "I remember when, I remember, I remember when I lost my mind"},
+        {"chords": "                                             F  "},
+        {"lyrics": "There was something so pleasant about that place"},
+        {"chords": "                              "},
+        {"lyrics": "Even your emotions had an echo"},
+        {"chords": "             E  "},
+        {"lyrics": "In so much space"},
+        {"chords": "Am                                        "},
+        {"lyrics": "  And when you're out there, without care,"},
+        {"chords": "                     C  "},
+        {"lyrics": "Yeah, I was out of touch"},
+        {"chords": "                                       F  "},
+        {"lyrics": "But it wasn't because I didn't know enough"},
+        {"chords": "                  E "},
+        {"lyrics": "I just knew too much"}
+    ],
+    "verse2":[
+        {"chords": "A                                                 F   "},
+        {"lyrics": "  And I hope that you are having the time of your life"},
+        {"chords": "            C                      E  "},
+        {"lyrics": "But think twice, that's my only advice"},
+        {"chords": "Am                                                                      C   "},
+        {"lyrics": "  Come on now, who do you, who do you, who do you, who do you think you are,"},
+        {"chords": "                      F "},
+        {"lyrics": "Ha ha ha bless your soul"},
+        {"chords": "                              E   "},
+        {"lyrics": "You really think you're in control"}
+    ],
+    "verse3": [
+        {"chords": "A                                                      F   "},
+        {"lyrics": "  My heroes had the heart to lose their lives out on a limb"},
+        {"chords": "            C                                     E "},
+        {"lyrics": "And all I remember is thinking, I wanna be like them"},
+        {"chords": "Am                                                                  C"},
+        {"lyrics": "  Ever since I was little, ever since I was little it looked like fun"},
+        {"chords": "                              F  "},
+        {"lyrics": "And it's no coincidence I've come"},
+        {"chords": "                        E  "},
+        {"lyrics": "And I can die when I'm done"}
+    ],
+    "chorus1": [
+        {"chords": "                  Am    "},
+        {"lyrics": "Does that make me crazy?"},
+        {"chords": "                  C     "},
+        {"lyrics": "Does that make me crazy?"},
+        {"chords": "                  F     "},
+        {"lyrics": "Does that make me crazy?"},
+        {"chords": "     E  "},
+        {"lyrics": "Possibly"}
+    ],
+    "chorus2": [
+        {"chords": "                     Am    "},
+        {"lyrics": "Well, I think you're crazy!"},
+        {"chords": "               C     "},
+        {"lyrics": "I think you're crazy!"},
+        {"chords": "               F     "},
+        {"lyrics": "I think you're crazy,"},
+        {"chords": "          E "},
+        {"lyrics": "Just like me"}
+    ],
+    "chorus3":[
+        {"chords": "          Am"},
+        {"lyrics": "Maybe I'm crazy"},
+        {"chords": "             C    "},
+        {"lyrics": "Maybe you're crazy"},
+        {"chords": "            F    "},
+        {"lyrics": "Maybe we're crazy"},
+        {"chords": "     E  "},
+        {"lyrics": "Probably"}  
+    ]
+}
