@@ -18,8 +18,11 @@ class SongJSONReader:
         text=""
         for part in song_data["structure"]:
             text+=f"[{part}]\n"
-            for line in song_data[part]:
-                line = next(iter(line.values()))
-                text+=line+"\n"
+            try:
+                for line in song_data[part]:
+                    line = next(iter(line.values()))
+                    text+=line+"\n"
+            except:
+                raise ValueError(f"Error constructing text for part '{part}' in song data: {song_data}")
             text+="\n"
         return text
