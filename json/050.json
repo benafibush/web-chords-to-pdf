@@ -1,0 +1,54 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "Em C"}
+    ],
+    "verse1": [
+        {"chords": "            Em                                    C   "},
+        {"lyrics": "There was a time, I used to look into my father's eyes"},
+        {"chords": "           Em                                C     "},
+        {"lyrics": "In a happy home, I was a king I had a golden throne"},
+        {"chords": "               D             Em                  C   "},
+        {"lyrics": "Those days are gone, now the memories are on the wall"},
+        {"chords": "           D              Em                 C   "},
+        {"lyrics": "I hear the songs from the places where I was born"}
+    ],
+    "pre-chorus": [
+        {"chords": "Em                                C   "},
+        {"lyrics": "  Up on the hill, across the blue lake"},
+        {"chords": "                                  Em  "},
+        {"lyrics": "That's where I had my first heartbreak"},
+        {"chords": "                            C      "},
+        {"lyrics": "I still remember how it all changed"},
+        {"chords": "             D"},
+        {"lyrics": "My father said"}
+    ],
+    "chorus": [
+        {"chords": "          Em                      C   "},
+        {"lyrics": "Don't you worry, don't you worry child"},
+        {"chords": "                            D  "},
+        {"lyrics": "See heaven's got a plan for you"},
+        {"chords": "          Em                     C  "},
+        {"lyrics": "Don't you worry, don't you worry now"},
+        {"chords": "     D"},
+        {"lyrics": "Yeah! "}
+    ],
+    "verse2": [
+        {"chords": "(silence)   Em                                 C  "},
+        {"lyrics": "There was a time, I met a girl of a different kind"},
+        {"chords": "             Em                                           C   "},
+        {"lyrics": "We ruled the world, I thought I'll never lose her out of sight"},
+        {"chords": "           D         Em                  C   "},
+        {"lyrics": "We were so young, I think of her now and then"},
+        {"chords": "                 D        Em             C     "},
+        {"lyrics": "I still hear the songs reminding me of a friend"}
+    ]
+}

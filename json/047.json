@@ -1,0 +1,82 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "interlude",
+        "chorus",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "C               G            Am "},
+        {"lyrics": "Slip inside the eye of your mind"},
+        {"chords": "          E7             F   G"},
+        {"lyrics": "Don't you know you might find "},
+        {"chords": "                  C   Am G"},
+        {"lyrics": "A better place to play    "},
+        {"chords": "C             G           Am  "},
+        {"lyrics": "You said that you'd never been"},
+        {"chords": "            E7                 F   G"},
+        {"lyrics": "But all the things that you've seen "},
+        {"chords": "             C  Am G"},
+        {"lyrics": "Slowly fade away    "}
+    ],
+    "pre-chorus": [
+        {"chords": "F                 Fm             C  "},
+        {"lyrics": " So I start a revolution from my bed"},
+        {"chords": "         F                 Fm             C   "},
+        {"lyrics": "'Cos you said the brains I had went to my head"},
+        {"chords": "F             Fm              C    "},
+        {"lyrics": "Step outside, summertime's in bloom"},
+        {"chords": "G                            "},
+        {"lyrics": "Stand up beside the fireplace"},
+        {"chords": "E7                               "},
+        {"lyrics": "Take that look from off your face"},
+        {"chords": "Am             G             F       G"},
+        {"lyrics": "You ain't ever gonna burn my heart out"}
+    ],
+    "chorus": [
+        {"chords": "    C  G         Am        E7             F   "},
+        {"lyrics": "And so Sally can wait, she knows it's too late"},
+        {"chords": "         G          C Am G"},
+        {"lyrics": "as we're walking on by    "},
+        {"chords": "    C    G       Am E7"},
+        {"lyrics": "Her soul slides away  "},
+        {"chords": "               F            G"},
+        {"lyrics": "but don't look back in anger "},
+        {"chords": "            C   G Am E7 F G C Am G"},
+        {"lyrics": "I heard you say                   "}
+    ],
+    "verse2": [
+        {"chords": "C              G               Am"},
+        {"lyrics": "Take me to the place where you go"},
+        {"chords": "      E7     F      G                C  Am G"},
+        {"lyrics": "Where nobody knows, if it's night or day    "},
+        {"chords": "C                     G           Am   "},
+        {"lyrics": "Please don't put your life in the hands"},
+        {"chords": "     E7            F     G                    C  Am G"},
+        {"lyrics": "of a rock and roll band, who'll throw it all away    "}
+    ],
+    "interlude": [
+        {"chords": "F Fm C  x3"},
+        {"chords": "G E7"},
+        {"chords": "Am G F G"}
+    ],
+    "ending": [
+        {"chords": "C  G         Am        E7             F   "},
+        {"lyrics": "So Sally can wait, she knows it's too late"},
+        {"chords": "         G          C Am G"},
+        {"lyrics": "as she's walking on by    "},
+        {"chords": "   C    G       Am "},
+        {"lyrics": "My soul slides away"},
+        {"chords": "               F            "},
+        {"lyrics": "But don't look back in anger"},
+        {"chords": "           Fm           "},
+        {"lyrics": "Don't look back in anger"},
+        {"chords": "            C  G Am E7 F Fm               C  "},
+        {"lyrics": "I heard you say            At least not today"}
+    ]
+}
