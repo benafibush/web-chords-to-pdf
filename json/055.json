@@ -1,0 +1,58 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "Am                                 G   F    "},
+        {"lyrics": "Why, why can't this moment last forevermore?"},
+        {"chords": "  Am                           G    C   "},
+        {"lyrics": "Tonight, tonight eternity's an open door"},
+        {"chords": "Am                            G          F "},
+        {"lyrics": "No, don't ever stop doing the things you do"},
+        {"chords": "      Am                             G         C  "},
+        {"lyrics": "Don't go, in every breath I take I'm breathing you"}
+    ],
+    "chorus": [
+        {"chords": "  Em   D"},
+        {"lyrics": "Euphoria"},
+        {"chords": "                   G      C   "},
+        {"lyrics": "Forever, 'till the end of time"},
+        {"chords": "                  Em      D"},
+        {"lyrics": "From now on, only you and I"},
+        {"chords": "            G                 C  "},
+        {"lyrics": "We're going up-up-up-up-up-up-uup"},
+        {"chords": "  Em   D"},
+        {"lyrics": "Euphoria"},
+        {"chords": "               G        C  "},
+        {"lyrics": "An everlasting piece of art"},
+        {"chords": "                 Em      D    "},
+        {"lyrics": "A beating love within my heart"},
+        {"chords": "            G                 C  "},
+        {"lyrics": "We're going up-up-up-up-up-up-uup"}
+    ],
+    "verse2": [
+        {"chords": "Am                                      G  F    "},
+        {"lyrics": "We are here, we're all alone in our own Universe"},
+        {"chords": "Am                                          G          C    "},
+        {"lyrics": "We are free, where everything's allowed and love comes first"},
+        {"chords": "   Am                                     G   F "},
+        {"lyrics": "Forever and ever together, we sail into infinity"},
+        {"chords": "      Am                                                 G   C "},
+        {"lyrics": "We're higher and higher and higher, we're reaching for divinity"}
+    ],
+    "bridge": [
+        {"chords": "   Em      D           C     "},
+        {"lyrics": "Forever we sail into infinity"},
+        {"chords": "      Em     D      G              C   D "},
+        {"lyrics": "We're higher, we're reaching for divinity"},
+        {"chords": "  Em   D G C   Em   D"},
+        {"lyrics": "Euphoria     Euphoria"},
+        {"chords": "            G                 C  "},
+        {"lyrics": "We're going up-up-up-up-up-up-uup"}
+    ]
+}

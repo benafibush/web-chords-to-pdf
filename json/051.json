@@ -1,0 +1,64 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "G          Am                    C          "},
+        {"lyrics": "I used to have a home a place I started from"},
+        {"chords": "            G         "},
+        {"lyrics": "a place to call my own"},
+        {"chords": "      G                          "},
+        {"lyrics": "the bright lights and late nights"},
+        {"chords": "    Am                              "},
+        {"lyrics": "the devil took me on a midnight ride"},
+        {"chords": "C                               G  "},
+        {"lyrics": "left me out in the desert on my own"}
+    ],
+    "pre-chorus": [
+        {"chords": "    Am          D   "},
+        {"lyrics": "And now I feel alone"},
+        {"chords": "         Am                      D            "},
+        {"lyrics": "I need a hand to help me find my way back home"}
+    ],
+    "chorus": [
+        {"chords": "         G                          "},
+        {"lyrics": "I'm a drifter out on a dead end road"},
+        {"chords": "Am                             "},
+        {"lyrics": "trying to find my way back home"},
+        {"chords": "    C                 G        "},
+        {"lyrics": "to get to You, oh to get to You"},
+        {"chords": "       G                           "},
+        {"lyrics": "Lord I've been gone for far to long"},
+        {"chords": "Am                            "},
+        {"lyrics": "headed to places i dont belong"},
+        {"chords": "    C                            G  "},
+        {"lyrics": "and I've got to get back home to You"}
+    ],
+    "verse2": [
+        {"chords": "G                   Am                         C       "},
+        {"lyrics": "Sometimes I think about the past the road that I was on"},
+        {"chords": "                G         "},
+        {"lyrics": "the road that lead me home"},
+        {"chords": "G                        Am                               "},
+        {"lyrics": "I'll walk on another day I may wonder but I'll never stray"},
+        {"chords": "C                                  G  "},
+        {"lyrics": "I found out the hard way sin don't pay"}
+    ],
+    "bridge": [
+        {"chords": "Am                               D       "},
+        {"lyrics": "  and when I feel the night is closing in"},
+        {"chords": "Am                             F  "},
+        {"lyrics": "  and I can barely breathe the air"},
+        {"chords": "Am                          D           "},
+        {"lyrics": "  I just remember that i've got a friend"},
+        {"chords": "      Am                  F      G  "},
+        {"lyrics": "who really cares oh who really cares"}
+    ]
+}

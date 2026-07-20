@@ -1,0 +1,68 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "verse2",
+        "chorus",
+        "interlude",
+        "verse3",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "interlude": [
+{"chords": "C Em Am Em  x2"}
+    ],
+    "verse1": [
+{"chords": "         C                      Em         Am Em"},
+{"lyrics": "When you try your best, but you don't succeed   "},
+{"chords": "         C                      Em             Am Em"},
+{"lyrics": "When you get what you want, but not what you need   "},
+{"chords": "         C                  Em           Am Em"},
+{"lyrics": "When you feel so tired, but you can't sleep   "},
+{"chords": "            C Em Am Em"},
+{"lyrics": "Stuck in re-ver-se    "}
+    ],
+    "verse2": [
+{"chords": "         C                    Em          Am Em"},
+{"lyrics": "When the tears come streaming down your face   "},
+{"chords": "         C                  Em         Am Em"},
+{"lyrics": "When you lose something you can't replace   "},
+{"chords": "         C                    Em         Am Em"},
+{"lyrics": "When you love someone, but it goes to waste   "},
+{"chords": "            C Em Am  Em"},
+{"lyrics": "Could it be wo - rse?  "}
+    ],
+    "chorus": [
+{"chords": "F        C    G  G       F   "},
+{"lyrics": "  Lights will gu-ide you home"},
+{"chords": "    C    G  G      F    "},
+{"lyrics": "And ig-n-it-e your bones"},
+{"chords": "      C    G  G          "},
+{"lyrics": "And I will try to fix you"}
+    ],
+    "verse3": [
+{"chords": "    C                Em      Am Em"},
+{"lyrics": "And high up above or down below   "},
+{"chords": "            C              Em     Am Em"},
+{"lyrics": "When you're too in love to let it go   "},
+{"chords": "       C                      Em      Am Em"},
+{"lyrics": "If you never try, then you'll never know   "},
+{"chords": "                 C Em Am Em"},
+{"lyrics": "Just what you're wor-th    "}
+    ],
+    "bridge": [
+{"chords": "C    F    C    G"},
+{"chords": "Am   F    C    G"},
+{"chords": "C    F    C    G"},
+{"chords": "Am   F    C    G"},
+{"chords": "C             F              "},
+{"lyrics": "  Tears stream down your face"},
+{"chords": "C                         G                 "},
+{"lyrics": "  When you lose something you cannot replace"},
+{"chords": "Am            F              "},
+{"lyrics": "  Tears stream down your face"},
+{"chords": "    C       G "},
+{"lyrics": "And I........."}
+    ]
+}

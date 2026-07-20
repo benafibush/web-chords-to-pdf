@@ -1,0 +1,32 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "  C     G  Am   G           Dm            Am           G"},
+        {"lyrics": "I close my eyes only for a moment and the moment's gone "},
+        {"chords": "C   G  Am     G              Dm         Am   "},
+        {"lyrics": "All my dreams pass before my eyes a curiosity"}
+    ],
+    "chorus": [
+        {"chords": "D G           Am    D             G           Am  G"},
+        {"lyrics": "  Dust in the wind, all we are is dust in the wind "}
+    ],
+    "verse2": [
+        {"chords": "C    G   Am    G              Dm          Am         G"},
+        {"lyrics": "Same old song, just a drop of water in an endless sea "},
+        {"chords": "C   G  Am   G               Dm                 Am         "},
+        {"lyrics": "All we do,  crumbles to the ground though we refuse to see"}
+    ],
+    "verse3": [
+        {"chords": "     C     G    Am  G                Dm           Am           G"},
+        {"lyrics": "Now, don't hang on, nothing lasts forever but the earth and sky "},
+        {"chords": "   C     G   Am      G              Dm            Am        "},
+        {"lyrics": "It slips a - way and all your money won't another minute buy"}
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "G C Em D"}
+    ],
+    "verse1": [
+        {"chords": "G             C   "},
+        {"lyrics": "Here's how it goes"},
+        {"chords": "        Em"},
+        {"lyrics": "You and me"},
+        {"chords": "       D                       "},
+        {"lyrics": "Up and down but maybe this time"},
+        {"chords": "G            C    "},
+        {"lyrics": "We'll get it right"},
+        {"chords": "          Em   "},
+        {"lyrics": "Worth the fight"},
+        {"chords": "       D                           G    "},
+        {"lyrics": "'Cause love is something you can't shake"},
+        {"chords": "        C     "},
+        {"lyrics": "When it breaks"},
+        {"chords": "       Em              D   "},
+        {"lyrics": "All it takes is some trying"}
+    ],
+    "chorus": [
+        {"chords": "       G         C      "},
+        {"lyrics": "If you feel like leaving"},
+        {"chords": " Em                      D   "},
+        {"lyrics": "I'm not gonna beg you to stay"},
+        {"chords": "G                C    "},
+        {"lyrics": "Soon you'll be finding"},
+        {"chords": "        Em                       D                 G C"},
+        {"lyrics": "You can run you can hide but you can't escape my love "},
+        {"chords": "        Em                       D                   "},
+        {"lyrics": "You can run you can hide but you can't escape my love"}
+    ],
+    "verse2": [
+        {"chords": "G         C "},
+        {"lyrics": "So if you go"},
+        {"chords": "           Em  "},
+        {"lyrics": "You should know"},
+        {"chords": "     D                       G   "},
+        {"lyrics": "It's hard to just forget the past"},
+        {"chords": "   C   "},
+        {"lyrics": "So fast"},
+        {"chords": "       Em  "},
+        {"lyrics": "It was good"},
+        {"chords": "       D                       G     "},
+        {"lyrics": "It was bad but it was real and that's"},
+        {"chords": "        C   "},
+        {"lyrics": "All you have"},
+        {"chords": "       Em            D      "},
+        {"lyrics": "In the end our love mattered"}
+    ],
+    "bridge": [
+        {"chords": "        C                "},
+        {"lyrics": "You can run (you can run)"},
+        {"chords": "        D                  "},
+        {"lyrics": "You can hide (you can hide)"},
+        {"chords": "        C               D             "},
+        {"lyrics": "But you can't escape my love (my love)"},
+        {"chords": "        Em            D   "},
+        {"lyrics": "You can run  (you can run)"},
+        {"chords": "        C                  "},
+        {"lyrics": "You can hide (you can hide)"},
+        {"chords": "        D                   "},
+        {"lyrics": "But you can't escape my love"},
+        {"chords": "G             C   "},
+        {"lyrics": "Here's how it goes"},
+        {"chords": "       Em           D      "},
+        {"lyrics": "All it takes is some trying"}
+    ],
+    "ending": [
+        {"chords": "        G    C           Em   D  x4"},
+        {"lyrics": "You can ruuuuun, you can ruuuuun x4"}
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "post-chorus1",
+        "interlude",
+        "chorus",
+        "post-chorus2",
+        "interlude",
+        "ending"
+    ],
+    "interlude": [
+        {"chords": "Am A7 C D Am A7"}
+    ],
+    "verse1": [
+        {"chords": "                Am  C"},
+        {"lyrics": "Come on hold my hand "},
+        {"chords": "                    Em    E"},
+        {"lyrics": "I wanna contact the living "},
+        {"chords": "                Dm   C"},
+        {"lyrics": "Not sure I understand "},
+        {"chords": "                    Em   E"},
+        {"lyrics": "This role I've been given "},
+        {"chords": "                  Am C"},
+        {"lyrics": "I sit and talk to God "},
+        {"chords": "                         Em   E"},
+        {"lyrics": "And he just laughs at my plans "},
+        {"chords": "                 Dm      C"},
+        {"lyrics": "My head speaks a language "},
+        {"chords": "             Em   E"},
+        {"lyrics": "I don't understand "}
+    ],
+    "chorus":[ 
+        {"chords": "             F         C   "},
+        {"lyrics": "I just wanna feel real love"},
+        {"chords": "                     G      "},
+        {"lyrics": "Feel the home that I live in"},
+        {"chords": "                      F   "},
+        {"lyrics": "'cause I got too much life"},
+        {"chords": "                   C               G    "},
+        {"lyrics": "Running through my veins, going to waste"}
+    ],
+    "verse2": [
+        {"chords": "              Am C"},
+        {"lyrics": "I don't wanna die "},
+        {"chords": "                           Em    E"},
+        {"lyrics": "But I ain't keen on living either "},
+        {"chords": "                 Dm  C"},
+        {"lyrics": "Before I fall in love "},
+        {"chords": "                 Em       E"},
+        {"lyrics": "I'm preparing to leave her "},
+        {"chords": "                  Am   C"},
+        {"lyrics": "I scare myself to death "},
+        {"chords": "                     Em     E"},
+        {"lyrics": "That's why I keep on running "},
+        {"chords": "            Dm     C"},
+        {"lyrics": "Before I've arrived "},
+        {"chords": "                 Em    E"},
+        {"lyrics": "I can see myself coming "}
+    ],
+    "post-chorus1": [
+        {"chords": "              F          C   "},
+        {"lyrics": "And I need to feel, real love"},
+        {"chords": "                G    "},
+        {"lyrics": "And a life ever after"},
+        {"chords": "              Am   "},
+        {"lyrics": "I cannot get enough"}
+    ],
+    "post-chorus2": [
+        {"chords": "             F         C   "},
+        {"lyrics": "I just wanna feel real love"},
+        {"chords": "               G    "},
+        {"lyrics": "In a life ever after"},
+        {"chords": "                     F   "},
+        {"lyrics": "There's a hole in my soul"},
+        {"chords": "                     C                     G    "},
+        {"lyrics": "You can see it in my face, it's a real big place"}
+    ],
+    "ending": [
+        {"chords": "                Am  C"},
+        {"lyrics": "Come on hold my hand "},
+        {"chords": "                    Em    E"},
+        {"lyrics": "I wanna contact the living "},
+        {"chords": "                Dm   C"},
+        {"lyrics": "Not sure I understand "},
+        {"chords": "                    Em   E"},
+        {"lyrics": "This role I've been given "},
+        {"chords": "                Am   C"},
+        {"lyrics": "Not sure I understand "},
+        {"chords": "                Am   C"},
+        {"lyrics": "Not sure I understand "},
+        {"chords": "                Am   C"},
+        {"lyrics": "Not sure I understand "},
+        {"chords": "                Am   "},
+        {"lyrics": "Not sure I understand"}
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "A C G D  x4"}
+    ],
+    "verse1": [
+        {"chords": "A             C          "},
+        {"lyrics": "  I wish that I could fly"},
+        {"chords": "  G         "},
+        {"lyrics": "Into the sky"},
+        {"chords": "   D        "},
+        {"lyrics": "So very high"},
+        {"chords": "A             C         G D"},
+        {"lyrics": "  Just like a dragonfly    "},
+        {"chords": "A          C             "},
+        {"lyrics": "  I'd fly above the trees"},
+        {"chords": " G               D          "},
+        {"lyrics": "Over the seas in all degrees"},
+        {"chords": "A       C          G   D"},
+        {"lyrics": "  To anywhere I please  "}
+    ],
+    "chorus": [
+        {"chords": "   A          C       "},
+        {"lyrics": "Oh, I want to get away"},
+        {"chords": "G           D    A  "},
+        {"lyrics": "  I want to fly away"},
+        {"chords": "C    G    D"},
+        {"lyrics": "Yeah yeah yeah"}
+    ],
+    "verse2": [
+        {"chords": "A              C            "},
+        {"lyrics": "  Let's go and see the stars"},
+        {"chords": "    G            D        "},
+        {"lyrics": "The Milky Way or even Mars"},
+        {"chords": "A                C            G D"},
+        {"lyrics": "  Where it could just be ours    "},
+        {"chords": "A              C         "},
+        {"lyrics": "  Let's fade into the sun"},
+        {"chords": "         G         "},
+        {"lyrics": "Let your spirit fly"},
+        {"chords": "      D         "},
+        {"lyrics": "Where we are one"},
+        {"chords": "A            C         "},
+        {"lyrics": "  Just for a little fun"},
+        {"chords": "G        D          "},
+        {"lyrics": "  Oh! Oh! Oh, yeah !"}
+    ]
+}

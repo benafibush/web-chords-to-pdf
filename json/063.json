@@ -1,0 +1,61 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "verse3",
+        "chorus"
+    ],
+    "verse1": [
+{"chords": "C                 F      Am                    G     "},
+{"lyrics": "  I think I've had enough, I might get a little drunk"},
+{"chords": "C                F       Am             G      C   "},
+{"lyrics": "  I say what's on my mind, I might do a little time"},
+{"chords": "C                 F       Am                G    "},
+{"lyrics": "  Cause all of my kindness, is taken for weakness"}
+    ],
+    "chorus": [
+{"chords": "        C                    F      "},
+{"lyrics": "Now I'm FourFiveSeconds from wildin'"},
+{"chords": "           Am         G         C     "},
+{"lyrics": "And we got three more days 'til Friday"},
+{"chords": "               C                    F              "},
+{"lyrics": "I'm just tryna make it back home by Monday, mornin'"},
+{"chords": "  Am                              G  "},
+{"lyrics": "I swear I wish somebody would tell me"},
+{"chords": "          G         "},
+{"lyrics": "Ooh thats all I want"}
+    ],
+    "verse2": [
+{"chords": "C            F        C                    F       "},
+{"lyrics": "  Woke up an optimist, sun was shining I'm positive"},
+{"chords": "C                      F            "},
+{"lyrics": "  Then I heard you was talkin' trash"},
+{"chords": "C                  F            "},
+{"lyrics": "  Hold me back I'm bout' to spaz"}
+    ],
+    "bridge": [
+{"chords": "F                        Em        "},
+{"lyrics": "  And I know that you're up tonight"},
+{"chords": "         Dm                       "},
+{"lyrics": "Thinkin' how could I be so selfish"},
+{"chords": "F                       Em             Dm        Am      G   "},
+{"lyrics": "  But you called bout a thousand times wondering where I been"},
+{"chords": "F                      Em        "},
+{"lyrics": "  Now I know that your up tonight"},
+{"chords": "         Dm                        "},
+{"lyrics": "Thinkin' how could I be so reckless"},
+{"chords": "F                   Em          Dm           Am   G    "},
+{"lyrics": "  But I just can't apologize, I hope you can understand"}
+    ],
+    "verse3":[ 
+{"chords": "C                F       Am                 G        "},
+{"lyrics": "  If I go to jail tonight, promise you'll pay my bail"},
+{"chords": "C                  F           Am                      G        "},
+{"lyrics": "  See they want to buy my pride, but that just ain't up for sale"},
+{"chords": "C               F       Am                G    "},
+{"lyrics": "  See all of my kindness, is taken for weakness"}
+    ]
+}

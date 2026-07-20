@@ -1,0 +1,60 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "post-chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "post-chorus"
+    ],
+    "verse1": [
+        {"chords": "        Am            Dm  "},
+        {"lyrics": "We were good, we were gold"},
+        {"chords": "        G                   C   "},
+        {"lyrics": "Kind of dream that can't be sold"},
+        {"chords": "        Am            Dm     "},
+        {"lyrics": "We were right 'til we weren't"},
+        {"chords": "        G                   C   "},
+        {"lyrics": "Built a home and watched it burn"}
+    ],
+    "pre-chorus": [
+        {"chords": "     Am                        Dm                "},
+        {"lyrics": "Mmm, I didn't wanna leave you, I didn't wanna lie"},
+        {"chords": "E7                                   "},
+        {"lyrics": "Started to cry but then remembered, I"}
+    ],
+    "chorus": [
+        {"chords": "Am               Dm     "},
+        {"lyrics": "I can buy myself flowers"},
+        {"chords": "G                     C   "},
+        {"lyrics": " Write my name in the sand"},
+        {"chords": "Am                  Dm   "},
+        {"lyrics": " Talk to myself for hours"},
+        {"chords": "G                           C   "},
+        {"lyrics": " Say things you don't understand"},
+        {"chords": "Am                 Dm     "},
+        {"lyrics": " I can take myself dancing"},
+        {"chords": "G                      C   "},
+        {"lyrics": " And I can hold my own hand"},
+        {"chords": "            F              E7       Am "},
+        {"lyrics": "Yeah, I can love me better than you can"}
+    ],
+    "post-chorus": [
+        {"chords": "                    Dm                        "},
+        {"lyrics": "Can love me better, I can love me better, baby"},
+        {"chords": "G                    C                         "},
+        {"lyrics": " Can love me better, I can love me better, baby"}
+    ],
+    "verse2": [
+        {"chords": "         Am            Dm "},
+        {"lyrics": "Paint my nails, cherry red"},
+        {"chords": "          G              C   "},
+        {"lyrics": "Match the roses that you left"},
+        {"chords": "     Am          Dm  "},
+        {"lyrics": "No remorse, no regret"},
+        {"chords": "     G                   C   "},
+        {"lyrics": "I forgive every word you said"}
+    ]
+}

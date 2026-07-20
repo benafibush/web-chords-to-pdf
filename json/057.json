@@ -1,0 +1,75 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "Am C G F  x2"}
+    ],
+    "verse1": [
+        {"chords": "Am     C     G                  F         "},
+        {"lyrics": "  I looked away, then I looked back at you"},
+        {"chords": "Am      C       G                   F        "},
+        {"lyrics": "  You tried to say things that you can't undo"},
+        {"chords": "Am      C      G                 F       "},
+        {"lyrics": "  If I had my way, I'd never get over you"},
+        {"chords": "Am    C        G                   F             "},
+        {"lyrics": "  Today's the day, I pray that we make it through"},
+        {"chords": "Dm                        F                     "},
+        {"lyrics": "Make it through the fall, make it through it all"}
+    ],
+    "chorus": [
+        {"chords": "    C                           "},
+        {"lyrics": "And I don't wanna fall to pieces"},
+        {"chords": "Am                              G  "},
+        {"lyrics": "  I just wanna sit and stare at you"},
+        {"chords": "Dm                         "},
+        {"lyrics": "I don't wanna talk about it"},
+        {"chords": "    C                          "},
+        {"lyrics": "And I don't want a conversation"},
+        {"chords": "Am                             G  "},
+        {"lyrics": "  I just wanna cry in front of you"},
+        {"chords": "Dm                                F                   "},
+        {"lyrics": "I don't wanna talk about it cause I'm in love with you"}
+    ],
+    "verse2": [
+        {"chords": "Am            C    G                F          "},
+        {"lyrics": "  You're the only one, I'd be with till the end"},
+        {"chords": "Am        C       G                 F        "},
+        {"lyrics": "  When I come undone, you bring me back again"},
+        {"chords": "Dm                    F                "},
+        {"lyrics": "Back under the stars, back to your arms"}
+    ],
+    "bridge": [
+        {"chords": "Am       C              G"},
+        {"lyrics": "  Wanna know who you are "},
+        {"chords": "         Em             F"},
+        {"lyrics": "Wanna know where to start"},
+        {"chords": "               C        G   "},
+        {"lyrics": "I wanna know what this means"},
+        {"chords": "Am       C               G"},
+        {"lyrics": "  Wanna know how you feel "},
+        {"chords": "         Em           F"},
+        {"lyrics": "Wanna know what is real"},
+        {"chords": "               C      G      Em     F  "},
+        {"lyrics": "I wanna know ev-ery-thing, ev-ery-thing"}
+    ],
+    "ending": [
+        {"chords": "      C                   "},
+        {"lyrics": "Cause I'm in love with you"},
+        {"chords": "Am                  "},
+        {"lyrics": "I'm in love with you"},
+        {"chords": "      G                   "},
+        {"lyrics": "Cause I'm in love with you"},
+        {"chords": "Dm                  "},
+        {"lyrics": "I'm in love with you"},
+        {"chords": "F                   "},
+        {"lyrics": "I'm in love with you"}
+    ]
+}

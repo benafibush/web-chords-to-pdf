@@ -1,0 +1,111 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "chorus1",
+        "interlude",
+        "verse2",
+        "chorus2A",
+        "chorus2B",
+        "interlude",
+        "bridge",
+        "chorus2A",
+        "chorus1",
+        "ending"
+    ],
+    "interlude": [
+        {"chords": "C G F F"}
+    ],
+    "verse1": [
+        {"chords": "C                                    "},
+        {"lyrics": "Now that she's back in the atmosphere"},
+        {"chords": "     G                                  F            "},
+        {"lyrics": "With drops of Jupiter in her hair, hey, hey, hey, hey"},
+        {"chords": "    C                                   "},
+        {"lyrics": "She acts like summer and walks like rain"},
+        {"chords": "  G                                          F            "},
+        {"lyrics": "Reminds me that there's time to change, hey, hey, hey, hey"},
+        {"chords": "C                                         "},
+        {"lyrics": "Since the return from her stay on the moon"},
+        {"chords": "       G                                              F            "},
+        {"lyrics": "She listens like spring and she talks like June, hey, hey, hey, hey"},
+        {"chords": "                  "},
+        {"lyrics": "Hey, hey, hey, hey"}
+    ],
+    "chorus1": [
+        {"chords": "G                               D  "},
+        {"lyrics": "Tell me did you sail across the sun"},
+        {"chords": "                             F                              "},
+        {"lyrics": "Did you make it to the Milky Way to see the lights all faded"},
+        {"chords": "C                             "},
+        {"lyrics": "  And that heaven is overrated"},
+        {"chords": "G                                     D   "},
+        {"lyrics": "Tell me, did you fall from a shooting star"},
+        {"chords": "                        Dm  "},
+        {"lyrics": "One without a permanent scar"},
+        {"chords": "                                   F                             "},
+        {"lyrics": "And did you miss me while you were looking for yourself out there"}
+    ],
+    "verse2": [
+        {"chords": "C                                          "},
+        {"lyrics": "Now that she's back from that soul vacation"},
+        {"chords": "  G                                        F            "},
+        {"lyrics": "Tracing her way through the constellation, hey, hey, hey"},
+        {"chords": "    C                                      "},
+        {"lyrics": "She checks out Mozart while she does tae-bo"},
+        {"chords": "   G                                       F            "},
+        {"lyrics": "Reminds me that there's room to grow, hey, hey, hey, hey"},
+        {"chords": "C                                    "},
+        {"lyrics": "Now that she's back in the atmosphere"},
+        {"chords": "       G                                           F   "},
+        {"lyrics": "I'm afraid that she might think of me as plain ol' Jane"},
+        {"chords": "                                                                      "},
+        {"lyrics": "Told a story about a man who is too afraid to fly so he never did land"}
+    ],
+    "chorus2A": [
+        {"chords": "G                                       D   "},
+        {"lyrics": "Tell me did the wind sweep you off your feet"},
+        {"chords": "                                  F                           "},
+        {"lyrics": "Did you finally get the chance to dance along the light of day"},
+        {"chords": "C                               "},
+        {"lyrics": "  And head back to the Milky Way"}
+    ],
+    "chorus2B": [
+        {"chords": "    G                            D   "},
+        {"lyrics": "And tell me, did Venus blow your mind"},
+        {"chords": "                                Dm  "},
+        {"lyrics": "Was it everything you wanted to find"},
+        {"chords": "                                   F                             "},
+        {"lyrics": "And did you miss me while you were looking for yourself out there"}
+    ],
+    "bridge": [
+        {"chords": "                   C                              "},
+        {"lyrics": "Can you imagine no love, pride, deep-fried chicken"},
+        {"chords": "     G                           F                                        "},
+        {"lyrics": "Your best friend always sticking up for you, even when I know you're wrong"},
+        {"chords": "                   C                                 G                           "},
+        {"lyrics": "Can you imagine no first dance, freeze dried romance five-hour phone conversation"},
+        {"chords": "    Bb                                   F  "},
+        {"lyrics": "The best soy latte that you ever had, and me"}
+    ],
+    "ending": [
+        {"chords": "C                "},
+        {"lyrics": "Na na na na na na"},
+        {"chords": "G                 F          "},
+        {"lyrics": "Na na na na na na na-na-na-na"},
+        {"chords": "                                      F                           "},
+        {"lyrics": "And did you finally get the chance to dance along the light of day"},
+        {"chords": "C                "},
+        {"lyrics": "Na na na na na na"},
+        {"chords": "G                 F          "},
+        {"lyrics": "Na na na na na na na-na-na-na"},
+        {"chords": "                                      F                         "},
+        {"lyrics": "And did you fall from a shooting star, fall from a shooting star"},
+        {"chords": "C                "},
+        {"lyrics": "Na na na na na na"},
+        {"chords": "G                "},
+        {"lyrics": "Na na na na na na"},
+        {"chords": "           Bb                           F       "},
+        {"lyrics": "And are ya lonely looking for yourself out there"}
+    ]
+}
