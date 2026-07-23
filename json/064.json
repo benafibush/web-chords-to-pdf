@@ -1,0 +1,129 @@
+{
+    "structure": [
+        "chorus1",
+        "chorus2",
+        "chorus3",
+        "verse1",
+        "chorus4",
+        "chorus5",
+        "chorus6",
+        "verse2",
+        "chorus7",
+        "chorus8",
+        "chorus9",
+        "verse3",
+        "chorus10",
+        "chorus11",
+        "chorus12",
+        "chorus13",
+        "chorus14"
+    ],
+    "chorus1": [
+        {"chords": "Am  Dm         Am    Dm"},
+        {"lyrics": "Free  like the river   "},
+        {"chords": "        Am     Dm        E   Am"},
+        {"lyrics": "Flowing freely through infinity"}
+    ],
+    "chorus2": [
+        {"chords": "Am  Dm      Am      Dm"},
+        {"lyrics": "Free  to be sure of   "},
+        {"chords": "       Am     Dm    E        Am"},
+        {"lyrics": "What I am and who I need not be"}
+    ],
+    "chorus3": [
+        {"chords": "Dm  Gm         Dm      Gm"},
+        {"lyrics": "Free  from all worries   "},
+        {"chords": "        Dm      Gm        A        Dm  "},
+        {"lyrics": "Worries prey on oneself's troubled mind"}
+    ],
+    "verse1": [
+        {"chords": "Dm             Gm           "},
+        {"lyrics": "Freer than the clock's hands"},
+        {"chords": "Dm              Gm   "},
+        {"lyrics": "Tickin' way the times"},
+        {"chords": "Dm             Gm         E               A    "},
+        {"lyrics": "Freer than the meaning of free that man defines"}
+    ],
+    "chorus4": [
+        {"chords": "Am  Dm        Am         Dm"},
+        {"lyrics": "Life  running through me   "},
+        {"chords": "       Am      Dm     E       Am    "},
+        {"lyrics": "Till I feel my father God has called"}
+    ],
+    "chorus5": [
+        {"chords": "Am Dm       Am     Dm"},
+        {"lyrics": "Me   having nothin'  "},
+        {"chords": "      Am       Dm     E         Am "},
+        {"lyrics": "But possessing riches more than all"}
+    ],
+    "chorus6": [
+        {"chords": "        Dm  Gm      Dm     Gm"},
+        {"lyrics": "And I'm free  to be nowhere  "},
+        {"chords": "       Dm    Gm      A       Dm"},
+        {"lyrics": "But in every place I need to be"}
+    ],
+    "verse2": [
+        {"chords": "Dm           Gm     "},
+        {"lyrics": "Freer than a sunbeam"},
+        {"chords": "Dm                 Gm  "},
+        {"lyrics": "Shining through my soul"},
+        {"chords": "Dm                Gm      E              A   "},
+        {"lyrics": "Free from feelin' heat or knowing bitter cold"}
+    ],
+    "chorus7": [
+        {"chords": "Dm  Gm        Dm      Gm"},
+        {"lyrics": "Free  from conceiving   "},
+        {"chords": "      Dm          Gm         A        Dm   "},
+        {"lyrics": "The beginning for that's the infinite start"}
+    ],
+    "chorus8": [
+        {"chords": "    Dm  Gm                Dm     Gm"},
+        {"lyrics": "I'm gone - gone but still living   "},
+        {"chords": "          Dm     Gm    A       Dm   "},
+        {"lyrics": "Life goes on without a beating heart"}
+    ],
+    "chorus9": [
+        {"chords": "Gm  Cm       Gm     Cm"},
+        {"lyrics": "Free  like a vision   "},
+        {"chords": "         Gm      Cm   A       Dm "},
+        {"lyrics": "That the mind of only you can see"}
+    ],
+    "verse3": [
+        {"chords": "Gm           Cm      "},
+        {"lyrics": "Freer than a raindrop"},
+        {"chords": "Gm               Cm "},
+        {"lyrics": "Falling from the sky"},
+        {"chords": "Gm           Cm         A               D   "},
+        {"lyrics": "Freer than a smile in a baby's sleepin' eyes"}
+    ],
+    "chorus10": [
+        {"chords": "    Dm  Gm       Dm    Gm"},
+        {"lyrics": "I'm free  like a river   "},
+        {"chords": "        Dm     Gm        A   Dm"},
+        {"lyrics": "Flowin' freely through infinity"}
+    ],
+    "chorus11": [
+        {"chords": "    Dm  Gm      Dm      Gm"},
+        {"lyrics": "I'm free  to be sure of   "},
+        {"chords": "       Dm     Gm    A        Dm"},
+        {"lyrics": "what I am and who I need not be"}
+    ],
+    "chorus12": [
+        {"chords": "         Dm   Gm          Dm      Gm"},
+        {"lyrics": "I'm much freer - like the meaning   "},
+        {"chords": "            Dm        Gm    A     Dm   "},
+        {"lyrics": "of the word free that crazy man defines"}
+    ],
+    "chorus13": [
+        {"chords": "Dm  Gm                 Dm   Gm"},
+        {"lyrics": "Free - free like the vision   "},
+        {"chords": "         Dm      Gm   A                  Dm "},
+        {"lyrics": "That the mind of only you are ever gonna see"}
+    ],
+    "chorus14": [
+        {"chords": "Dm  Gm         Dm    Gm"},
+        {"lyrics": "Free  like the river   "},
+        {"chords": "             Dm     Gm           A   Dm"},
+        {"lyrics": "My life goes on and on through infinity"}
+    ]
+}

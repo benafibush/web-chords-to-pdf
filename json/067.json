@@ -1,0 +1,75 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "post-chorus",
+        "interlude",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "post-chorus"
+    ],
+    "interlude": [
+        {"chords": "Am C Em D  x2"}
+    ],
+    "verse1": [
+        {"chords": "D                        Am     "},
+        {"lyrics": "  Like the legend of the phoenix"},
+        {"chords": "C                 Em      "},
+        {"lyrics": "  All ends with beginnings"},
+        {"chords": "D                       Am      "},
+        {"lyrics": "  What keeps the planet spinning"},
+        {"chords": "C                      Em      D"},
+        {"lyrics": "  The force from the beginning  "}
+    ],
+    "pre-chorus": [
+        {"chords": "Am             C  "},
+        {"lyrics": "We've come too far"},
+        {"chords": "        Em        D  "},
+        {"lyrics": "To give up who we are"},
+        {"chords": "   Am              C  "},
+        {"lyrics": "So let's raise the bar"},
+        {"chords": "        Em          D    "},
+        {"lyrics": "And our cups to the stars"}
+    ],
+    "chorus": [
+        {"chords": "Am                               "},
+        {"lyrics": "   She's up all night till the sun"},
+        {"chords": "C                              "},
+        {"lyrics": "   I'm up all night to get some"},
+        {"chords": "Em                                "},
+        {"lyrics": "   She's up all night for good fun"},
+        {"chords": "D                               "},
+        {"lyrics": "   I'm up all night to get lucky"},
+        {"chords": "Am                                "},
+        {"lyrics": "   We're up all night till the sun"},
+        {"chords": "C                                "},
+        {"lyrics": "   We're up all night to get some"},
+        {"chords": "Em                                "},
+        {"lyrics": "   We're up all night for good fun"},
+        {"chords": "D                                 "},
+        {"lyrics": "   We're up all night to get lucky"}
+    ],
+    "post-chorus": [
+        {"chords": "Am                                "},
+        {"lyrics": "   We're up all night to get lucky"},
+        {"chords": "C                                 "},
+        {"lyrics": "   We're up all night to get lucky"},
+        {"chords": "Em                                "},
+        {"lyrics": "   We're up all night to get lucky"},
+        {"chords": "D                                 "},
+        {"lyrics": "   We're up all night to get lucky"}
+    ],
+    "verse2": [
+        {"chords": "D                    Am    "},
+        {"lyrics": "  The present has no ribbon"},
+        {"chords": "C                    Em    "},
+        {"lyrics": "  Your gift keeps on giving"},
+        {"chords": "D                  Am      "},
+        {"lyrics": "  What is this I'm feeling?"},
+        {"chords": "C                           Em      D"},
+        {"lyrics": "  If you want to leave, I'm with it  "}
+    ]
+}

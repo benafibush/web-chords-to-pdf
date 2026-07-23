@@ -1,0 +1,71 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus",
+        "post-chorus",
+        "interlude",
+        "bridge",
+        "chorus"
+    ],
+    "interlude": [
+        {"chords": "A7"}
+    ],
+    "verse1": [
+        {"chords": "A7                                               "},
+        {"lyrics": "Paint no illusion, try to click with what you got"},
+        {"chords": "A7                                              "},
+        {"lyrics": "Taste every potion as if you like yourself a lot"},
+        {"chords": "          D              F  G          A7                    "},
+        {"lyrics": "Go let it out, go let it in, go let it out (Pick up the Bass)"}
+    ],
+    "verse2": [
+        {"chords": "A7                                         "},
+        {"lyrics": "Life is precocious in the most peculiar way"},
+        {"chords": "A7                                     "},
+        {"lyrics": "Sister psychosis don't got a lot to say"},
+        {"chords": "              D                  F  G              A7 "},
+        {"lyrics": "She go let it out, she go let it in, she go let it out"},
+        {"chords": "              D                  F  G              A7 "},
+        {"lyrics": "She go let it out, she go let it in, she go let it out"}
+    ],
+    "chorus": [
+        {"chords": "D           F          A7          Cadd9"},
+        {"lyrics": "  Is it any wonder why princes and kings"},
+        {"chords": "D                 F              A7      Cadd9"},
+        {"lyrics": "  Are clowns that caper in their sawdust rings"},
+        {"chords": "D                 F        A7           Cadd9"},
+        {"lyrics": "  Ordinary people that are like you and me   "},
+        {"chords": "          G                   D "},
+        {"lyrics": "We're the keepers of our destiny"},
+        {"chords": "          G                   D  A7"},
+        {"lyrics": "We're the keepers of our destiny   "}
+    ],
+    "verse3": [
+        {"chords": "          A7                                              "},
+        {"lyrics": "I'm gonna live in the city, I'm gonna drive in out of town"},
+        {"chords": "    A7                                                 "},
+        {"lyrics": "And you're coming with me, the right time is always now"},
+        {"chords": "             D                 F  G             A7 "},
+        {"lyrics": "So go let it out, so go let it in, so go let it out"},
+        {"chords": "             D                 F  G              A7 "},
+        {"lyrics": "So go let it out, so go let it in, and go let it out"}
+    ],
+    "post-chorus": [
+        {"chords": "          G                      D   x4"},
+        {"lyrics": "We're the builders of their destiny  x4"}
+    ],
+    "bridge": [
+        {"chords": "             D              Cadd9 G"},
+        {"lyrics": "So go let it out, go let it in,    "},
+        {"chords": "          D                 Cadd9 G "},
+        {"lyrics": "Go let it out, don't let it in,     "},
+        {"chords": "              D                 Cadd9 G"},
+        {"lyrics": "And go let it out, don't let it in     "},
+        {"chords": "              D                     Cadd9            G                       A7"},
+        {"lyrics": "And go let it out, don't let it in, don't let it in, don't let in, don't let in"}
+    ]
+}

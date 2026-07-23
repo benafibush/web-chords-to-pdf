@@ -1,0 +1,90 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "pre-chorus1",
+        "chorus",
+        "interlude",
+        "verse2",
+        "pre-chorus2",
+        "chorus",
+        "bridge",
+        "interlude",
+        "chorus"
+    ],
+    "interlude": [
+        {"chords": "G C  x2"}
+    ],
+    "verse1": [
+        {"chords": "G                        C   "},
+        {"lyrics": "Walking down the Frith Street"},
+        {"chords": "G                      C "},
+        {"lyrics": "Dawn is creeping up on me"},
+        {"chords": "     G                  C "},
+        {"lyrics": "Some girls tears in a taxi"},
+        {"chords": "             G                       C"},
+        {"lyrics": "Five o'clock shadows drinking coffee  "}
+    ],
+    "pre-chorus1": [
+        {"chords": "   G                     C   "},
+        {"lyrics": "So this is what it feels like"},
+        {"chords": "               G                      C                    "},
+        {"lyrics": "This is how it feels, now I'm finally smiling on the inside"},
+        {"chords": "G                      C  "},
+        {"lyrics": "This is what it looks like"},
+        {"chords": "               G                      C         "},
+        {"lyrics": "This is how it looks from the outside staring in"}
+    ],
+    "chorus": [
+        {"chords": "         G                D            "},
+        {"lyrics": "And it's glorious just to laugh like us"},
+        {"chords": "        Am                               "},
+        {"lyrics": "And the world will turn, it'll never stop"},
+        {"chords": "C                            G   "},
+        {"lyrics": "  'Cause I've got nothing to hide"},
+        {"chords": "                         D         C  "},
+        {"lyrics": "And we've got nothing to lose, oh yeah"},
+        {"chords": "         G                  D        "},
+        {"lyrics": "And it's glorious, and it's all I see"},
+        {"chords": "     Am                                   C "},
+        {"lyrics": "On a day like this you know it's meant to be"},
+        {"chords": "                        G    "},
+        {"lyrics": "Now i've got nothing to find "},
+        {"chords": "                        D        C  "},
+        {"lyrics": "And I've got nothing to lose but you"},
+        {"chords": "              G  "},
+        {"lyrics": "And it's glorious"}
+    ],
+    "verse2": [
+        {"chords": "         G               C    "},
+        {"lyrics": "Drinking wine back in my house"},
+        {"chords": "         G                      C"},
+        {"lyrics": "Remember someone said your name  "},
+        {"chords": "          G                C   "},
+        {"lyrics": "I somehow lost the conversation"},
+        {"chords": "              G                  C"},
+        {"lyrics": "I've fallen a million miles away  "}
+    ],
+    "pre-chorus2": [
+        {"chords": "   G                     C   "},
+        {"lyrics": "So this is what it feels like"},
+        {"chords": "               G                         C                    "},
+        {"lyrics": "This is how it feels when you're finally walking on the inside"},
+        {"chords": "G                     C   "},
+        {"lyrics": "This is what it looks like"},
+        {"chords": "               G                      C         "},
+        {"lyrics": "This is how it looks from the outside staring in"}
+    ],
+    "bridge": [
+        {"chords": "Em                G                    "},
+        {"lyrics": "   Keep wanting a little, a little more"},
+        {"chords": "C              Em            "},
+        {"lyrics": "   Keep walking, keep walking"},
+        {"chords": "C                 Em                   "},
+        {"lyrics": "   Keep getting a little, a little more"},
+        {"chords": "C               C          G "},
+        {"lyrics": "   Keep running, keep running"},
+        {"chords": "  C     G                      C        "},
+        {"lyrics": "Oooooh, walking down the Frith Street..."}
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus1",
+        "chorus1",
+        "post-chorus1",
+        "verse2",
+        "pre-chorus2",
+        "chorus2",
+        "post-chorus2",
+        "verse3",
+        "post-chorus3"
+    ],
+    "verse1": [
+        {"chords": "                   Am                            C    "},
+        {"lyrics": "My love has got no money - he's got his strong beliefs"},
+        {"chords": "                   F                            E7   "},
+        {"lyrics": "My love has got no power- he's got his strong beliefs"},
+        {"chords": "                   Am                           C    "},
+        {"lyrics": "My love has got no fame - he's got his strong beliefs"},
+        {"chords": "                   F                             E7   "},
+        {"lyrics": "My love has got no money - he's got his strong beliefs"}
+    ],
+    "pre-chorus1": [
+        {"chords": "              F   "},
+        {"lyrics": "Want more and more"},
+        {"chords": "       G                      "},
+        {"lyrics": "People just want more and more"},
+        {"chords": "            Am    C                    "},
+        {"lyrics": "Freedom and love, what he's looking for"},
+        {"chords": "              F"},
+        {"lyrics": "Want more and more"},
+        {"chords": "       G                      "},
+        {"lyrics": "People just want more and more"},
+        {"chords": "            Am    C                    "},
+        {"lyrics": "Freedom and love, what he's looking for"}
+    ],
+    "chorus1": [
+        {"chords": "F                   G                       "},
+        {"lyrics": "Freed from desire - mind and senses purified"},
+        {"chords": "Am                  C                       "},
+        {"lyrics": "Freed from desire - mind and senses purified"},
+        {"chords": "F                   G                       "},
+        {"lyrics": "Freed from desire - mind and senses purified"},
+        {"chords": "Am                C"},
+        {"lyrics": "Freed from desire  "}
+    ],
+    "post-chorus1": [
+        {"chords": "          F             G   "},
+        {"lyrics": "Lalalalalalana nanana nanana"},
+        {"chords": "          Am            C "},
+        {"lyrics": "Lalalalalalana nanana nana"},
+        {"chords": "          F             G   "},
+        {"lyrics": "Lalalalalalana nanana nanana"},
+        {"chords": "          Am            Am"},
+        {"lyrics": "Lalalalalalana nanana nana"}
+    ],
+    "verse2": [
+        {"chords": "                   Bm                            D    "},
+        {"lyrics": "My love has got no money - he's got his strong beliefs"},
+        {"chords": "                   G                            F#   "},
+        {"lyrics": "My love has got no power- he's got his strong beliefs"},
+        {"chords": "                   Bm                           D    "},
+        {"lyrics": "My love has got no fame - he's got his strong beliefs"},
+        {"chords": "                   G                             F#   "},
+        {"lyrics": "My love has got no money - he's got his strong beliefs"}
+    ],
+    "pre-chorus2": [
+        {"chords": "              G"},
+        {"lyrics": "Want more and more"},
+        {"chords": "       A                      "},
+        {"lyrics": "People just want more and more"},
+        {"chords": "            Bm    D                    "},
+        {"lyrics": "Freedom and love, what he's looking for"},
+        {"chords": "              G"},
+        {"lyrics": "Want more and more"},
+        {"chords": "       A                      "},
+        {"lyrics": "People just want more and more"},
+        {"chords": "            Bm    D                    "},
+        {"lyrics": "Freedom and love, what he's looking for"}
+    ],
+    "chorus2": [
+        {"chords": "G                   A                       "},
+        {"lyrics": "Freed from desire - mind and senses purified"},
+        {"chords": "Bm                  D                       "},
+        {"lyrics": "Freed from desire - mind and senses purified"},
+        {"chords": "G                   A                       "},
+        {"lyrics": "Freed from desire - mind and senses purified"},
+        {"chords": "Bm                D"},
+        {"lyrics": "Freed from desire  "}
+    ],
+    "post-chorus2": [
+        {"chords": "          G             A   "},
+        {"lyrics": "Lalalalalalana nanana nanana"},
+        {"chords": "          Bm            D "},
+        {"lyrics": "Lalalalalalana nanana nana"},
+        {"chords": "          G             A   "},
+        {"lyrics": "Lalalalalalana nanana nanana"},
+        {"chords": "          Bm            E7 "},
+        {"lyrics": "Lalalalalalala nana-ohohhhh"}
+    ],
+    "verse3": [
+        {"chords": "                   G                             A    "},
+        {"lyrics": "My love has got no money - he's got his strong beliefs"},
+        {"chords": "                   Bm                           E7   "},
+        {"lyrics": "My love has got no power- he's got his strong beliefs"},
+        {"chords": "                   G                            A    "},
+        {"lyrics": "My love has got no fame - he's got his strong beliefs"},
+        {"chords": "                   Bm                E7"},
+        {"lyrics": "My love has got no money - woah-oh-oooooooh"}
+    ],
+    "post-chorus3": [
+        {"chords": "          G             A   "},
+        {"lyrics": "Lalalalalalana nanana nanana"},
+        {"chords": "          Bm            D "},
+        {"lyrics": "Lalalalalalana nanana nana"},
+        {"chords": "          G             A   "},
+        {"lyrics": "Lalalalalalana nanana nanana"},
+        {"chords": "          Bm            D "},
+        {"lyrics": "Lalalalalalana nanana lala"}
+    ]
+}

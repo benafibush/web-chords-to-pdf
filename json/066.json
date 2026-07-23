@@ -1,0 +1,54 @@
+{
+    "structure": [
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "verse4",
+        "chorus",
+        "verse1",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "Em                                        "},
+        {"lyrics": "   You only see what your eyes want to see"},
+        {"chords": "Em                          D            "},
+        {"lyrics": "   How can life be what you want it to be"},
+        {"chords": "       C       D                    Em   D"},
+        {"lyrics": "You're frozen, when your hearts not open  "}
+    ],
+    "verse2": [
+        {"chords": "Em                                         "},
+        {"lyrics": "   You're so consumed with how much you get"},
+        {"chords": "Em                         D              "},
+        {"lyrics": "   You waste your tme with hate and regret"},
+        {"chords": "       C       D                     Em   D"},
+        {"lyrics": "You're broken, when your heart's not open  "}
+    ],
+    "chorus": [
+        {"chords": "Em   A       C            G         "},
+        {"lyrics": "Mmm, mmm, if I could melt your heart"},
+        {"chords": "Em   A         F         G   "},
+        {"lyrics": "Mmm, mmm, we'd never be apart"},
+        {"chords": "Em   A    C             G    "},
+        {"lyrics": "Mmm, mmm, give yourself to me"},
+        {"chords": "Em   A    F   G             Em "},
+        {"lyrics": "Mmm, mmm, you hold ...  the key"}
+    ],
+    "verse3": [
+        {"chords": "Em                                          "},
+        {"lyrics": "   Now there's no point in placing the blame"},
+        {"chords": "Em                     D                "},
+        {"lyrics": "   And you should know I suffer the same"},
+        {"chords": "     C         D                Em     D"},
+        {"lyrics": "If I lose you, my heart will be broken  "}
+    ],
+    "verse4": [
+        {"chords": "Em                                 "},
+        {"lyrics": "   Love is a bird, she needs to fly"},
+        {"chords": "Em                    D              "},
+        {"lyrics": "   Let all the hurt inside of you die"},
+        {"chords": "       C       D                    Em   D"},
+        {"lyrics": "You're frozen, when your hearts not open  "}
+    ]
+}
