@@ -12,6 +12,7 @@ class SongJSONReader:
             raise ValueError(f"Error reading song JSON file '{path}': {e}")
         song_text = self.construct_text(song_data)
         df.loc[df['ID'] == songid, 'Text'] = song_text
+        df = df.sort_values(by=['Artist', 'Title']).reset_index(drop=True)
         return df
     
     def construct_text(self, song_data: dict) -> str:
