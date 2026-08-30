@@ -1,0 +1,52 @@
+{
+    "structure": [
+        "intro",
+        "chorus",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "Am G F E7  x2"}
+    ],
+    "chorus": [
+        {"chords": "        Am   G        F              E7      Am       G        F        E7   "},
+        {"lyrics": "Hit the road Jack and don't you come back no more, no more, no more, no more."},
+        {"chords": "        Am   G        F              E7      Am   G F        E7   "},
+        {"lyrics": "Hit the road Jack and don't you come back no more. (What you say?)"},
+        {"chords": "        Am   G        F              E7      Am       G        F        E7   "},
+        {"lyrics": "Hit the road Jack and don't you come back no more, no more, no more, no more."},
+        {"chords": "        Am   G        F              E7      Am G F E7"},
+        {"lyrics": "Hit the road Jack and don't you come back no more     "}
+    ],
+    "verse1": [
+        {"chords": "   Am        G            F           E7   "},
+        {"lyrics": "Oh woman, oh woman, don't treat me so mean,"},
+        {"chords": "           Am          G               F    E7   "},
+        {"lyrics": "You're the meanest old woman that I've ever seen."},
+        {"chords": "  Am       G       F  E7"},
+        {"lyrics": "I guess if you say so   "},
+        {"chords": "     Am              G          F           E7    "},
+        {"lyrics": "I'll have to pack my things and go. (That's right)"}
+    ],
+    "verse2": [
+        {"chords": "    Am           G             F               E7 "},
+        {"lyrics": "Now baby, listen baby, don't-a treat me this-a way"},
+        {"chords": "    Am      G          F         E7  "},
+        {"lyrics": "For I'll be back on my feet some day."},
+        {"chords": "       Am          G              F    E7   "},
+        {"lyrics": "(Don't care if you do 'cause it's understood"},
+        {"chords": "    Am           G         F             E7    "},
+        {"lyrics": "you ain't got no money you just ain't no good.)"},
+        {"chords": "        Am       G       F  E7"},
+        {"lyrics": "Well, I guess if you say so   "},
+        {"chords": "    Am              G          F           E7    "},
+        {"lyrics": "I'd have to pack my things and go. (That's right)"}
+    ],
+    "ending": [
+        {"chords": "F              E7      Am   G  x7"},
+        {"lyrics": "Don't you come back no more    x7"}
+    ]
+}

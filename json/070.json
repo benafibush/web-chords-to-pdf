@@ -1,0 +1,81 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus1",
+        "interlude1",
+        "verse2",
+        "chorus2",
+        "bridge",
+        "chorus3",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "D G A D G A D"}
+    ],
+    "verse1": [
+        {"chords": "       G A   D             G   A   D    "},
+        {"lyrics": "I have often dreamed, of a far off place"},
+        {"chords": "        G A    Bm                G           A "},
+        {"lyrics": "Where a hero's welcome, would be waiting for me"},
+        {"chords": "          G  A        D           G    A      Bm  "},
+        {"lyrics": "Where the crowds will cheer, when they see my face"},
+        {"chords": "      G     F#    Bm              G                  A "},
+        {"lyrics": "And a voice keeps saying, this is where I'm meant to be"}
+    ],
+    "chorus1": [
+        {"chords": "        D         Em   D             A      "},
+        {"lyrics": "I'll be there someday, I can go the distance"},
+        {"chords": "       D       Em   D           A     "},
+        {"lyrics": "I will find my way, if I can be strong"},
+        {"chords": "       D     G             Bm       Em   "},
+        {"lyrics": "I know every mile, will be worth my while"},
+        {"chords": "       G  A   D  A      Bm   A  G           A   D   "},
+        {"lyrics": "When I go the distance, I'll be right where I belong"}
+    ],
+    "interlude1": [
+        {"chords": "D A G  (x2)"}
+    ],
+    "verse2": [
+        {"chords": "        G A     D          G  A     D   "},
+        {"lyrics": "Down an unknown road, to embrace my fate"},
+        {"chords": "            G    A   Bm              G          A  "},
+        {"lyrics": "Though that road may wander, it will lead me to you"},
+        {"chords": "      G A      D        G      A         Bm  "},
+        {"lyrics": "And a thousand years, would be worth the wait"},
+        {"chords": "         G    F# Bm               G               A      "},
+        {"lyrics": "It might take a lifetime, but somehow I'll see it through"}
+    ],
+    "chorus2": [
+        {"chords": "      D          Em    D            A       "},
+        {"lyrics": "And I won't look back, I can go the distance"},
+        {"chords": "         D       Em           D              A   "},
+        {"lyrics": "And I'll stay on track, no, I won't accept defeat"},
+        {"chords": "        D      G            Bm         Em  "},
+        {"lyrics": "It's an uphill slope, but I won't lose hope"},
+        {"chords": "       G  A   D  A      Bm  A  G       A     D    "},
+        {"lyrics": "Till I go the distance, and my journey is complete"}
+    ],
+    "bridge": [
+        {"chords": "       F                Bb          C       A   "},
+        {"lyrics": "But to look beyond the glory is the hardest part"},
+        {"chords": "      D                  G               F#   "},
+        {"lyrics": "For a hero's strength is measured by his heart"}
+    ],
+    "chorus3": [
+        {"chords": "       D        Em    D             A       "},
+        {"lyrics": "Like a shooting star, I will go the distance"},
+        {"chords": "       D          Em     D                A    "},
+        {"lyrics": "I will search the world, I will face its' harms"},
+        {"chords": "        D        E    F#           Bm      "},
+        {"lyrics": "I don't care how far, I can go the distance"},
+        {"chords": "       G    A  D A    Bm A     G       A       D   "},
+        {"lyrics": "Till I find my hero's welcome, waiting in your arms"}
+    ],
+    "ending": [
+        {"chords": "       D          G             Bm        Em   "},
+        {"lyrics": "I will search the world, I will face it's harms"},
+        {"chords": "       G    A  D A    Bm A     G       A       G A D"},
+        {"lyrics": "Till I find my hero's welcome, waiting in your arms "}
+    ]
+}

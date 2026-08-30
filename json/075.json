@@ -1,0 +1,83 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "verse2",
+        "pre-chorus1",
+        "chorus",
+        "verse3",
+        "pre-chorus2",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "Em G D C"}
+    ],
+    "verse1": [
+        {"chords": "   Em G      D C"},
+        {"lyrics": "Hello,  it's me "},
+        {"chords": "      Em           G               D    "},
+        {"lyrics": "I was wondering if after all these years"},
+        {"chords": "              C           Em  G     D     C"},
+        {"lyrics": "You'd like to meet, to go over everything  "},
+        {"chords": "              Em                 G      "},
+        {"lyrics": "They say that time's supposed to heal ya"},
+        {"chords": "            D         C      "},
+        {"lyrics": "But I ain't done much healing"}
+    ],
+    "verse2": [
+        {"chords": "   Em G         D       C"},
+        {"lyrics": "Hello,  can you hear me? "},
+        {"chords": "       Em         G              D              C "},
+        {"lyrics": "I'm in California dreaming about who we used to be"},
+        {"chords": "             Em     G    D  C"},
+        {"lyrics": "When we were younger and free"},
+        {"chords": "        Em            G               D                 C   "},
+        {"lyrics": "I've forgotten how it felt before the world fell at our feet"}
+    ],
+    "pre-chorus1": [
+        {"chords": "               Em       D    Bm   C "},
+        {"lyrics": "There's such a difference between us"},
+        {"chords": "      Em   D  C    "},
+        {"lyrics": "And a million miles"}
+    ],
+    "chorus": [
+        {"chords": "Em         C          G D"},
+        {"lyrics": "Hello from the other side"},
+        {"chords": "  Em               C         G  D "},
+        {"lyrics": "I must've called a thousand times "},
+        {"chords": "        Em      C               G               D   "},
+        {"lyrics": "To tell you I'm sorry, for everything that I've done"},
+        {"chords": "           Em       C     G          D   "},
+        {"lyrics": "But when I call you never seem to be home"},
+        {"chords": "Em         C      G  D"},
+        {"lyrics": "Hello from the outside"},
+        {"chords": "   Em          C             G   D"},
+        {"lyrics": "At least I can say that I've tried"},
+        {"chords": "        Em      C          G             D    "},
+        {"lyrics": "To tell you I'm sorry, for breaking your heart"},
+        {"chords": "             Em         C               G         D       Em G D C"},
+        {"lyrics": "But it don't matter, it clearly doesn't tear you apart anymore    "}
+    ],
+    "verse3": [
+        {"chords": "   Em G     D       C"},
+        {"lyrics": "Hello,  how are you? "},
+        {"chords": "        Em         G           D                C    "},
+        {"lyrics": "It's so typical of me to talk about myself, I'm sorry"},
+        {"chords": "  Em  G            D    C"},
+        {"lyrics": "I hope that you're well  "},
+        {"chords": "        Em           G                      D            C        "},
+        {"lyrics": "Did you ever make it out of that town where nothing ever happened?"}
+    ],
+    "pre-chorus2": [
+        {"chords": "        Em    D         Bm      C      Em      D      C   "},
+        {"lyrics": "It's no secret that the both of us are running out of time"}
+    ],
+    "bridge": [
+        {"chords": "D  G        Em  C  x3"},
+        {"lyrics": "Ooooohh, anymore   x3"},
+        {"chords": "   D    G"},
+        {"lyrics": "Anymore  "}
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus1",
+        "chorus1",
+        "interlude",
+        "verse2",
+        "pre-chorus2",
+        "chorus2",
+        "ending",
+        "interlude"
+    ],
+    "verse1": [
+        {"chords": "Am                 "},
+        {"lyrics": "Heaven's not enough"},
+        {"chords": "        Am           "},
+        {"lyrics": "If when you get there"},
+        {"chords": "      F          "},
+        {"lyrics": "Just another blue"},
+ 
+        {"chords": "Am                     "},
+        {"lyrics": "And heaven's not enough"},
+        {"chords": "          Am             "},
+        {"lyrics": "You think you've found it"},
+        {"chords": "       F        "},
+        {"lyrics": "And it loses you"}
+    ],
+    "pre-chorus1": [
+        {"chords": "Am                               "},
+        {"lyrics": "   You've thought of all there is"},
+        {"chords": "    F         "},
+        {"lyrics": "But not enough"},
+        {"chords": "       Am             F    "},
+        {"lyrics": "And it loses you in a cloud"}
+    ],
+    "chorus1": [
+        {"chords": "Am         G            F               D    "},
+        {"lyrics": "There most everthing is nothin' That it seems"},
+        {"chords": "Am        G                  F          D  "},
+        {"lyrics": "Where you see the things you only wanna see"},
+        {"chords": "    Am      "},
+        {"lyrics": "I'd fly away"},
+        {"chords": "     G           "},
+        {"lyrics": "To a higher plane"},
+        {"chords": "   F             Bb  "},
+        {"lyrics": "To say words I resist"},
+        {"chords": "           Am"},
+        {"lyrics": "To float away"},
+        {"chords": "Em     "},
+        {"lyrics": "To sigh"},
+        {"chords": "   G          D     "},
+        {"lyrics": "To breathe... forget"}
+    ],
+    "interlude": [
+        {"chords": "Am F Am F Am"}
+    ],
+    "verse2": [
+        {"chords": "    Am                 "},
+        {"lyrics": "And heaven's not enough"},
+        {"chords": "                            F         "},
+        {"lyrics": "If when I'm there I don't remember you"},
+        {"chords": "    Am                "},
+        {"lyrics": "And heaven does enough"},
+        {"chords": "          Am         "},
+        {"lyrics": "You think you know it"},
+        {"chords": "       F       "},
+        {"lyrics": "And it uses you"}
+    ],
+    "pre-chorus2": [
+        {"chords": "Am                     "},
+        {"lyrics": "   I saw so many things"},
+        {"chords": "    F           "},
+        {"lyrics": "But like a dream"},
+        {"chords": "       Am             F    "},
+        {"lyrics": "Always losing me in a cloud"}
+    ],
+    "chorus2": [
+        {"chords": "        Am                    G          "},
+        {"lyrics": "Cause I couldn't cry, cause I turned away"},
+        {"chords": "         D            "},
+        {"lyrics": "Couldn't see the score"},
+        {"chords": "        Am              G                "},
+        {"lyrics": "Didn't know the pain of leaving yesterday"},
+        {"chords": "       D         "},
+        {"lyrics": "really far behind"},
+        {"chords": "    Am              G           "},
+        {"lyrics": "In another life in another dream"},
+        {"chords": "     D             "},
+        {"lyrics": "By a different name"},
+        {"chords": "        Am       G           "},
+        {"lyrics": "Gave it all away for a memory"},
+        {"chords": "      D        "},
+        {"lyrics": "And a quiet lie"},
+        {"chords": "      Am                 G           "},
+        {"lyrics": "And I felt the face of a cold tonight"},
+        {"chords": "            D             "},
+        {"lyrics": "Still don't know the score"},
+        {"chords": "      Am               G                "},
+        {"lyrics": "But I know the pain of leaving everthing"},
+        {"chords": "       D         "},
+        {"lyrics": "really far behind"}
+    ],
+    "ending": [
+        {"chords": "   Am         "},
+        {"lyrics": "If I could cry"},
+        {"chords": "   G                 C       Bb       Am      Ab   "},
+        {"lyrics": "If I could live what truth I did then take me there"},
+        {"chords": "Bb         C   Em"},
+        {"lyrics": "Heaven goodbye   "}
+    ]
+}

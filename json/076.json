@@ -1,0 +1,81 @@
+{
+    "structure": [
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus",
+        "verse4",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "          G     "},
+        {"lyrics": "Would you dance,"},
+        {"chords": "                  Em    "},
+        {"lyrics": "If I asked you to dance?"},
+        {"chords": "          C   "},
+        {"lyrics": "Would you run,"},
+        {"chords": "               D    "},
+        {"lyrics": "And never look back?"},
+        {"chords": "          G   "},
+        {"lyrics": "Would you cry,"},
+        {"chords": "              Em     "},
+        {"lyrics": "If you saw me crying?"},
+        {"chords": "          C       D      G     "},
+        {"lyrics": "Would you save my soul tonight?"}
+    ],
+    "verse2": [
+        {"chords": "          G      "},
+        {"lyrics": "Would you tremble"},
+        {"chords": "                  Em   "},
+        {"lyrics": "If I touched your lips?"},
+        {"chords": "          C     "},
+        {"lyrics": "Would you laugh,"},
+        {"chords": "                  D    "},
+        {"lyrics": "Oh please tell me this."},
+        {"chords": "              G   "},
+        {"lyrics": "Now would you die,"},
+        {"chords": "                Em   "},
+        {"lyrics": "For the one you love?"},
+        {"chords": "        C       D      G     "},
+        {"lyrics": "Hold me in your arms tonight."}
+    ],
+    "chorus": [
+        {"chords": "G     D             C    "},
+        {"lyrics": "I can be your hero, baby."},
+        {"chords": "G     D             C    "},
+        {"lyrics": "I can kiss away the pain."},
+        {"chords": "G      D               C    "},
+        {"lyrics": "I will stand by you forever."},
+        {"chords": "G       D       C           "},
+        {"lyrics": "You can take my breath away."}
+    ],
+    "verse3": [
+        {"chords": "          G     "},
+        {"lyrics": "Would you swear,"},
+        {"chords": "                      Em   "},
+        {"lyrics": "That you'll always be mine?"},
+        {"chords": "          C   "},
+        {"lyrics": "Would you lie?"},
+        {"chords": "                   D   "},
+        {"lyrics": "Would you run and hide?"},
+        {"chords": "            G    "},
+        {"lyrics": "Am I in too deep?"},
+        {"chords": "               Em   "},
+        {"lyrics": "Have I lost my mind?"},
+        {"chords": "        C            D      G     "},
+        {"lyrics": "I don't care, you're here tonight."}
+    ],
+    "verse4": [
+        {"chords": "G                    Em      "},
+        {"lyrics": "  Oh, I just want to hold you"},
+        {"chords": "C                D       "},
+        {"lyrics": "  I just want to hold you"},
+        {"chords": "                     G    "},
+        {"lyrics": "Oh yeah, Am I in too deep?"},
+        {"chords": "               Em   "},
+        {"lyrics": "Have I lost my mind?"},
+        {"chords": "             C            D      G     "},
+        {"lyrics": "Well I don't care, you're here tonight."}
+    ]
+}

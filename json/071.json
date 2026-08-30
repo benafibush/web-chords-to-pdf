@@ -1,0 +1,38 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "interlude",
+        "verse2",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "G                           Cadd9             D   "},
+        {"lyrics": "   Another turning point, a fork stuck in the road"},
+        {"chords": "G                                 Cadd9              D "},
+        {"lyrics": "   Time grabs you by the wrist, directs you where to go"},
+        {"chords": "Em             D            C                  G  "},
+        {"lyrics": "   So make the best of this test and don't ask why"},
+        {"chords": "Em            D              C                 G   "},
+        {"lyrics": "   It's not a question but a lesson learned in time"}
+    ],
+    "chorus": [
+        {"chords": "     Em             G            Em              G    "},
+        {"lyrics": "It's something unpredictable but in the end it's right"},
+        {"chords": "  Em               D            G   "},
+        {"lyrics": "I hope you had the time of your life"}
+    ],
+    "interlude": [
+        {"chords": "G Cadd9 D  x2"}
+    ],
+    "verse2": [
+        {"chords": "G                              Cadd9                D   "},
+        {"lyrics": "   So take the photographs and still frames in your mind"},
+        {"chords": "G                         Cadd9                D   "},
+        {"lyrics": "   Hang it on a shelf, in good health and good time"},
+        {"chords": "Em            D            C            G    "},
+        {"lyrics": "   Tattoos of memories and dead skin on trial"},
+        {"chords": "Em               D            C             G    "},
+        {"lyrics": "   For what it's worth it was worth all the while"}
+    ]
+}

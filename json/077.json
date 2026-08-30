@@ -1,0 +1,53 @@
+{
+   "structure": [
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "Em                      C       G       D    Em   "},
+        {"lyrics": "Hey brother! There's an endless road to rediscover"},
+        {"chords": "Em                   C       G         D        Em     "},
+        {"lyrics": "Hey sister! Know the water's sweet but blood is thicker"},
+        {"chords": "D          G         C       D         D           "},
+        {"lyrics": "Oh, if the sky comes falling down, for you, there's"},
+        {"chords": "G               C                Em"},
+        {"lyrics": "nothing in this world I wouldn't do"}
+    ],
+    "verse2": [
+        {"chords": "Em                  C       G        D    Em     "},
+        {"lyrics": "Hey brother! Do you still believe in one another?"},
+        {"chords": "Em                 C       G        D       Em    "},
+        {"lyrics": "Hey sister! Do you still believe in love? I wonder"},
+        {"chords": "D          G         C       D         D           "},
+        {"lyrics": "Oh, if the sky comes falling down, for you, there's"},
+        {"chords": "G               C                Em"},
+        {"lyrics": "nothing in this world I wouldn't do"}
+    ],
+    "chorus": [
+        {"chords": "      Em              C        G    "},
+        {"lyrics": "ah-ah-ah, What if I'm far from home?"},
+        {"chords": "   D                        Em   "},
+        {"lyrics": "Oh brother, I will hear you call!"},
+        {"chords": "          C       G   "},
+        {"lyrics": "What if I lose it all?"},
+        {"chords": "   G                           "},
+        {"lyrics": "Oh sister, I will help you out!"},
+        {"chords": "D          G         C       D         D           "},
+        {"lyrics": "Oh, if the sky comes falling down, for you, there's"},
+        {"chords": "G               C                Em"},
+        {"lyrics": "nothing in this world I wouldn't do"}
+    ],
+    "verse3": [
+        {"chords": "Em                      C       G       D    Em   "},
+        {"lyrics": "Hey brother! There's an endless road to rediscover"},
+        {"chords": "Em                 C        G       D       Em    "},
+        {"lyrics": "Hey sister! Do you still believe in love? I wonder"},
+        {"chords": "D          G         C       D         D           "},
+        {"lyrics": "Oh, if the sky comes falling down, for you, there's"},
+        {"chords": "G               C                Em"},
+        {"lyrics": "nothing in this world I wouldn't do"}
+    ]
+}
