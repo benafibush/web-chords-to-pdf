@@ -1,0 +1,66 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "bridge1",
+        "chorus",
+        "verse2",
+        "bridge2",
+        "chorus",
+        "interlude",
+        "bridge1",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "C F  x4"}
+    ],
+    "verse1": [
+        {"chords": "            C           Em7     Dm7"},
+        {"lyrics": "I know your eyes in the morning sun"},
+        {"chords": "A7         Dm7             E7      F   "},
+        {"lyrics": "I feel you touch me in the pouring rain"},
+        {"chords": "        C               Em7    Am7        "},
+        {"lyrics": "And the moment that you wander far from me"},
+        {"chords": "        Dm7                  F   "},
+        {"lyrics": "I wanna feel you in my arms again"}
+    ],
+    "bridge1": [
+        {"chords": "        F               Em7          "},
+        {"lyrics": "And you come to me on a summer breeze"},
+        {"chords": "        Dm7                         Bb          "},
+        {"lyrics": "Keep me warm in your love, then you softly leave"},
+        {"chords": "         Em7            F                      C    "},
+        {"lyrics": "And it's me you need to show, how deep is your love?"}
+    ],
+    "chorus": [
+        {"chords": "    C                                        "},
+        {"lyrics": "How deep is your love? How deep is your love?"},
+        {"chords": "F                Fm   "},
+        {"lyrics": "I really mean to learn"},
+        {"chords": "             C                    Bb                 A7  "},
+        {"lyrics": "'Cause we're living in a world of fools, breaking us down"},
+        {"chords": "          A7                Dm7      Fm              C "},
+        {"lyrics": "When they all should let us be, we belong to you and me"}
+    ],
+    "verse2": [
+        {"chords": "C    Em7      Dm7"},
+        {"lyrics": " I believe in you"},
+        {"chords": "A7           Dm7        E7   F   "},
+        {"lyrics": "You know the door to my very soul"},
+        {"chords": "           C           Em7     Am7         "},
+        {"lyrics": "You're the light in my deepest darkest hour"},
+        {"chords": "          Dm7            F   "},
+        {"lyrics": "You're my saviour when I fall"}
+    ],
+    "bridge2": [
+        {"chords": "        F               Em7         "},
+        {"lyrics": "And you may not think I care for you"},
+        {"chords": "         Dm7                     Bb       "},
+        {"lyrics": "When you know down inside that I really do"},
+        {"chords": "         Em7            F                      C    "},
+        {"lyrics": "And it's me you need to show, how deep is your love?"}
+    ],
+    "interlude": [
+        {"chords": "C Em7 Dm7 | A7 Dm7 E7 F | C Em7 Am7 | Dm7 F"}
+    ]
+}

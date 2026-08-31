@@ -1,0 +1,50 @@
+{
+    "structure": [
+        "בית1",
+        "פזמון",
+        "בית2",
+        "פזמון"
+    ],
+    "בית1": [
+        {"chords": "     Bm7b5     Am"},
+        {"lyrics": "מישהו, מישהו דואג"},
+        {"chords": "  E Ebdim7   Dm  C  "},
+        {"lyrics": "דואג לי שם ל מ ע ל ה"},
+        {"chords": "    Bm7b5         Am"},
+        {"lyrics": "בא והדליק כמה כוכבים"},
+        {"chords": "E Ebdim7  Dm    C       "},
+        {"lyrics": "      והם נופלים אחד אחד"}
+    ],
+    "פזמון": [
+        {"chords": "Amaj7              E7             Ebdim7"},
+        {"lyrics": "      אנו סובבים בשתי דרכים שונות       "},
+        {"chords": "Bm7b5  C              "},
+        {"lyrics": "      יום ולילה לאורכן"},
+        {"chords": "        Bb               "},
+        {"lyrics": "עייפים ורעבים ומחכים לאות"},
+        {"chords": "Am E             "},
+        {"lyrics": "  בנתיבי אבק וזמן"},
+        {"chords": "Gm         Dm                "},
+        {"lyrics": "   אנו נפגש בסוף דרכים ושאלות"},
+        {"chords": "Bm7b5         C      "},
+        {"lyrics": "  נפגש בתום ימים רבים"},
+        {"chords": "Am        E       "},
+        {"lyrics": "   בתום הרבה לילות"},
+        {"chords": "          Dm            "},
+        {"lyrics": "אני יודעת שאתה קרב עכשיו"},
+        {"chords": "Bm7b5     F C7     G  Am      "},
+        {"lyrics": "   אביב חלף, קיץ נאסף והגשם שב"},
+        {"chords": "Am           E"},
+        {"lyrics": "הו הו הו הו הו"}
+    ],
+    "בית2": [
+        {"chords": "     Bm7b5     Am"},
+        {"lyrics": "מישהו, מישהו דואג"},
+        {"chords": "  E Ebdim7   Dm  C  "},
+        {"lyrics": "דואג לי שם ל מ ע ל ה"},
+        {"chords": "    Bm7b5       Am"},
+        {"lyrics": "בא ואסף כמה כוכבים"},
+        {"chords": "E Ebdim7  Dm   C       "},
+        {"lyrics": "      השיב אותם אחד אחד"}
+    ]
+}
