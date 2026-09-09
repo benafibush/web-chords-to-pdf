@@ -1,0 +1,59 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "verse2",
+        "bridge",
+        "verse3",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "E7"}
+    ],
+    "verse1": [
+        {"chords": "             E7                     A7          E7  "},
+        {"lyrics": "Well she was just seventeen and you know what I mean"},
+        {"chords": "        E7                               B7  "},
+        {"lyrics": "And the way she looked was way beyond compare"},
+        {"chords": "   E           E7          A      Am"},
+        {"lyrics": "So how could I dance with another oh"},
+        {"chords": "       E       B7       E7   "},
+        {"lyrics": "When I saw her standing there"}
+    ],
+    "verse2": [
+        {"chords": "     E7                   A7         E7 "},
+        {"lyrics": "Well she looked at me and I, I could see"},
+        {"chords": "       E7                                  B7 "},
+        {"lyrics": "That before too long I'd fall in love with her"},
+        {"chords": "E            E           A       Am"},
+        {"lyrics": "She wouldn't dance with another, oh"},
+        {"chords": "       E       B7       E7   "},
+        {"lyrics": "When I saw her standing there"}
+    ],
+    "bridge": [
+        {"chords": "        A              "},
+        {"lyrics": "Well my heart went boom"},
+        {"chords": "       A                "},
+        {"lyrics": "When I crossed that room"},
+        {"chords": "      A                B7 A7"},
+        {"lyrics": "And I held her hand in miiine"}
+    ],
+    "verse3": [
+        {"chords": "        E7                      "},
+        {"lyrics": "Well we danced through the night"},
+        {"chords": "       A7              E7   "},
+        {"lyrics": "and we held each other tight"},
+        {"chords": "       E7                               B7 "},
+        {"lyrics": "And before too long I fell in love with her"},
+        {"chords": "    E          E7          A7      Am"},
+        {"lyrics": "Now I'll never dance with another, oh"},
+        {"chords": "            E7      B7       E7   "},
+        {"lyrics": "Oh, since I saw her standing there"}
+    ],
+    "ending": [
+        {"chords": "            E7      B7       E7   "},
+        {"lyrics": "Oh, since I saw her standing there"},
+        {"chords": "                    E7      B7       A7    E7"},
+        {"lyrics": "Yeah, well, since I saw her standing there   "}
+    ]
+}

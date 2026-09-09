@@ -1,0 +1,134 @@
+{
+    "structure": [
+        "intro",
+        "chorus1",
+        "post-chorus1",
+        "chorus2",
+        "bridge1",
+        "chorus3",
+        "post-chorus2",
+        "bridge2",
+        "chorus4",
+        "chorus5",
+        "chorus6",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "C Am   "},
+        {"lyrics": "Mmmm..."},
+        {"chords": "      F           "},
+        {"lyrics": "I get wings to fly"},
+        {"chords": "G        C   "},
+        {"lyrics": "Oh, I'm alive"}
+    ],
+    "chorus1": [
+        {"chords": "         C         "},
+        {"lyrics": "When you call on me"},
+        {"chords": "       Am             "},
+        {"lyrics": "When I hear you breath"},
+        {"chords": "      F           "},
+        {"lyrics": "I get wings to fly"},
+        {"chords": "  G              C   "},
+        {"lyrics": "I feel that I'm alive"}
+    ],
+    "post-chorus1": [
+        {"chords": "         Am        "},
+        {"lyrics": "When you look at me"},
+        {"chords": "       F           "},
+        {"lyrics": "I can touch the sky"},
+        {"chords": "  G             C    "},
+        {"lyrics": "I know that I'm alive"}
+    ],
+    "chorus2": [
+        {"chords": "         C            "},
+        {"lyrics": "When you bless the day"},
+        {"chords": "       Am        "},
+        {"lyrics": "I just drift away"},
+        {"chords": "       F          "},
+        {"lyrics": "All my worries die"},
+        {"chords": "    G              C   "},
+        {"lyrics": "I'm glad that I'm alive"}
+    ],
+    "bridge1": [
+        {"chords": "       Am                  "},
+        {"lyrics": "You've set my heart on fire"},
+        {"chords": "               F   "},
+        {"lyrics": "Filled me with love"},
+        {"chords": "          G               C    "},
+        {"lyrics": "Made me a woman on clouds above"},
+        {"chords": "  Am                      "},
+        {"lyrics": "I couldn't get much higher"},
+        {"chords": "                 F    "},
+        {"lyrics": "My spirit takes flight"},
+        {"chords": "            G   "},
+        {"lyrics": "'Cause I'm alive"}
+    ],
+    "chorus3": [
+        {"chords": "          C                              "},
+        {"lyrics": "(When you call on me) When you call on me"},
+        {"chords": "        Am                                     "},
+        {"lyrics": "(When I hear you breath) When I hear you breath"},
+        {"chords": "      F           "},
+        {"lyrics": "I get wings to fly"},
+        {"chords": "  G             C    "},
+        {"lyrics": "I feel that I'm alive"},
+        {"chords": "          "},
+        {"lyrics": "I am alive"}
+    ],
+    "post-chorus2": [
+        {"chords": "          C                                  "},
+        {"lyrics": "(When you reach for me) When you reach for me"},
+        {"chords": "        F           "},
+        {"lyrics": "Raising spirits high"},
+        {"chords": "    G         "},
+        {"lyrics": "God knows that"}
+    ],
+    "bridge2": [
+        {"chords": "Dm               F  "},
+        {"lyrics": "That I'll be the one"},
+        {"chords": "         Am"},
+        {"lyrics": "Standing by"},
+        {"chords": "                         G           "},
+        {"lyrics": "Through good and through trying times"},
+        {"chords": "Dm                 F  "},
+        {"lyrics": "   And it's only begun"},
+        {"chords": "        Am                      G   "},
+        {"lyrics": "I can't wait for the rest of my life"}
+    ],
+    "chorus4": [
+        {"chords": "          D                              "},
+        {"lyrics": "(When you call on me) When you call on me"},
+        {"chords": "          Bm                                 "},
+        {"lyrics": "(When you reach for me) When you reach for me"},
+        {"chords": "      G           "},
+        {"lyrics": "I get wings to fly"},
+        {"chords": "  A        "},
+        {"lyrics": "I feel that"}
+    ],
+    "chorus5": [
+        {"chords": "          D                                               "},
+        {"lyrics": "(When you bless the day) when you bless, you bless the day"},
+        {"chords": "       Bm        "},
+        {"lyrics": "I just drift away"},
+        {"chords": "       G          "},
+        {"lyrics": "All my worries die"},
+        {"chords": "    A              D   "},
+        {"lyrics": "I'm glad that I'm alive"}
+    ],
+    "chorus6": [
+        {"chords": "         D                                "},
+        {"lyrics": "When you bless the day (I just drift away)"},
+        {"chords": "       Bm        "},
+        {"lyrics": "I just drift away"},
+        {"chords": "       G          "},
+        {"lyrics": "All my worries die"},
+        {"chords": "  A              D   "},
+        {"lyrics": "I know that I'm alive"}
+    ],
+    "ending": [
+        {"chords": "      G           "},
+        {"lyrics": "I get wings to fly"},
+        {"chords": "    A               D   "},
+        {"lyrics": "God knows that I'm alive"}
+    ]
+}

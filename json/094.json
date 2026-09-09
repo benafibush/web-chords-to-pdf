@@ -1,0 +1,56 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "chorus",
+        "interlude",
+        "pre-chorus",
+        "chorus"
+    ],
+    "interlude": [
+        {"chords": "Am Dm F C  x2"}
+    ],
+    "verse1":[ 
+        {"chords": "  Am                                    Dm    "},
+        {"lyrics": "Tonight's the night we're gonna make it happen"},
+        {"chords": "  F                                 C   "},
+        {"lyrics": "Tonight we'll put all other things aside"},
+        {"chords": "     Am                             Dm      "},
+        {"lyrics": "Give in this time and show me some affection"},
+        {"chords": "      F                                C    "},
+        {"lyrics": "We're going for those pleasures in the night"}
+    ],
+    "pre-chorus": [
+        {"chords": "          Bm                  Am           Em       "},
+        {"lyrics": "I want to love you, feel you, wrap myself around you"},
+        {"chords": "          Bm                         Am                   "},
+        {"lyrics": "I want to squeeze you, please you, I just can't get enough"},
+        {"chords": "           Dm        Em               G "},
+        {"lyrics": "And if you move real slow I'll let it go"}
+    ],
+    "chorus": [
+        {"chords": "         Am                      F      "},
+        {"lyrics": "I'm so excited, and I just can't hide it"},
+        {"chords": "F                    G                  Am     "},
+        {"lyrics": "I'm about to lose control and I think I like it"},
+        {"chords": "         Am                      F      "},
+        {"lyrics": "I'm so excited, and I just can't hide it"},
+        {"chords": "    F                     G       "},
+        {"lyrics": "And I know, I know, I know, I know"},
+        {"chords": "         Am      "},
+        {"lyrics": "I know I want you"}
+    ],
+    "verse2": [
+        {"chords": "   Am                           Dm    "},
+        {"lyrics": "We shouldn't even think about tomorrow"},
+        {"chords": "      F                              C    "},
+        {"lyrics": "Sweet memories will last a long, long time"},
+        {"chords": "      Am                               Dm   "},
+        {"lyrics": "We'll have a good time baby, don't you worry"},
+        {"chords": "       F                                          C    "},
+        {"lyrics": "And if we're still playing 'round, boy that's just fine"}
+    ]
+}

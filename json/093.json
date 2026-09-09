@@ -1,0 +1,81 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "G B Em C"},
+        {"chords": "G B Em C"},
+        {"chords": "G B Em C"},
+        {"chords": "G D G"}
+    ],
+    "verse1": [
+        {"chords": "G  B             Em       C"},
+        {"lyrics": "   You and me we made a vow"},
+        {"chords": "G      B             Em    C"},
+        {"lyrics": "   For better or for worse  "},
+        {"chords": "G    B                 Em       C "},
+        {"lyrics": "   I can't believe you let me down"},
+        {"chords": "        G               D      G    "},
+        {"lyrics": "But the proof is in the way it hurts"}
+    ],
+    "verse2": [
+        {"chords": "G      B                  Em       C   "},
+        {"lyrics": "   For months on end I've had my doubts"},
+        {"chords": "G    B           Em   C"},
+        {"lyrics": "   Denying every tear  "},
+        {"chords": "G    B                  Em     C"},
+        {"lyrics": "   I wish this would be over now"},
+        {"chords": "      G                 D        G   "},
+        {"lyrics": "But I know that I still need you here"}
+    ],
+    "chorus": [
+        {"chords": "    G B       Em   C"},
+        {"lyrics": "You say I'm crazy   "},
+        {"chords": "      G                 B                Em   C"},
+        {"lyrics": "Cause you don't think I know what you've done  "},
+        {"chords": "    G B      Em      D C "},
+        {"lyrics": "But when you call me baby"},
+        {"chords": "  G                D    G   C"},
+        {"lyrics": "I know I'm not the only one  "}
+    ],
+    "verse3": [
+        {"chords": "G         B          Em       C"},
+        {"lyrics": "   You've been so unavailable  "},
+        {"chords": "G      B            Em  C"},
+        {"lyrics": "   Now sadly I know why  "},
+        {"chords": "G       B            Em     C"},
+        {"lyrics": "   Your heart is unobtainable"},
+        {"chords": "     G                 D        G   "},
+        {"lyrics": "Even though Lord knows you kept mine"}
+    ],
+    "bridge": [
+        {"chords": "C                         G       "},
+        {"lyrics": "   I have loved you for many years"},
+        {"chords": " B                   Em    D"},
+        {"lyrics": "Maybe I am just not enough  "},
+        {"chords": "C                            G           "},
+        {"lyrics": "   You've made me realise my deepest fear"},
+        {"chords": "   C                    D "},
+        {"lyrics": "By lying and tearing us up"}
+    ],
+    "ending": [
+        {"chords": "  G                B      Em  C"},
+        {"lyrics": "I know I'm not the   only one  "},
+        {"chords": "  G                B    Em  C"},
+        {"lyrics": "I know I'm not the only one  "},
+        {"chords": "      G                     B              "},
+        {"lyrics": "And I know and I know and I know and I know"},
+        {"chords": "      Em         D    C   "},
+        {"lyrics": "And I know and I know know"},
+        {"chords": "    G              D    G  "},
+        {"lyrics": "I know I'm not the only one"}
+    ]
+}

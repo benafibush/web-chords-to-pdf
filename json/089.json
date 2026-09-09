@@ -1,0 +1,63 @@
+{
+    "structure": [
+        "verse1",
+        "chorus1",
+        "verse2",
+        "chorus1",
+        "bridge",
+        "chorus1",
+        "chorus2"
+    ],
+    "verse1": [
+        {"chords": "Em                   C           D     Em          D C"},
+        {"lyrics": "   When the world is darker than I can understand     "},
+        {"chords": "Em              D             C     Em       D C"},
+        {"lyrics": "   when nothing turns out the way I planned     "},
+        {"chords": "Em                    C                   D      Em     D C"},
+        {"lyrics": "   when the sky turns gray and there's no end in sight     "},
+        {"chords": "Em              D                 C      Em    D"},
+        {"lyrics": "   when I can't sleep through the lonely night  "}
+    ],
+    "chorus1": [
+        {"chords": "          C          Am               Em          "},
+        {"lyrics": "I turn to you like a flower leaning toward the sun"},
+        {"chords": "          Am        D               Em "},
+        {"lyrics": "I turn to you cause you're the only one"},
+        {"chords": "                 C    Am                Em  "},
+        {"lyrics": "who can turn me around  when I'm upside down"},
+        {"chords": "          D C Em"},
+        {"lyrics": "I turn to yoooou"}
+    ],
+    "verse2": [
+        {"chords": "Em                     C              D  Em  D C"},
+        {"lyrics": "   When my insides are wrecked with anxiety     "},
+        {"chords": "Em              D               C     Em  D C"},
+        {"lyrics": "   you have the touch that will quiet me     "},
+        {"chords": "Em             C           D        Em   D C"},
+        {"lyrics": "   You lift my spirit, you melt the ice     "},
+        {"chords": "Em                  D              C      Em   D"},
+        {"lyrics": "   when I need inspiration, when I need advice  "}
+    ],
+    "bridge": [
+        {"chords": "C                  G                "},
+        {"lyrics": "  Where would I be?  What would I do"},
+        {"chords": "C                          D       "},
+        {"lyrics": "  if you'd never helped me through?"},
+        {"chords": "C                G                        "},
+        {"lyrics": "  I hope someday   if you've lost your way"},
+        {"chords": "          C                 D          "},
+        {"lyrics": "you could turn to me like I turn to you"}
+    ],
+    "chorus2": [
+        {"chords": "          C        Am               Em         "},
+        {"lyrics": "I turn to you when fear tells me to turn around"},
+        {"chords": "          Am        D               Em "},
+        {"lyrics": "I turn to you cause you're the only one"},
+        {"chords": "                 C    Am                Em  "},
+        {"lyrics": "who can turn me around  when I'm upside down"},
+        {"chords": "          D C Em"},
+        {"lyrics": "I turn to yoooou"},
+        {"chords": "          D C Em"},
+        {"lyrics": "I turn to yoooou"}
+    ]
+}

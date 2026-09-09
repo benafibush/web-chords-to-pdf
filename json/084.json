@@ -1,0 +1,54 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "interlude",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "interlude",
+        "pre-chorus",
+        "chorus",
+        "interlude"
+    ],
+    "verse1": [
+        {"chords": "Am         C             D                              G    D C"},
+        {"lyrics": "   Can't explain all the feelings that you're making me feel    "},
+        {"chords": "Am               C             D                          G     D C "},
+        {"lyrics": "   My heart's in overdrive and you're behind the steering wheel     "}
+    ],
+    "pre-chorus": [
+        {"chords": "G Am             "},
+        {"lyrics": "     Touching you"},
+        {"chords": "G Am            "},
+        {"lyrics": "     Touching me"},
+        {"chords": "G Am              "},
+        {"lyrics": "     Touching you,"},
+        {"chords": "           C        D "},
+        {"lyrics": "God you're touching me"}
+    ],
+    "chorus": [
+        {"chords": "G                 C                "},
+        {"lyrics": "   I believe in a thing called love"},
+        {"chords": "Am                    D                 "},
+        {"lyrics": "   Just listen to the rhythm of my heart"},
+        {"chords": "G                            C          "},
+        {"lyrics": "   There's a chance we could make it now"},
+        {"chords": "Am                           D            "},
+        {"lyrics": "   We'll be rocking 'til the sun goes down"},
+        {"chords": "G                 C            Am D "},
+        {"lyrics": "   I believe in a thing called lo-ve"},
+        {"chords": "Em   F        "},
+        {"lyrics": "OoOOOOOh! Huh!"}
+    ],
+    "interlude": [
+        {"chords": "Am C D  G D C"}
+    ],
+    "verse2": [
+        {"chords": "Am         C              D                         G   D C"},
+        {"lyrics": "   I wanna kiss you every minute, every hour, every day    "},
+        {"chords": "Am            C             D                G D C"},
+        {"lyrics": "   You got me in a spin but everythin' is A-OK!   "}
+    ]
+}

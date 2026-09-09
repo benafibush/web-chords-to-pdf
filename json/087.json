@@ -1,0 +1,84 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "verse2",
+        "verse1",
+        "bridge",
+        "verse3",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "G Em"}
+    ],
+    "verse1": [
+        {"chords": "  G                                   Em         "},
+        {"lyrics": "I don't know what it is that makes me love you so"},
+        {"chords": "  G                         Em        "},
+        {"lyrics": "I only know I never want to let you go"},
+        {"chords": "      C           D        "},
+        {"lyrics": "Cause you started something"},
+        {"chords": "   C         D7 "},
+        {"lyrics": "Oh can't you see"},
+        {"chords": "    G                              Em        "},
+        {"lyrics": "And ever since we met you've had a hold on me"},
+        {"chords": "   C             D   "},
+        {"lyrics": "It happens to be true"},
+        {"chords": "  C          D7      G  "},
+        {"lyrics": "I only wanna be with you"}
+    ],
+    "verse2": [
+        {"chords": "   G                              Em       "},
+        {"lyrics": "It doesn't really matter what you say or do"},
+        {"chords": "  G                                  Em          "},
+        {"lyrics": "I want to spend each moment and each day with you"},
+        {"chords": "C             D       "},
+        {"lyrics": "Look what has happened"},
+        {"chords": "     C        D7  "},
+        {"lyrics": "with just one kiss"},
+        {"chords": "  G                             Em            "},
+        {"lyrics": "I never knew that I could be in love like this"},
+        {"chords": "     C              D   "},
+        {"lyrics": "It's crazy but it's true"},
+        {"chords": "  C          D7      G  "},
+        {"lyrics": "I only wanna be with you"}
+    ],
+    "bridge": [
+        {"chords": "Cm                          "},
+        {"lyrics": "You stopped and smiled at me"},
+        {"chords": "    G          C        G    "},
+        {"lyrics": "And asked if I cared to dance"},
+        {"chords": "A           A7       "},
+        {"lyrics": "I fell into open arms"},
+        {"chords": "    C                D     "},
+        {"lyrics": "And I didn't stand a chance"},
+        {"chords": "                "},
+        {"lyrics": "Now listen honey"}
+    ],
+    "verse3": [
+        {"chords": "G                            Em        "},
+        {"lyrics": "I just want to be beside you everywhere"},
+        {"chords": "   G                            Em          "},
+        {"lyrics": "As long as we're together honey I don't care"},
+        {"chords": "      C           D        "},
+        {"lyrics": "Cause you started something"},
+        {"chords": "   C         D7 "},
+        {"lyrics": "Oh can't you see"},
+        {"chords": "    G                              Em        "},
+        {"lyrics": "And ever since we met you've had a hold on me"},
+        {"chords": "   C             D   "},
+        {"lyrics": "It happens to be true"},
+        {"chords": "  C          D7      G  "},
+        {"lyrics": "I only wanna be with you"}
+    ],
+    "ending": [
+        {"chords": "   C               D "},
+        {"lyrics": "No matter what you do"},
+        {"chords": "  C            "},
+        {"lyrics": "I only wanna..."},
+        {"chords": "  C            "},
+        {"lyrics": "I only wanna..."},
+        {"chords": "  C          D7      G  "},
+        {"lyrics": "I only wanna be with you"}
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "verse2",
+        "pre-chorus1",
+        "chorus",
+        "interlude",
+        "verse3",
+        "pre-chorus2",
+        "chorus",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "           Dm        G   Am  "},
+        {"lyrics": "Oh, angels sent from up above"},
+        {"chords": "             Dm      G           Am"},
+        {"lyrics": "You know you make my world light up"},
+        {"chords": "           Dm         G     Am  "},
+        {"lyrics": "When I was down, when I was hurt"},
+        {"chords": "            Dm      Am"},
+        {"lyrics": "You came to lift me up"}
+    ],
+    "verse2": [
+        {"chords": "          Dm         G        Am  "},
+        {"lyrics": "Life is a drink, and love's a drug"},
+        {"chords": "         Dm              G     Am"},
+        {"lyrics": "Oh now I think I must be miles up"},
+        {"chords": "           Dm  G          Am"},
+        {"lyrics": "When I was a river, dried up"},
+        {"chords": "            Dm     Am   "},
+        {"lyrics": "You came to rain a flood"}
+    ],
+    "pre-chorus1": [
+        {"chords": "              Am        G    Am"},
+        {"lyrics": "So drink from me, drink from me"},
+        {"chords": "           F  Em   Dm"},
+        {"lyrics": "When I was so thirsty"},
+        {"chords": "          Am G  Am"},
+        {"lyrics": "Pour on a symphony"},
+        {"chords": "      Dm                   "},
+        {"lyrics": "Now I just can't get enough"},
+        {"chords": "                  Am        G  Am"},
+        {"lyrics": "Put your wings on me, wings on me"},
+        {"chords": "           F  Em Dm"},
+        {"lyrics": "When I was so heavy"},
+        {"chords": "          Am G  Am"},
+        {"lyrics": "Pour on a symphony"},
+        {"chords": "         Dm                "},
+        {"lyrics": "When I'm low, low, low, low"}
+    ],
+    "chorus": [
+        {"chords": "F    G     Am"},
+        {"lyrics": "I-Oh-ah-oh-ah"},
+        {"chords": "                         F   "},
+        {"lyrics": "Got me feeling drunk and high"},
+        {"chords": "   G        Am   "},
+        {"lyrics": "So high, so high "},
+        {"chords": "F    G     Am"},
+        {"lyrics": "I-oh-ah-oh-ah"},
+        {"chords": "                      F   "},
+        {"lyrics": "I'm feeling drunk and high"},
+        {"chords": "   G        Am   "},
+        {"lyrics": "So high, so high "}
+    ],
+    "interlude": [
+        {"chords": "Dm G Am Am  x2"}
+    ],
+    "verse3": [
+        {"chords": "           Dm        G   Am  "},
+        {"lyrics": "Oh, angels sent from up above"},
+        {"chords": "           Dm       G          Am"},
+        {"lyrics": "I feel you coursing through my blood"},
+        {"chords": "          Dm          G       Am  "},
+        {"lyrics": "Life is a drink, your love's about"},
+        {"chords": "            Dm         Am "},
+        {"lyrics": "To make the stars come out"}
+    ],
+    "pre-chorus2": [
+        {"chords": "                  Am        G  Am"},
+        {"lyrics": "Put your wings on me, wings on me"},
+        {"chords": "           F  Em Dm"},
+        {"lyrics": "When I was so heavy"},
+        {"chords": "          Am G  Am"},
+        {"lyrics": "Pour on a symphony"},
+        {"chords": "         Dm                "},
+        {"lyrics": "When I'm low, low, low, low"}
+    ],
+    "ending": [
+        {"chords": "                            F G Am"},
+        {"lyrics": "Then we'll shoot across the sky   "},
+        {"chords": "                            F G Am"},
+        {"lyrics": "Then we'll shoot across the ...   "}
+    ]
+}

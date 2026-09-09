@@ -1,0 +1,134 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "verse2",
+        "chorus1",
+        "verse3",
+        "chorus2",
+        "bridge",
+        "verse4",
+        "chorus3",
+        "chorus4",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "Am F C  "},
+        {"lyrics": "    yeah"},
+        {"chords": "Am F C"}
+    ],
+    "verse1": [
+        {"chords": "    Am     F C "},
+        {"lyrics": "You are my fire"},
+        {"chords": "    Am    F C "},
+        {"lyrics": "The one desire"},
+        {"chords": "  Am         F C  "},
+        {"lyrics": "Believe when I say"},
+        {"chords": "Am        G    C  "},
+        {"lyrics": "I want it that way"}
+    ],
+    "verse2": [
+        {"chords": "    Am     F   C       Am  "},
+        {"lyrics": "But we are two worlds apart"},
+        {"chords": "      F     C       Am   "},
+        {"lyrics": "Can't reach to your heart"},
+        {"chords": "     F   C  "},
+        {"lyrics": "When you say"},
+        {"chords": "     Am        G    C  "},
+        {"lyrics": "That I want it that way"}
+    ],
+    "chorus1": [
+        {"chords": "        F  "},
+        {"lyrics": "Tell me why"},
+        {"chords": "                     G    Am   "},
+        {"lyrics": "(Ain't nothin' but a heartache)"},
+        {"chords": "        F  "},
+        {"lyrics": "Tell me why"},
+        {"chords": "                     G  Am   "},
+        {"lyrics": "(Ain't nothin' but a mistake)"},
+        {"chords": "         F   "},
+        {"lyrics": "(Tell me why)"},
+        {"chords": "              G        C  "},
+        {"lyrics": "I never wanna hear you say"},
+        {"chords": " Am        G    C   "},
+        {"lyrics": "(I want it that way)"}
+    ],
+    "verse3": [
+        {"chords": "   Am     F C "},
+        {"lyrics": "Am I your fire"},
+        {"chords": "     Am    F C "},
+        {"lyrics": "Your one desire"},
+        {"chords": "      Am         F   C   "},
+        {"lyrics": "Yes I know, it's too late"},
+        {"chords": "    Am        G    C  "},
+        {"lyrics": "But I want it that way"}
+    ],
+    "chorus2": [
+        {"chords": "        F  "},
+        {"lyrics": "Tell me why"},
+        {"chords": "                     G    Am   "},
+        {"lyrics": "(Ain't nothin' but a heartache)"},
+        {"chords": "        F  "},
+        {"lyrics": "Tell me why"},
+        {"chords": "                     G  Am   "},
+        {"lyrics": "(Ain't nothin' but a mistake)"},
+        {"chords": "         F   "},
+        {"lyrics": "(Tell me why)"},
+        {"chords": "              G        C  "},
+        {"lyrics": "I never wanna hear you say"},
+        {"chords": " Am        E        "},
+        {"lyrics": "(I want it that way)"}
+    ],
+    "bridge": [
+        {"chords": "Am                       C            "},
+        {"lyrics": "Now I can see that we're falling apart"},
+        {"chords": "         F                   Dm  G   "},
+        {"lyrics": "From the way that it used to be, yeah"},
+        {"chords": "   Am                    C               "},
+        {"lyrics": "No matter the distance I want you to know"},
+        {"chords": "     F                   G    "},
+        {"lyrics": "That deep down inside of me..."}
+    ],
+    "verse4": [
+        {"chords": "    F      G Am"},
+        {"lyrics": "You are my fire"},
+        {"chords": "    F     G Am"},
+        {"lyrics": "The one desire"},
+        {"chords": "    F  "},
+        {"lyrics": "You are"},
+        {"chords": "             G        C    Am     G     "},
+        {"lyrics": "You are, you are, you are (I want it...)"}
+    ],
+    "chorus3": [
+        {"chords": "                          "},
+        {"lyrics": "Don't wanna hear you (say)"},
+        {"chords": "G                   A   Bm   "},
+        {"lyrics": "Ain't nothin' but a heartache"},
+        {"chords": "G                   A  Bm  "},
+        {"lyrics": "Ain't nothin' but a mistake"},
+        {"chords": "G             A        D  "},
+        {"lyrics": "I never wanna hear you say"},
+        {"chords": "Bm           A    D  "},
+        {"lyrics": "   I want it that way"}
+    ],
+    "chorus4": [
+        {"chords": "        G  "},
+        {"lyrics": "Tell me why"},
+        {"chords": "                    A    Bm  "},
+        {"lyrics": "Ain't nothin' but a heartache"},
+        {"chords": "        G  "},
+        {"lyrics": "Tell me why"},
+        {"chords": "                    A  Bm  "},
+        {"lyrics": "Ain't nothin' but a mistake"},
+        {"chords": "        G  "},
+        {"lyrics": "Tell me why"},
+        {"chords": "              A        D  "},
+        {"lyrics": "I never wanna hear you say"},
+        {"chords": "Bm        A    D  "},
+        {"lyrics": "I want it that way"}
+    ],
+    "ending": [
+        {"chords": "       Bm        A    D  "},
+        {"lyrics": "Cause, I want it that way"}
+    ]
+}

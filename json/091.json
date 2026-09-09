@@ -1,0 +1,67 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "interlude",
+        "verse2",
+        "chorus",
+        "interlude"
+    ],
+    "verse1": [
+        {"chords": "   Am                        Dm       "},
+        {"lyrics": "At first I was afraid, I was petrified"},
+        {"chords": "              G7                             C         "},
+        {"lyrics": "Kept thinking I could never live without you by my side"},
+        {"chords": "           F                             Bm7b5               "},
+        {"lyrics": "But then I spent so many nights thinking how you did me wrong"},
+        {"chords": "           E                 E               "},
+        {"lyrics": "And I grew strong, I learned how to get along"},
+        {"chords": "              Am              Dm   "},
+        {"lyrics": "And so you're back from outer space"},
+        {"chords": "              G              G7                 C                  "},
+        {"lyrics": "I just walked in to find you here with that sad look upon your face"},
+        {"chords": "              F                                    Bm7b5                    "},
+        {"lyrics": "I should have changed that stupid lock I should have made you leave your key"},
+        {"chords": "         E                                  E                "},
+        {"lyrics": "If I had known for just one second you'd be back to bother me"}
+    ],
+    "chorus": [
+        {"chords": "          Am               Dm  "},
+        {"lyrics": "Go on now go, walk out the door"},
+        {"chords": "           G        G7                 C              "},
+        {"lyrics": "Just turn around now 'cause you're not welcome anymore"},
+        {"chords": "F                                  Bm7b5               "},
+        {"lyrics": "  Weren't you the one who tried to hurt me with goodbye"},
+        {"chords": "                  E                          E               "},
+        {"lyrics": "Did you think I'd crumble? Did you think I'd lay down and die"},
+        {"chords": "           Am           Dm  "},
+        {"lyrics": "Oh no, not I, I will survive"},
+        {"chords": "   G              G7            C                   "},
+        {"lyrics": "As long as I know how to love I know I'll stay alive"},
+        {"chords": "         F                             Bm7b5              "},
+        {"lyrics": "I've got all my life to live, I've got all my love to give"},
+        {"chords": "            E               E          Am"},
+        {"lyrics": "And I'll survive, I will survive, hey hey"}
+    ],
+    "interlude": [
+        {"chords": "Am Dm G G7 C F Bm7b5 E E"}
+    ],
+    "verse2": [
+        {"chords": "        Am                            Dm        "},
+        {"lyrics": "It took all the strength I had not to fall apart"},
+        {"chords": "            G                G7           C           "},
+        {"lyrics": "Kept trying hard to mend the pieces of my broken heart"},
+        {"chords": "            F                              Bm7b5           "},
+        {"lyrics": "And I spent oh so many nights just feeling sorry for myself"},
+        {"chords": "          E               E                   "},
+        {"lyrics": "I used to cry,  but now I hold my head up high"},
+        {"chords": "            Am          Dm "},
+        {"lyrics": "And you see me somebody new"},
+        {"chords": "             G                 G7              C            "},
+        {"lyrics": "I'm not that chained up little person still in love with you"},
+        {"chords": "           F                                Bm7b5             "},
+        {"lyrics": "And so you felt like dropping in and just expect me to be free"},
+        {"chords": "        E                            E                  "},
+        {"lyrics": "Now I'm saving all my loving for someone who's loving me"}
+    ]
+}
