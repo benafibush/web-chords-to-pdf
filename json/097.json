@@ -1,0 +1,74 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "bridge1",
+        "verse2",
+        "bridge2",
+        "chorus",
+        "verse3",
+        "bridge3",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "D  G"}
+    ],
+    "verse1": [
+        {"chords": "D                       G  "},
+        {"lyrics": "  Imagine there's no heaven"},
+        {"chords": "D                  G  "},
+        {"lyrics": "  It's easy if you try"},
+        {"chords": "D               G "},
+        {"lyrics": "  No hell below us"},
+        {"chords": "D               G  "},
+        {"lyrics": "  Above us only sky"}
+    ],
+    "bridge1": [
+        {"chords": "G        Bm         Em "},
+        {"lyrics": " Imagine all the people"},
+        {"chords": "A          D A7       "},
+        {"lyrics": "Living for today a-hah"}
+    ],
+    "verse2": [
+        {"chords": "D                         G   "},
+        {"lyrics": "  Imagine there's no countries"},
+        {"chords": "D                  G "},
+        {"lyrics": "  It isn't hard to do"},
+        {"chords": "D                        G  "},
+        {"lyrics": "  Nothing to kill or die for"},
+        {"chords": "D                 G  "},
+        {"lyrics": "  And no religion too"}
+    ],
+    "bridge2": [
+        {"chords": "G         Bm         Em "},
+        {"lyrics": "  Imagine all the people"},
+        {"chords": "A           D  A7                     G "},
+        {"lyrics": "Living life in peace - you-hou-hou-ou-ou"}
+    ],
+    "chorus": [
+        {"chords": "G         A          D      F#"},
+        {"lyrics": "  You may say I'm a dreamer   "},
+        {"chords": "G         A             D  F#"},
+        {"lyrics": "  But I'm not the only one   "},
+        {"chords": "G            A          D       F#"},
+        {"lyrics": " I hope some day you'll join us   "},
+        {"chords": "G         A          D        "},
+        {"lyrics": "  And the world will be as one"}
+    ],
+    "verse3": [
+        {"chords": "D                  G    "},
+        {"lyrics": "  Imagine no possessions"},
+        {"chords": "D                 G  "},
+        {"lyrics": "  I wonder if you can"},
+        {"chords": "D                         G  "},
+        {"lyrics": "  No need for greed or hunger"},
+        {"chords": "D                  G  "},
+        {"lyrics": "  A brotherhood of man"}
+    ],
+    "bridge3": [
+        {"chords": "G         Bm         Em "},
+        {"lyrics": "  Imagine all the people"},
+        {"chords": "A           D   A7                  G "},
+        {"lyrics": "Sharing all the world - you-hou-hou-ou"}
+    ]
+}

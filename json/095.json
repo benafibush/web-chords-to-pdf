@@ -1,0 +1,93 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "pre-chorus",
+        "chorus1",
+        "verse2",
+        "pre-chorus",
+        "chorus1",
+        "bridge",
+        "chorus2",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "G A C  x2"}
+    ],
+    "verse1": [
+        {"chords": "    Em                          C                  "},
+        {"lyrics": "I'm standing on the bridge, I'm waiting in the dark"},
+        {"chords": "  Em                            C  "},
+        {"lyrics": "I thought that you'd be here by now"},
+        {"chords": "        Em                       C                      "},
+        {"lyrics": "There's nothing but the rain, no footsteps on the ground"},
+        {"chords": "    Em                        C    "},
+        {"lyrics": "I'm listening, but there's no sound"}
+    ],
+    "pre-chorus": [
+        {"chords": "D                        Am     "},
+        {"lyrics": "  Isn't anyone trying to find me"},
+        {"chords": "D                             C   "},
+        {"lyrics": "  Won't somebody come take me home"}
+    ],
+    "chorus1": [
+        {"chords": "       G    A    C    "},
+        {"lyrics": "It's a damn cold night"},
+        {"chords": "                 G   A    C   "},
+        {"lyrics": "Trying to figure out this life"},
+        {"chords": "         G                A             C            "},
+        {"lyrics": "Won't you  take me by the hand, take me somewhere new"},
+        {"chords": "        Em           D        C "},
+        {"lyrics": "I don't know who you are, but I,"},
+        {"chords": "         Em  C          Em  C"},
+        {"lyrics": "I'm with you   I'm with you  "}
+    ],
+    "verse2": [
+        {"chords": "    Em                       C                   "},
+        {"lyrics": "I'm looking for a place, I'm searching for a face"},
+        {"chords": "   Em             C   "},
+        {"lyrics": "Is anybody here I know"},
+        {"chords": "      Em                        C                  "},
+        {"lyrics": "Cause nothing's going right and everything's a mess"},
+        {"chords": "    Em                  C   "},
+        {"lyrics": "And no one likes to be alone"}
+    ],
+    "bridge": [
+        {"chords": "   D                         Am    "},
+        {"lyrics": "Oh,  why is everything so confusing"},
+        {"chords": "D                          Am  "},
+        {"lyrics": "  Maybe I'm just out of my mind"},
+        {"chords": "      D                     "},
+        {"lyrics": "Yeah, yeah, yeah, yeah, yeah"},
+        {"chords": "C                        Bm    D     "},
+        {"lyrics": "Yeah, yeah, yeah, yeah,  yeah-eah-eah"}
+    ],
+    "chorus2": [
+        {"chords": "       G    A    C    "},
+        {"lyrics": "It's a damn cold night"},
+        {"chords": "                 G   A    C   "},
+        {"lyrics": "Trying to figure out this life"},
+        {"chords": "          G                A             C            "},
+        {"lyrics": "Won't you   take me by the hand, take me somewhere new"},
+        {"chords": "        Em           D        C"},
+        {"lyrics": "I don't know who you are, but I"},
+        {"chords": "         G   A C          G   A C"},
+        {"lyrics": "I'm with you     I'm with you    "}
+    ],
+    "ending": [
+        {"chords": "G                A             C            "},
+        {"lyrics": "  Take me by the hand, take me somewhere new"},
+        {"chords": "        Em           D        C"},
+        {"lyrics": "I don't know who you are, but I"},
+        {"chords": "         G   A C          G   A C"},
+        {"lyrics": "I'm with you     I'm with you    "},
+        {"chords": "G                A             C            "},
+        {"lyrics": "  Take me by the hand, take me somewhere new"},
+        {"chords": "        Em           D        C"},
+        {"lyrics": "I don't know who you are, but I"},
+        {"chords": "         Em  C          Em  C"},
+        {"lyrics": "I'm with you   I'm with you  "},
+        {"chords": "         G    "},
+        {"lyrics": "I'm with   you"}
+    ]
+}

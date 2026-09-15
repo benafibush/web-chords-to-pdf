@@ -1,0 +1,118 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus1",
+        "verse2",
+        "chorus2",
+        "interlude",
+        "verse3",
+        "chorus3",
+        "ending"
+    ],
+    "intro": [
+        {"chords": "C G Am F"}
+    ],
+    "verse1": [
+        {"chords": "          C                                 "},
+        {"lyrics": "Well, you done done me in, you bet I felt it"},
+        {"chords": "  G                                                 "},
+        {"lyrics": "I tried to be chill, but you're so hot that I melted"},
+        {"chords": "  Am                           "},
+        {"lyrics": "I fell right through the cracks"},
+        {"chords": "        F                 "},
+        {"lyrics": "Now I'm trying to get back"},
+        {"chords": "           C                                              "},
+        {"lyrics": "Before the cool done run out, I'll be giving it my bestest"},
+        {"chords": "    G                                              "},
+        {"lyrics": "And nothing's gonna stop me but divine intervention"},
+        {"chords": "  Am                       "},
+        {"lyrics": "I reckon it's again my turn"},
+        {"chords": "   F                     "},
+        {"lyrics": "To win some or learn some"}
+    ],
+    "chorus1": [
+        {"chords": "    C           G                Am  "},
+        {"lyrics": "But I won't hesitate no more, no more"},
+        {"chords": "          F               C"},
+        {"lyrics": "It cannot wait, I'm yours  "},
+        {"chords": "       G              "},
+        {"lyrics": "Mm-mm, mm-mm, hmm-mm.."},
+        {"chords": "Am                      F   "},
+        {"lyrics": "Hey, hey-ey, hey, hey, hey.."}
+    ],
+    "verse2": [
+        {"chords": "C                                      G "},
+        {"lyrics": "  Well, open up your mind and see like me"},
+        {"chords": "                                     Am  "},
+        {"lyrics": "Open up your plans and, damn, you're free"},
+        {"chords": "                                     F                     "},
+        {"lyrics": "Look into your heart and you'll find love, love, love, love"},
+        {"chords": "C                                                   G   "},
+        {"lyrics": "Listen to the music of the moment; people dance and sing"},
+        {"chords": "                       Am"},
+        {"lyrics": "We're just one big family"},
+        {"chords": "                                      F    "},
+        {"lyrics": "And it's our god forsaken right to be loved"},
+        {"chords": "                     D7   "},
+        {"lyrics": "Loved, loved, loved, loved"}
+    ],
+    "chorus2": [
+        {"chords": "   C           G                Am  "},
+        {"lyrics": "So I won't hesitate no more, no more"},
+        {"chords": "          F             "},
+        {"lyrics": "It cannot wait, I'm sure"},
+        {"chords": "           C             G   "},
+        {"lyrics": "There's no need to complicate"},
+        {"chords": "            Am   "},
+        {"lyrics": "Our time is short"},
+        {"chords": "            F              "},
+        {"lyrics": "This is our fate, I'm yours"}
+    ],
+    "interlude": [
+        {"chords": "C G Am G F D7"}
+    ],
+    "verse3": [
+        {"chords": "                   C                                            "},
+        {"lyrics": "I've been spending way too long checking my tongue in the mirror"},
+        {"chords": "    G                                                   "},
+        {"lyrics": "And bending over backwards just to try to see it clearer"},
+        {"chords": "       Am                        "},
+        {"lyrics": "But my breath fogged up the glass"},
+        {"chords": "         F                            "},
+        {"lyrics": "And so I drew a new face and I laughed"},
+        {"chords": "  C                                                        "},
+        {"lyrics": "I guess what I'll be saying is there ain't no better reason"},
+        {"chords": "   G                                                    "},
+        {"lyrics": "To rid yourself of vanities and just go with the seasons"},
+        {"chords": "     Am               "},
+        {"lyrics": "It's what we aim to do"},
+        {"chords": "    F                 "},
+        {"lyrics": "Our name is our virtue"}
+    ],
+    "chorus3": [
+        {"chords": "    C           G                Am  "},
+        {"lyrics": "But I won't hesitate no more, no more"},
+        {"chords": "          F              "},
+        {"lyrics": "It cannot wait, I'm yours"},
+        {"chords": "C                                      G "},
+        {"lyrics": "  Well, open up your mind and see like me"},
+        {"chords": "                                     Am  "},
+        {"lyrics": "Open up your plans and, damn, you're free"},
+        {"chords": "                                         F                "},
+        {"lyrics": "Look into your heart and you'll find that the sky is yours"},
+        {"chords": "   C                                          "},
+        {"lyrics": "So please don't, please don't, please don't..."},
+        {"chords": "           G                 "},
+        {"lyrics": "There's no need to complicate"},
+        {"chords": "           Am           "},
+        {"lyrics": "'Cause our time is short"},
+        {"chords": "                              F    F"},
+        {"lyrics": "This, oh this, oh this is our fate  "},
+        {"chords": "    D7   "},
+        {"lyrics": "I'm yours"}
+    ],
+    "ending": [
+        {"chords": "C G Am F"}
+    ]
+}
