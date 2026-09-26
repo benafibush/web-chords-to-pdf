@@ -1,0 +1,45 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus1",
+        "chorus",
+        "interlude",
+        "pre-chorus2",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "D                   A             Em           Bm"},
+        {"lyrics": "First, when there's nothing but a slow glowing dream"},
+        {"chords": "          G             D           C         A"},
+        {"lyrics": "That your fear seems to hide deep inside your mind"},
+        {"chords": "     D           A            Em            Bm"},
+        {"lyrics": "All alone I have cried silent tears full of pride"},
+        {"chords": "     G             D              C     A"},
+        {"lyrics": "In a world made of steel, made of stone  "}
+    ],
+    "pre-chorus1": [
+        {"chords": "     D          A               Em             Bm"},
+        {"lyrics": "Well I hear the music, close my eyes, feel the rhythm"},
+        {"chords": "      G             D          C  A"},
+        {"lyrics": "Wrap around, take a hold of my heart"}
+    ],
+    "chorus": [
+        {"chords": "       Bm A G A           Bm A G A"},
+        {"lyrics": "What a feeling,  bein's believin'"},
+        {"chords": "        D       Em           D       G      A"},
+        {"lyrics": "I can't have it all, now I'm dancin' for my life"},
+        {"chords": "          Bm A G A              Bm A G A"},
+        {"lyrics": "Take your passion,  and make it happen"},
+        {"chords": "         D     Em            D           G            A"},
+        {"lyrics": "Pictures come alive, you can dance right through your life"}
+    ],
+    "interlude": [
+        {"chords": "D  A  Em  Bm  G  D  C  A"}
+    ],
+    "pre-chorus2": [
+        {"chords": "    D          A               Em         Bm"},
+        {"lyrics": "Now I hear the music, close my eyes, I am rhythm"},
+        {"chords": "     G              D          C  A"},
+        {"lyrics": "In a flash it takes hold of my heart"}
+    ]
+}

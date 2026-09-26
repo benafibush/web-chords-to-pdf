@@ -1,0 +1,75 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "post-chorus",
+        "verse2",
+        "chorus",
+        "post-chorus"
+    ],
+    "verse1": [
+        {"chords": "C       Am   "},
+        {"lyrics": "I had a dream"},
+        {"chords": "        F              C   "},
+        {"lyrics": "We were sipping whisky neat"},
+        {"chords": "Am                     C "},
+        {"lyrics": "Highest floor, the bowery"},
+        {"chords": "          G          "},
+        {"lyrics": "And I was high enough"},
+        {"chords": "     C               Am   "},
+        {"lyrics": "'Somewhere along the lines"},
+        {"chords": "           F             C  "},
+        {"lyrics": "We stopped seeing eye to eye"},
+        {"chords": "         Am              C    "},
+        {"lyrics": "You were staying out all night"},
+        {"chords": "      G         "},
+        {"lyrics": "And I had enough"}
+    ],
+    "pre-chorus": [
+        {"chords": "      F           Am  "},
+        {"lyrics": "No, I don't wanna know"},
+        {"chords": "          F                    G    "},
+        {"lyrics": "where you been or where you're going"},
+        {"chords": "      F               Am  "},
+        {"lyrics": "But I know I won't be home"},
+        {"chords": "              G          "},
+        {"lyrics": "And you'll be on your own"}
+    ],
+    "chorus": [
+        {"chords": "            F                    Am               G       "},
+        {"lyrics": "Who's gonna walk you through the dark side of the morning?"},
+        {"chords": "            F                 Am                G     "},
+        {"lyrics": "Who's gonna rock you when the sun won't let you sleep?"},
+        {"chords": "             F               Am               G                   "},
+        {"lyrics": "Who's waking up to drive you home when you're drunk and all alone?"},
+        {"chords": "            F                    Am               G       "},
+        {"lyrics": "Who's gonna walk you through the dark side of the morning?"}
+    ],
+    "post-chorus": [
+        {"chords": "         F    Am  G  x3"},
+        {"lyrics": "It ain't me, no ,no  x3"},
+        {"chords": "            F                    Am               G       "},
+        {"lyrics": "Who's gonna walk you through the dark side of the morning?"},
+        {"chords": "         Am"},
+        {"lyrics": "It ain't me"}
+    ],
+    "verse2": [
+        {"chords": "C       Am   "},
+        {"lyrics": "I had a dream"},
+        {"chords": "        F            C   "},
+        {"lyrics": "We were back to seventeen"},
+        {"chords": "       Am                  C   "},
+        {"lyrics": "Summer nights and the liberties"},
+        {"chords": "      G         "},
+        {"lyrics": "Never growing up"},
+        {"chords": "C              Am"},
+        {"lyrics": "I'll take with me"},
+        {"chords": "        F                 C   "},
+        {"lyrics": "the polaroids and the memories"},
+        {"chords": "         Am            C    "},
+        {"lyrics": "But you know I'm gonna leave"},
+        {"chords": "           G          "},
+        {"lyrics": "behind the worst of us"}
+    ]
+}

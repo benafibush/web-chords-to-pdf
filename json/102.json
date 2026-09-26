@@ -1,0 +1,56 @@
+{
+    "structure": [
+        "interlude",
+        "chorus1",
+        "interlude",
+        "verse1",
+        "interlude",
+        "verse2",
+        "interlude",
+        "chorus2",
+        "interlude"
+    ],
+    "interlude": [
+        {"chords": "C Em Am F  x2"}
+    ],
+    "chorus1": [
+        {"chords": "Am    G       F  "},
+        {"lyrics": "   My my, hey hey"},
+        {"chords": "Am        G               F   "},
+        {"lyrics": "   Rock'n roll is here to stay"},
+        {"chords": "Am                G       F                 "},
+        {"lyrics": "   It's better to burn out than to fade away"},
+        {"chords": "Am    G       F   "},
+        {"lyrics": "   My my, hey hey!"}
+    ],
+    "verse1": [
+        {"chords": "Am            G             F    "},
+        {"lyrics": "   Out of the blue into the black"},
+        {"chords": "Am            G                     F   "},
+        {"lyrics": "   I give you this, but you pay for that"},
+        {"chords": "Am             G               F              "},
+        {"lyrics": "   Once you're gone, you can't never come back"},
+        {"chords": "     Am                G              F     "},
+        {"lyrics": "When you're out of the blue, into the black!"}
+    ],
+    "verse2": [
+        {"chords": "Am             G                    F     "},
+        {"lyrics": "   The king is gone but he's not forgotten"},
+        {"chords": "Am             G               F     "},
+        {"lyrics": "   This is the story of Johnny Rotten"},
+        {"chords": "Am                G       F                  "},
+        {"lyrics": "   It's better to burn out than it is to rust"},
+        {"chords": "Am             G                    F     "},
+        {"lyrics": "   The king is gone but he's not forgotten"}
+    ],
+    "chorus2": [
+        {"chords": "Am     G       F "},
+        {"lyrics": "   Hey hey, my my"},
+        {"chords": "Am          G              F  "},
+        {"lyrics": "   Rock and roll can never die"},
+        {"chords": "Am                     G      F                  "},
+        {"lyrics": "   There's more to the picture than meets the eye"},
+        {"chords": "Am     G       F "},
+        {"lyrics": "   Hey hey, my my"}
+    ]
+}

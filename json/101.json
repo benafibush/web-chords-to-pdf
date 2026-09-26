@@ -1,0 +1,63 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "bridge",
+        "pre-chorus",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "Am Dm F E  x2"}
+    ],
+    "verse1": [
+        {"chords": "Am                   Dm"},
+        {"lyrics": "   What on earth am I  meant to do"},
+        {"chords": "       F                      E"},
+        {"lyrics": "In this crowded place there is only you"},
+        {"chords": "Am                         Dm"},
+        {"lyrics": "   Was gonna to leave now I  have to stay"},
+        {"chords": "F                   E            Am"},
+        {"lyrics": "   You have taken my breath away   "}
+    ],
+    "pre-chorus" : [
+        {"chords": "   Dm         F                     E                 Am"},
+        {"lyrics": "Oooooh Is the world still spinning around? (Spinning around)"},
+        {"chords": "   Dm          F                E"},
+        {"lyrics": "Oooooh I don't feel like coming down"}
+    ],
+    "chorus": [
+        {"chords": "             Am"},
+        {"lyrics": "It's in your eyes"},
+        {"chords": "      Dm"},
+        {"lyrics": "I can tell what you're thinking"},
+        {"chords": "F                   E"},
+        {"lyrics": "My heart is sinking too"},
+        {"chords": "            Am"},
+        {"lyrics": "It's no surprise"},
+        {"chords": "          Dm"},
+        {"lyrics": "I've been watching you lately"},
+        {"chords": "F                      E"},
+        {"lyrics": "I want to make it with you"}
+    ],
+    "verse2": [
+        {"chords": "Am              Dm"},
+        {"lyrics": "   Destiny has a  funny way"},
+        {"chords": "       F                        E"},
+        {"lyrics": "When it comes and takes all your cares away"},
+        {"chords": "Am                   Dm"},
+        {"lyrics": "   I can't think of a  single thing"},
+        {"chords": "F                    E                   Am"},
+        {"lyrics": "   Other than what a beautiful state I'm in"}
+    ],
+    "bridge": [
+        {"chords": "                         Am"},
+        {"lyrics": "With you, with you, with you..."},
+        {"chords": "Dm F                      E   Am"},
+        {"lyrics": "     Want to make it with you   "}
+    ]
+}

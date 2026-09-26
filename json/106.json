@@ -1,0 +1,100 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "bridge",
+        "post-bridge",
+        "bridge",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "         D                                           "},
+        {"lyrics": "Well I remember all the nights I used to stay at home"},
+        {"chords": "A                          "},
+        {"lyrics": "on the phone all night long"},
+        {"chords": "       Bm                                       "},
+        {"lyrics": "Used to talk about the things we really wanna do"},
+        {"chords": "G      A            "},
+        {"lyrics": "   I believed in you"},
+        {"chords": "D                                "},
+        {"lyrics": "   I remember how you used to say"},
+        {"chords": "A                  "},
+        {"lyrics": "have no fear, be ok"},
+        {"chords": "         Bm                                   "},
+        {"lyrics": "When you told me anything you want is possible"},
+        {"chords": "G           A          "},
+        {"lyrics": "   we could have it all"}
+    ],
+    "pre-chorus": [
+        {"chords": "D                   "},
+        {"lyrics": "   I believed in you"},
+        {"chords": "A                         "},
+        {"lyrics": "   I must have been a fool"},
+        {"chords": "Bm                         G A"},
+        {"lyrics": "   All my dreams were with you"}
+    ],
+    "chorus": [
+        {"chords": "          D  "},
+        {"lyrics": "I say it's ok"},
+        {"chords": "                 "},
+        {"lyrics": "I can promise you"},
+        {"chords": "    A       "},
+        {"lyrics": "it's alright"},
+        {"chords": "                       "},
+        {"lyrics": "You ain't keeping me up"},
+        {"chords": "Bm                 G"},
+        {"lyrics": "   all night no more"},
+        {"chords": "A                      D  "},
+        {"lyrics": "You're not here but its ok"},
+        {"chords": "                 "},
+        {"lyrics": "I assure you babe"},
+        {"chords": "    A       "},
+        {"lyrics": "It's alright"},
+        {"chords": "                      "},
+        {"lyrics": "You aint keeping me up"},
+        {"chords": "Bm                 G"},
+        {"lyrics": "   all night no more"},
+        {"chords": "A                      D  "},
+        {"lyrics": "You're not here but its ok"}
+    ],
+    "verse2": [
+        {"chords": "             D                      "},
+        {"lyrics": "Well now you got to where you wanted"},
+        {"chords": "                     "},
+        {"lyrics": "like I knew you would"},
+        {"chords": "A                              "},
+        {"lyrics": "Cash, car, house, it's all good"},
+        {"chords": "        Bm                                    "},
+        {"lyrics": "Is that why you never come around here no more"},
+        {"chords": "G           A         "},
+        {"lyrics": "   like you did before"},
+        {"chords": "D                                   "},
+        {"lyrics": "   Got it all thats the way it seems"},
+        {"chords": "A                              "},
+        {"lyrics": "looks like you lived your dream"},
+        {"chords": "      Bm                                              "},
+        {"lyrics": "And I hope your life has turned out for the better now"},
+        {"chords": "G           A    D    "},
+        {"lyrics": "   when I'm not around"}
+    ],
+    "bridge": [
+        {"chords": "D                    D                "},
+        {"lyrics": "   It's alright and a-it's okay and a-"},
+        {"chords": "A                    A                "},
+        {"lyrics": "   It's alright and a-it's okay and a-"},
+        {"chords": "Bm                   Bm            "},
+        {"lyrics": "   It's alright and a-it's okay and"}
+    ],
+    "post-bridge": [
+        {"chords": "G          A         D "},
+        {"lyrics": "You're not here with me"}
+    ],
+    "ending": [
+        {"chords": "G  A                      D  "},
+        {"lyrics": "   You're not here but its ok"}
+    ]
+}

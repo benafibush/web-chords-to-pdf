@@ -1,0 +1,60 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "G       Em           Bm          D                    "},
+        {"lyrics": "  In my place, in my place, were lines that I couldn't"},
+        {"chords": "G             Em       Bm   D"},
+        {"lyrics": "change, I was lost, oh yeah  "},
+        {"chords": "G       Em          Bm            D                     "},
+        {"lyrics": "  I was lost, I was lost, crossed lines I shouldn't have"},
+        {"chords": "G              Em       Bm   D"},
+        {"lyrics": "crossed, I was lost, oh yeah  "}
+    ],
+    "chorus": [
+        {"chords": "C         G             D        C  "},
+        {"lyrics": "Yeah, how long must you wait for it?"},
+        {"chords": "          G             D       C  "},
+        {"lyrics": "Yeah, how long must you pay for it?"},
+        {"chords": "          G             D        C       D "},
+        {"lyrics": "Yeah, how long must you wait for it, for it"}
+    ],
+    "verse2": [
+        {"chords": "G       Em            Bm      D                 G    "},
+        {"lyrics": "  I was scared, I was scared, tired and underprepared"},
+        {"chords": "         Em       Bm  D"},
+        {"lyrics": "But I'll wait for you  "},
+        {"chords": "G        Em         Bm"},
+        {"lyrics": "  if you go, if you go"},
+        {"chords": "D                        G  "},
+        {"lyrics": "Leave me down here on my own"},
+        {"chords": "          Em       Bm   D   "},
+        {"lyrics": "Then I'll wait for you, yeah"}
+    ],
+    "bridge": [
+        {"chords": "         G       Em      Bm    "},
+        {"lyrics": "Sing it, please, please, please"},
+        {"chords": "     D                G      Em  Bm"},
+        {"lyrics": "Come back and sing to me, to me, me"},
+        {"chords": "     D              G    Em  Bm  "},
+        {"lyrics": "Come on and sing it out, now, now"},
+        {"chords": "     D              G       Em  Bm"},
+        {"lyrics": "Come on and sing it out, to me, me"},
+        {"chords": "     D               "},
+        {"lyrics": "Come back and sing it"}
+    ],
+    "ending": [
+        {"chords": "G       Em           Bm   "},
+        {"lyrics": "  In my place, in my place"},
+        {"chords": "     D                     G     "},
+        {"lyrics": "Were lines that I couldn't change"},
+        {"chords": "          Em       Bm   D   G   "},
+        {"lyrics": "And I was lost, oh yeah, oh yeah"}
+    ]
+}

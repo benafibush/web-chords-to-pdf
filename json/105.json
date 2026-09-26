@@ -1,0 +1,63 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "interlude",
+        "verse2",
+        "chorus",
+        "interlude",
+        "bridge",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "Em                        C     D       Am"},
+        {"lyrics": "This ain't a song for the brokenhearted   "},
+        {"chords": "   Em                C       D      Am"},
+        {"lyrics": "No silent prayer for faith departed   "},
+        {"chords": "Em                      D                "},
+        {"lyrics": "I ain't gonna be just a face in the crowd"},
+        {"chords": "             G                    A                "},
+        {"lyrics": "You're gonna hear my voice when I shout it out loud"}
+    ],
+    "chorus": [
+        {"chords": "B          Em"},
+        {"lyrics": "  It's  my life"},
+        {"chords": "     C            G"},
+        {"lyrics": "It's now or never  "},
+        {"chords": "              D            Em"},
+        {"lyrics": "I ain't gonna live forever   "},
+        {"chords": "             C               D   "},
+        {"lyrics": "I just wanna live while I'm alive"},
+        {"chords": "        G                          C"},
+        {"lyrics": "It's my life, my heart is like the open highway"},
+        {"chords": "Em                      D             G"},
+        {"lyrics": "   Like Frankie said, I did it my way  "},
+        {"chords": "             C               D"},
+        {"lyrics": "I just wanna live while I'm alive"},
+        {"chords": "Am   B  Em  "},
+        {"lyrics": "It's my life"}
+    ],
+    "interlude": [
+        {"chords": "Em Em C Am  x2"}
+    ],
+    "verse2": [
+        {"chords": "Em                       C           D      Am"},
+        {"lyrics": "This is for the ones who stood their ground   "},
+        {"chords": "         Em                 C            D    Am"},
+        {"lyrics": "It's for Tommy and Gina who never backed down   "},
+        {"chords": "  Em                            D         "},
+        {"lyrics": "Tomorrow's getting harder, make no mistake"},
+        {"chords": "G                                   A                   "},
+        {"lyrics": "Luck, it ain't enough, you've gotta make your own breaks"}
+    ],
+    "bridge": [
+        {"chords": "    Em               "},
+        {"lyrics": "You better stand tall"},
+        {"chords": "             D              "},
+        {"lyrics": "When they're calling you out"},
+        {"chords": "      G                "},
+        {"lyrics": "Don't bend, don't break"},
+        {"chords": "      A              "},
+        {"lyrics": "Baby, don't back down"}
+    ]
+}
