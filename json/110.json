@@ -1,0 +1,80 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "interlude",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "bridge",
+        "interlude",
+        "chorus",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "Am           G           Dm        C    "},
+        {"lyrics": "I caught you watching me under the light"},
+        {"chords": "         Am G Dm C"},
+        {"lyrics": "Can I realign?    "},
+        {"chords": "Am            G       Dm          C   "},
+        {"lyrics": "They say it's easy to leave you behind"},
+        {"chords": "              Am G Dm C"},
+        {"lyrics": "I don't wanna try      "}
+    ],
+    "pre-chorus": [
+        {"chords": "Am                G         "},
+        {"lyrics": "   Cut cover, take that test"},
+        {"chords": "Dm                C          "},
+        {"lyrics": "   Hold courage to your chest"},
+        {"chords": "Am                 G       "},
+        {"lyrics": "   Don't wanna wait for you"},
+        {"chords": "Dm                 C       "},
+        {"lyrics": "   Don't wanna have to lose"},
+        {"chords": "Am               G       "},
+        {"lyrics": "   All that I compromised"},
+        {"chords": "Dm           C         "},
+        {"lyrics": "   To feel another high"},
+        {"chords": "Am             G              Dm C "},
+        {"lyrics": "   I've got to keep it down tonight"}
+    ],
+    "chorus": [
+        {"chords": "    Am  G   Dm"},
+        {"lyrics": "And oh, oh, oh"},
+        {"chords": "C       Am         G       Dm   C"},
+        {"lyrics": "I was a king under your control  "},
+        {"chords": "    Am  G   Dm"},
+        {"lyrics": "And oh, oh, oh"},
+        {"chords": "C       Am               G      Dm"},
+        {"lyrics": "I wanna feel like you've let me go"},
+        {"chords": "   C        "},
+        {"lyrics": "So let me go"}
+    ],
+    "interlude": [
+        {"chords": "Am G Dm C  x4"}
+    ],
+    "verse2": [
+        {"chords": "Am          G          Dm        C   "},
+        {"lyrics": "Don't you remember how I used to like"},
+        {"chords": "             Am G Dm C"},
+        {"lyrics": "Being on the line?    "},
+        {"chords": "Am            G             Dm             C   "},
+        {"lyrics": "I dreamed you dreamed of me calling out my name"},
+        {"chords": "                Am G Dm C"},
+        {"lyrics": "Is it worth the price?   "}
+    ],
+    "bridge": [
+        {"chords": "Dm          C               Am    G "},
+        {"lyrics": "   I had to break myself to carry on"},
+        {"chords": "Dm             C             Am        G              "},
+        {"lyrics": "   No love and no admission, take this from me tonight"},
+        {"chords": "Dm C Am  G                x3"},
+        {"lyrics": "     Ooo-oh, let's fight  x3"},
+        {"chords": "Dm C Am  G  "},
+        {"lyrics": "     Ooo-ohh"}
+    ],
+    "ending": [
+        {"chords": "Am        G       Dm         C           x4"},
+        {"lyrics": "   Let go, let go, let go of everything  x4"}
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "structure": [
+        "chorus",
+        "verse1",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus"
+    ],
+    "chorus": [
+        {"chords": "  Am      C       G       Am  "},
+        {"lyrics": "Jolene, Jolene, Jolene, Jolene"},
+        {"chords": "    G                                    Am "},
+        {"lyrics": "I'm begging of you, please don't take my man"},
+        {"chords": "  Am      C       G       Am  "},
+        {"lyrics": "Jolene, Jolene, Jolene, Jolene"},
+        {"chords": "G                                      Am "},
+        {"lyrics": "Please don't take him just because you can"}
+    ],
+    "verse1": [
+        {"chords": "     Am          C           "},
+        {"lyrics": "Your beauty is beyond compare"},
+        {"chords": "     G                Am         "},
+        {"lyrics": "With flaming locks of auburn hair"},
+        {"chords": "     G                              Am   "},
+        {"lyrics": "With ivory skin and eyes of emerald green"},
+        {"chords": "     Am              C               "},
+        {"lyrics": "Your smile is like a breath of spring"},
+        {"chords": "     G                  Am         "},
+        {"lyrics": "Your voice is soft like summer rain"},
+        {"chords": "    G                          Am    "},
+        {"lyrics": "And I cannot compete with you, Jolene"}
+    ],
+    "verse2": [
+        {"chords": "   Am              C           "},
+        {"lyrics": "He talks about you in his sleep"},
+        {"chords": "        G             Am        "},
+        {"lyrics": "There's nothing I can do to keep"},
+        {"chords": "     G                                 Am  "},
+        {"lyrics": "From crying when he calls your name, Jolene"},
+        {"chords": "    Am           C         "},
+        {"lyrics": "And I can easily understand"},
+        {"chords": "    G                Am         "},
+        {"lyrics": "How you could easily take my man"},
+        {"chords": "        G                                 Am  "},
+        {"lyrics": "But you don't know what he means to me, Jolene"}
+    ],
+    "verse3": [
+        {"chords": "Am                  C            "},
+        {"lyrics": "You could have your choice of men"},
+        {"chords": "    G             Am        "},
+        {"lyrics": "But I could never love again"},
+        {"chords": "G                           Am  "},
+        {"lyrics": "He's the only one for me, Jolene"},
+        {"chords": "  Am               C            "},
+        {"lyrics": "I had to have this talk with you"},
+        {"chords": "   G           Am          "},
+        {"lyrics": "My happiness depends on you"},
+        {"chords": "        G                        Am  "},
+        {"lyrics": "And whatever you decide to do, Jolene"}
+    ]
+}

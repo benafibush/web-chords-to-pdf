@@ -1,0 +1,72 @@
+{
+    "structure": [
+        "verse1",
+        "verse2",
+        "chorus",
+        "post-chorus",
+        "verse3",
+        "verse4",
+        "chorus",
+        "post-chorus"
+    ],
+    "verse1": [
+        {"chords": "Am                                                     "},
+        {"lyrics": "I got (I got) shivers (shivers) when you touch that way"},
+        {"chords": "     Dm                                                     "},
+        {"lyrics": "I'll make you hot, get what you got, I'll make you wanna say"},
+        {"chords": "     Am         "},
+        {"lyrics": "(jai ho, jai ho)"}
+    ],
+    "verse2": [
+        {"chords": "Am                                              "},
+        {"lyrics": "I got (I got) fever (fever), running like a fire"},
+        {"chords": "    Dm                                              "},
+        {"lyrics": "For you I'll go all the way, I wanna take you higher"},
+        {"chords": "     Am                                                "},
+        {"lyrics": "(Jai ho) I keep it steady uh-steady, that's how I do it"},
+        {"chords": "     Am                                                 "},
+        {"lyrics": "(Jai ho) This beat is heavy, so heavy, you gonna feel it"}
+    ],
+    "chorus": [
+        {"chords": "     C                                    "},
+        {"lyrics": "(Jai ho) You are the reason that I breathe"},
+        {"chords": "     G                                          "},
+        {"lyrics": "(Jai ho) You are the reason that I still believe"},
+        {"chords": "     Am                          G                "},
+        {"lyrics": "(Jai ho) You are my destiny, jai ho... Oh oh oh oh"},
+        {"chords": "     C                                       "},
+        {"lyrics": "(Jai ho) No there is nothing that can stop us"},
+        {"chords": "     G                                   "},
+        {"lyrics": "(Jai ho) Nothing can ever come between us"},
+        {"chords": "     Am                                 G       "},
+        {"lyrics": "(Jai ho) So come and dance with me, jai ho... Oh"}
+    ],
+    "post-chorus": [
+        {"chords": "C                                                            "},
+        {"lyrics": "Catch me, catch me, catch me, c'mon, catch me, I want you now"},
+        {"chords": "Gm                                                     "},
+        {"lyrics": "I know you can save me, you can save me, I need you now"},
+        {"chords": "C                                              "},
+        {"lyrics": "I am yours forever, yes, forever, I will follow"},
+        {"chords": "Gm                                    "},
+        {"lyrics": "Anywhere in anyway, never gonna let go"}
+    ],
+    "verse3": [
+        {"chords": "Am                                                   "},
+        {"lyrics": "Escape (escape) away (away), I'll take you to a place"},
+        {"chords": "     Dm                                              "},
+        {"lyrics": "This fantasy of you and me, I'll never lose the chase"},
+        {"chords": "     Am                            "},
+        {"lyrics": "(Jai Ho) (yeaaaaaahhhh,yeaaaaaaaah)"}
+    ],
+    "verse4": [
+        {"chords": "Am                                                        "},
+        {"lyrics": "I can (I can) feel you (feel you) rushing through my veins"},
+        {"chords": "           Dm                                          "},
+        {"lyrics": "There's an notion in my heart, I will never be the same"},
+        {"chords": "     Am                                                     "},
+        {"lyrics": "(Jai Ho)Just keep it burnin', yeah baby, Just keep it comin'"},
+        {"chords": "     Am                                                   "},
+        {"lyrics": "(Jai Ho) You're gonna find out, baby, I'm one in a million"}
+    ]
+}

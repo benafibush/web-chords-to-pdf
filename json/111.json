@@ -1,0 +1,40 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "verse1",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "G       D                      Am"},
+        {"lyrics": "  Momma take this badge off of me"},
+        {"chords": "G         D         C"},
+        {"lyrics": "  I can't use it anymore"},
+        {"chords": "G              D                 Am"},
+        {"lyrics": "  It's getting dark, too dark to see"},
+        {"chords": "G                D                    C"},
+        {"lyrics": "  Feels like I'm knocking on heaven's door"}
+    ],
+    "chorus": [
+        {"chords": "G             D                    Am"},
+        {"lyrics": "  Knock knock knocking on heaven's door"},
+        {"chords": "G             D                    C"},
+        {"lyrics": "  Knock knock knocking on heaven's door"},
+        {"chords": "G             D                    Am"},
+        {"lyrics": "  Knock knock knocking on heaven's door"},
+        {"chords": "G             D                    C"},
+        {"lyrics": "  Knock knock knocking on heaven's door"}
+    ],
+    "verse2": [
+        {"chords": "G       D                         Am"},
+        {"lyrics": "  Momma take these guns away from me"},
+        {"chords": "G         D             C"},
+        {"lyrics": "  I can't shoot them anymore"},
+        {"chords": "G                      D               Am"},
+        {"lyrics": "  There's a long black cloud following me"},
+        {"chords": "G                D                    C"},
+        {"lyrics": "  Feels like I'm knocking on heaven's door, knock, knock, knock"}
+    ]
+}

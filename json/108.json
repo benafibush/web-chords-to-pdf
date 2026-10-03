@@ -1,0 +1,70 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "Am                             C                "},
+        {"lyrics": "   I know I can't take one more step towards you"},
+        {"chords": "G                                 Dm "},
+        {"lyrics": "   'Cause all thats waiting is regret"},
+        {"chords": "Am                                C             "},
+        {"lyrics": "   And don't you know I'm not your ghost anymore"},
+        {"chords": "G                                F   "},
+        {"lyrics": "   You lost the love I loved the most"}
+    ],
+    "pre-chorus": [
+        {"chords": "Dm              F    Am    G   "},
+        {"lyrics": "   I learned to live half alive"},
+        {"chords": "Dm             F               G    "},
+        {"lyrics": "   And now you want me one more time"}
+    ],
+    "chorus": [
+        {"chords": "C                          G   "},
+        {"lyrics": "  And who do you think you are?"},
+        {"chords": "                       Am   "},
+        {"lyrics": "Running 'round leaving scars"},
+        {"chords": "                       F     "},
+        {"lyrics": "Collecting your jar of hearts"},
+        {"chords": "Fm            C   "},
+        {"lyrics": "Tearing love apart"},
+        {"chords": "                     G   "},
+        {"lyrics": "You're gonna catch a cold"},
+        {"chords": "                         Am  "},
+        {"lyrics": "From the ice inside your soul"},
+        {"chords": "                    F "},
+        {"lyrics": "Don't come back for me"},
+        {"chords": "Fm                    C   G"},
+        {"lyrics": "Who do you think you are?  "}
+    ],
+    "verse2": [
+        {"chords": "Am                           C    "},
+        {"lyrics": "   I hear you're asking all around"},
+        {"chords": "G                         Dm   "},
+        {"lyrics": "   If I am anywhere to be found"},
+        {"chords": "Am                      C     "},
+        {"lyrics": "   But I have grown too strong"},
+        {"chords": "G                            F   "},
+        {"lyrics": "   To ever fall back in your arms"}
+    ],
+    "bridge": [
+        {"chords": "Am         E            Am     D    "},
+        {"lyrics": "It took so long just to feel alright"},
+        {"chords": "  Am            E            Am          D   "},
+        {"lyrics": "Remember how to put back the light in my eyes"},
+        {"chords": "  Am         E                Am           D     "},
+        {"lyrics": "I wish I had missed the first time that we kissed"},
+        {"chords": "       Am        E        Am D    "},
+        {"lyrics": "'Cause you broke all your promises"},
+        {"chords": "    F              "},
+        {"lyrics": "And now you're back"},
+        {"chords": "                 E          "},
+        {"lyrics": "You don't get to get me back"}
+    ]
+}
