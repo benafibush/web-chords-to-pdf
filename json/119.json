@@ -1,0 +1,52 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "  Am                                           F    "},
+        {"lyrics": "I haven't ever really found a place that I call home"},
+        {"chords": "  Am                                      F      "},
+        {"lyrics": "I never stick around quite long enough to make it"},
+        {"chords": "   Am                                  F   "},
+        {"lyrics": "I apologise that once again I'm not in love"},
+        {"chords": "                     Am                                 F       "},
+        {"lyrics": "But it's not as if I mind that your heart ain't exactly breaking"},
+        {"chords": "            Dm              G7     "},
+        {"lyrics": "It's just a thought, only a thought"}
+    ],
+    "chorus": [
+        {"chords": "          C  G    F       "},
+        {"lyrics": "But if my life is for rent"},
+        {"chords": "      C     G        F   G"},
+        {"lyrics": "And I don't learn to buy  "},
+        {"chords": "         C             G         F     G"},
+        {"lyrics": "Well I deserve nothing more than I get  "},
+        {"chords": "              C  G            F   "},
+        {"lyrics": "Cause nothing I have is truly mine"}
+    ],
+    "verse2": [
+        {"chords": "     Am                                              F  "},
+        {"lyrics": "I've always thought that I would love to live by the sea"},
+        {"chords": "   Am                                   F     "},
+        {"lyrics": "To travel the world alone and live more simply"},
+        {"chords": "       Am                              F    "},
+        {"lyrics": "I have no idea what's happened to that dream"},
+        {"chords": "              Am                          F      "},
+        {"lyrics": "Cause there's really nothing left here to stop me"},
+        {"chords": "            Dm              G7     "},
+        {"lyrics": "It's just a thought, only a thought"}
+    ],
+    "bridge": [
+        {"chords": "      C             G            Dm           G   "},
+        {"lyrics": "While my heart is a shield and I won't let it down"},
+        {"chords": "      C                 G         Dm         G  "},
+        {"lyrics": "While I am so afraid to fail so I won't even try"},
+        {"chords": "              Dm         G7   "},
+        {"lyrics": "Well, how can I say I'm alive?"}
+    ]
+}

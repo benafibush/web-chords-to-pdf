@@ -1,0 +1,63 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "outro",
+        "interlude",
+        "chorus",
+        "verse3",
+        "chorus",
+        "outro"
+    ],
+    "intro": [
+        {"chords": "C G Am F"},
+        {"chords": "C G    F C Dm C"}
+    ],
+    "verse1": [
+        {"chords": "       C              G                 Am          F          "},
+        {"lyrics": "When I find myself in times of trouble, Mother Mary comes to me"},
+        {"chords": "C                 G              F  C Dm C"},
+        {"lyrics": "Speaking words of wisdom, let it be       "},
+        {"chords": "    C              G               Am                F          "},
+        {"lyrics": "And in my hour of darkness, she is standing right in front of me"},
+        {"chords": "C                 G              F  C Dm C"},
+        {"lyrics": "Speaking words of wisdom, let it be       "}
+    ],
+    "chorus": [
+        {"chords": "       Am         G          F          C "},
+        {"lyrics": "Let it be, let it be, let it be, let it be"},
+        {"chords": "C                G              F  C Dm C"},
+        {"lyrics": "Whisper words of wisdom, let it be       "}
+    ],
+    "verse2": [
+        {"chords": "    C               G               Am            F          "},
+        {"lyrics": "And when the broken hearted people, living in the world agree"},
+        {"chords": "C                G              F  C Dm C"},
+        {"lyrics": "There will be an answer, let it be       "},
+        {"chords": "    C                  G                Am                  F            "},
+        {"lyrics": "For though they may be parted, there is still a chance that they will see"},
+        {"chords": "C                G              F  C Dm C"},
+        {"lyrics": "There will be an answer, let it be       "}
+    ],
+    "outro": [
+        {"chords": "F C Dm C Bb F G F C  x2"}
+    ],
+    "interlude": [
+        {"chords": "C G Am F C G F C  x2"}
+    ],
+    "verse3": [
+        {"chords": "    C                 G      "},
+        {"lyrics": "And when the night is cloudy,"},
+        {"chords": "         Am                 F           "},
+        {"lyrics": "There is still a light that shines on me"},
+        {"chords": "C               G              F  C Dm C"},
+        {"lyrics": "Shine on till tomorrow, let it be       "},
+        {"chords": "  C              G               Am          F          "},
+        {"lyrics": "I wake up to the sound of music, Mother Mary comes to me"},
+        {"chords": "C                 G              F  C Dm C"},
+        {"lyrics": "Speaking words of wisdom, let it be       "}
+    ]
+}

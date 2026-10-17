@@ -1,0 +1,72 @@
+{
+    "structure": [
+        "interlude",
+        "verse1",
+        "chorus",
+        "interlude",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "interlude": [
+        {"chords": "A Em D  x2"}
+    ],
+    "verse1": [
+        {"chords": "A                       Em    "},
+        {"lyrics": "Run and tell all of the angels"},
+        {"chords": "D                        "},
+        {"lyrics": "This could take all night"},
+        {"chords": "A                       Em                 D    "},
+        {"lyrics": "Think I need a devil to help me get things right"},
+        {"chords": "A                    Em    "},
+        {"lyrics": "Hook me up a new revolution"},
+        {"chords": "      D                "},
+        {"lyrics": "Cause this one is a lie"},
+        {"chords": "   A                        Em                    D  "},
+        {"lyrics": "We sat around laughing, and watching the last one die"}
+    ],
+    "chorus": [
+        {"chords": "    A                     Em     "},
+        {"lyrics": "I'm looking to the sky to save me"},
+        {"chords": "D                         "},
+        {"lyrics": "Looking for a sign of life"},
+        {"chords": "A                        Em               D     "},
+        {"lyrics": "Looking for something to help me burn out bright"},
+        {"chords": "    A                   Em    "},
+        {"lyrics": "I'm looking for a complication"},
+        {"chords": "D                                "},
+        {"lyrics": "Looking 'cause I'm tired of lying"},
+        {"chords": "F                G                 A  "},
+        {"lyrics": "Make my way back home and learn to fly"}
+    ],
+    "verse2": [
+        {"chords": "A                          Em      "},
+        {"lyrics": "Think I'm done nursing the patience"},
+        {"chords": "D                      "},
+        {"lyrics": "It could wait one night"},
+        {"chords": "A                       Em               D  "},
+        {"lyrics": "Give it all away if you give me one last try"},
+        {"chords": "A                  Em              D                    "},
+        {"lyrics": "We'll live happily ever trapped if you just save my life"},
+        {"chords": "A                            Em             D    "},
+        {"lyrics": "Run and tell the angels that everything's alright"}
+    ],
+    "bridge": [
+        {"chords": "    F              C                    D   "},
+        {"lyrics": "...along with me I can't quite make it alone"},
+        {"chords": "F                G          "},
+        {"lyrics": "Try to make this life my own"},
+        {"chords": "A      F              C                    D   "},
+        {"lyrics": "Fly...along with me I can't quite make it alone"},
+        {"chords": "F                G          "},
+        {"lyrics": "Try to make this life my own"}
+    ],
+    "ending": [
+        {"chords": "F                G                    D  "},
+        {"lyrics": "Make my way back home when I learn to fly"},
+        {"chords": "F                G                             A"},
+        {"lyrics": "Make my way back home when I learn to, to, to..."}
+    ]
+}

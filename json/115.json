@@ -1,0 +1,84 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "post-chorus",
+        "verse2",
+        "chorus",
+        "post-chorus",
+        "bridge",
+        "chorus",
+        "post-chorus"
+    ],
+    "intro": [
+        {"chords": "C D Em"},
+        {"lyrics": "      "},
+        {"chords": "C                     D      "},
+        {"lyrics": "All my life I've been waiting"},
+        {"chords": "                  Em                "},
+        {"lyrics": "For you to bring a fairy tale my way"},
+        {"chords": "                 C               D      "},
+        {"lyrics": "Been living in a fantasy without meaning"},
+        {"chords": "          B                      Em "},
+        {"lyrics": "It's not okay I don't feel saa...afe"},
+        {"chords": "Am              C    B     Em"},
+        {"lyrics": "   I don't feel safe ooohh   "}
+    ],
+    "verse1": [
+        {"chords": "Em                             "},
+        {"lyrics": "   Left broken empty in despair"},
+        {"chords": "                           "},
+        {"lyrics": "Wanna breath can't find air"},
+        {"chords": "Am                                    "},
+        {"lyrics": "   Thought you were sent from up above"},
+        {"chords": "                         C   "},
+        {"lyrics": "But you and me never had love"},
+        {"chords": "                       B  "},
+        {"lyrics": "So much more I have to say"},
+        {"chords": "               Em "},
+        {"lyrics": "Help me find a way"}
+    ],
+    "chorus": [
+        {"chords": "                    C                         D"},
+        {"lyrics": "And I wonder if you know, how it really feels  "},
+        {"chords": "                    Em                           "},
+        {"lyrics": "To be left outside alone, when it's cold out here"},
+        {"chords": "                      C                       D"},
+        {"lyrics": "Well maybe you should know, just how it feels  "},
+        {"chords": "                    B                             "},
+        {"lyrics": "To be left outside alone, to be left outside alone"},
+        {"chords": "                "},
+        {"lyrics": "I'll tell you..."}
+    ],
+    "post-chorus": [
+        {"chords": "C                     D      "},
+        {"lyrics": "All my life I've been waiting"},
+        {"chords": "                  Em                "},
+        {"lyrics": "For you to bring a fairy tale my way"},
+        {"chords": "                 C               D      "},
+        {"lyrics": "Been living in a fantasy without meaning"},
+        {"chords": "          B                                Em   "},
+        {"lyrics": "It's not okay, I don't feel safe, I need to pray"}
+    ],
+    "verse2": [
+        {"chords": "Em                             "},
+        {"lyrics": "Why do you play me like a game?"},
+        {"chords": "                       Am   "},
+        {"lyrics": "Always someone else to blame"},
+        {"chords": "                             "},
+        {"lyrics": "Careless, helpless little man"},
+        {"chords": "                       C    "},
+        {"lyrics": "Someday you might understand"},
+        {"chords": "                         B  "},
+        {"lyrics": "There's not much more to say"},
+        {"chords": "                      Em "},
+        {"lyrics": "But I hope you find a way"}
+    ],
+    "bridge": [
+        {"chords": "Am                                      C               "},
+        {"lyrics": "oohh Heavenly Father (heavenly father), please (please),"},
+        {"chords": "         B      Em     "},
+        {"lyrics": "save me (save me) oohhh"}
+    ]
+}

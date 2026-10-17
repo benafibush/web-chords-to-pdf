@@ -1,0 +1,69 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "verse3",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "A"}
+    ],
+    "verse1": [
+        {"chords": "       D                    G          "},
+        {"lyrics": "All my bags are packed, I'm ready to go"},
+        {"chords": "    D                G             "},
+        {"lyrics": "I'm standing here outside your door"},
+        {"chords": "  D                G             A  "},
+        {"lyrics": "I hate to wake you up to say goodbye"},
+        {"chords": "        D                      G          "},
+        {"lyrics": "But the dawn is breaking, it's early morn,"},
+        {"chords": "    D                    G               "},
+        {"lyrics": "The taxi's waiting, he's blowing his horn"},
+        {"chords": "  D            G                A  "},
+        {"lyrics": "Already I'm so lonesome I could die"}
+    ],
+    "chorus": [
+        {"chords": "   D           G           "},
+        {"lyrics": "So kiss me and smile for me"},
+        {"chords": "D                    G           "},
+        {"lyrics": "  Tell me that you'll wait for me"},
+        {"chords": "D                    G             A "},
+        {"lyrics": "  Hold me like you'll never let me go"},
+        {"chords": "    D       G             "},
+        {"lyrics": "I'm leaving on a jet plane"},
+        {"chords": "D                 G                 "},
+        {"lyrics": "  Don't know when I'll be back again"},
+        {"chords": "D        G           A "},
+        {"lyrics": "  Oh babe, I hate to go"}
+    ],
+    "verse2": [
+        {"chords": "           D               G           "},
+        {"lyrics": "There's so many times I've let you down"},
+        {"chords": "   D               G            "},
+        {"lyrics": "So many times I've played around"},
+        {"chords": "  D                 G            A    "},
+        {"lyrics": "I tell you now they don't mean a thing"},
+        {"chords": "      D               G           "},
+        {"lyrics": "Every place I go I'll think of you"},
+        {"chords": "      D                G           "},
+        {"lyrics": "Every song I sing I'll sing for you"},
+        {"chords": "     D                G                  A   "},
+        {"lyrics": "When I come back I'll bring your wedding ring"}
+    ],
+    "verse3": [
+        {"chords": "D                G                "},
+        {"lyrics": "Now the time has come to leave you"},
+        {"chords": "D               G              "},
+        {"lyrics": "  One more time let me kiss you"},
+        {"chords": "D                      G             A  "},
+        {"lyrics": "  Then close your eyes I'll be on my way"},
+        {"chords": "D               G           "},
+        {"lyrics": "Dream about the days to come"},
+        {"chords": "     D               G          "},
+        {"lyrics": "When I won't have to leave alone"},
+        {"chords": " D              G               A  "},
+        {"lyrics": "About the times I won't have to say"}
+    ]
+}

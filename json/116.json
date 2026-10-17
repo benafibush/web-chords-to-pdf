@@ -1,0 +1,74 @@
+{
+    "structure": [
+        "chorus",
+        "interlude",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "interlude",
+        "chorus"
+    ],
+    "chorus": [
+        {"chords": "                        F                           C"},
+        {"lyrics": "Well, you only need the light when it's burning low  "},
+        {"chords": "              G                       Am"},
+        {"lyrics": "Only miss the sun when it starts to snow"},
+        {"chords": "               F                           C G"},
+        {"lyrics": "Only know you love her when you let her go    "},
+        {"chords": "                      F                            C"},
+        {"lyrics": "Only know you've been high when you're feeling low  "},
+        {"chords": "              G                          Am"},
+        {"lyrics": "Only hate the road when you're missin' home"},
+        {"chords": "               F                           C"},
+        {"lyrics": "Only know you love her when you let her go  "},
+        {"chords": "G                   "},
+        {"lyrics": "  And you let her go"}
+    ],
+    "interlude": [
+        {"chords": "Am F G Em Am F G"}
+    ],
+    "verse1": [
+        {"chords": "Am                            F    "},
+        {"lyrics": "Staring at the bottom of your glass"},
+        {"chords": "        G                          Em  "},
+        {"lyrics": "Hoping one day you'll make a dream last"},
+        {"chords": "                  Am              F      G"},
+        {"lyrics": "But dreams come slow and they go so fast  "},
+        {"chords": "    Am                          F   "},
+        {"lyrics": "You see her when you close your eyes"},
+        {"chords": "      G                         Em "},
+        {"lyrics": "Maybe one day you'll understand why"},
+        {"chords": "               Am            F   G"},
+        {"lyrics": "Everything you touch surely dies  "}
+    ],
+    "verse2": [
+        {"chords": "Am                            F   "},
+        {"lyrics": "Staring at the ceiling in the dark"},
+        {"chords": "         G                     Em   "},
+        {"lyrics": "Same old empty feeling in your heart"},
+        {"chords": "                    Am              F      G"},
+        {"lyrics": "'Cause love comes slow and it goes so fast  "},
+        {"chords": "         Am                      F   "},
+        {"lyrics": "Well you see her when you fall asleep"},
+        {"chords": "             G                  Em  "},
+        {"lyrics": "But never to touch and never to keep"},
+        {"chords": "                         Am  "},
+        {"lyrics": "'Cause you loved her too much"},
+        {"chords": "                F        G"},
+        {"lyrics": "And you dived too deep    "}
+    ],
+    "bridge": [
+        {"chords": "                Am"},
+        {"lyrics": "And you let her go"},
+        {"chords": "      F     G     "},
+        {"lyrics": "Ooooo ooooo oooooo"},
+        {"chords": "                Am"},
+        {"lyrics": "And you let her go"},
+        {"chords": "        F     G    "},
+        {"lyrics": "Ooooooo ooooo ooooo"},
+        {"chords": "                Am F G Em"},
+        {"lyrics": "And you let her go       "}
+    ]
+}

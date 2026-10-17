@@ -1,0 +1,72 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus"
+    ],
+    "intro": [
+        {"chords": "Em Bm A G"}
+    ],
+    "verse1": [
+        {"chords": "Em           Bm              A            "},
+        {"lyrics": "   I've been waiting all day for you, babe"},
+        {"chords": "   G                         Em        "},
+        {"lyrics": "So won'tcha come and sit and talk to me"},
+        {"chords": "Bm                    A          G          Em"},
+        {"lyrics": "   tell me how we are gonna be together always"},
+        {"chords": "Bm                      A            "},
+        {"lyrics": "Hope you know when it's late at night"},
+        {"chords": "  G             Em          "},
+        {"lyrics": "I hold on to my pillow tight"},
+        {"chords": "Bm                      A              G   "},
+        {"lyrics": "   and think of how you promised me forever"},
+        {"chords": "Em                   Bm             A                 G   "},
+        {"lyrics": "I never thought that anyone - could make me feel this way "},
+        {"chords": "Em                      Bm              A                G  "},
+        {"lyrics": "Now that your here what all I want - is just a chance to say"}
+    ],
+    "chorus": [
+        {"chords": "Em         Bm                A                G          "},
+        {"lyrics": "   Get out (leave) right now, it's the end of you and me "},
+        {"chords": "Em                Bm                         A         G    "},
+        {"lyrics": "   It's too late, (now) and I can't wait for you to be gone "},
+        {"chords": "             Em          Bm                  A                 G            "},
+        {"lyrics": "'cause I know about her (move) and I wonder (why) how I bought all the lies?"},
+        {"chords": "    Em                  Bm                          A               G   "},
+        {"lyrics": "You said that you would treat me right but you were just a waste of time"}
+    ],
+    "verse2": [
+        {"chords": "Em                  Bm      A          "},
+        {"lyrics": "   Tell me why your looking so confused"},
+        {"chords": "     G                      Em            "},
+        {"lyrics": "when I'm the one who didn't know the truth"},
+        {"chords": "Bm               A          G    "},
+        {"lyrics": "   how could you ever be so cold?"},
+        {"chords": "Em    Bm                    A             "},
+        {"lyrics": "   To go behind my back and call my friend"},
+        {"chords": "G                           Em              "},
+        {"lyrics": "Boy, you must have gone and bumped your head"},
+        {"chords": "Bm            A               G            "},
+        {"lyrics": "   'cause you left her number on your phone"},
+        {"chords": "   Em               Bm              A                    G    "},
+        {"lyrics": "So now after all is said and done - maybe I'm the one to blame"},
+        {"chords": "Em                      Bm                   A                    G  "},
+        {"lyrics": "To think that you could be the one - well it didn't work out that way"}
+    ],
+    "bridge": [
+        {"chords": "Bb                                 C                                  D    "},
+        {"lyrics": "   I wanted you right here with me, but I have no choice you've gotta leave"},
+        {"chords": "                                                C    "},
+        {"lyrics": "'Cause my heart is breakin' with every word I'm sayin"},
+        {"chords": "Bb                           C                                   G   "},
+        {"lyrics": "   I gave up on everything I had on something that just wouldn't last"},
+        {"chords": "                    A                             Em Bm A G"},
+        {"lyrics": "But I refuse to cry, no tears will fall from these eyes    "},
+        {"chords": "Em Bm A G      "},
+        {"lyrics": "        Get out"}
+    ]
+}
