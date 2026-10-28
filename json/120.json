@@ -1,0 +1,55 @@
+{
+    "structure": [
+        "chorus",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "interlude",
+        "chorus"
+    ],
+    "chorus": [
+        {"chords": "             D    Em   "},
+        {"lyrics": "We live in a free world"},
+        {"chords": "   C               G   "},
+        {"lyrics": "I whistle down the wind"},
+        {"chords": "         D  Em  "},
+        {"lyrics": "carry on smiling"},
+        {"chords": "        C                     G  "},
+        {"lyrics": "and the world will smile with you"},
+        {"chords": "          D  Em "},
+        {"lyrics": "life is a flower"},
+        {"chords": "   C                G   "},
+        {"lyrics": "so precious in your hand"},
+        {"chords": "         D  Em  "},
+        {"lyrics": "carry on smiling"},
+        {"chords": "        C                     G  "},
+        {"lyrics": "and the world will smile with you"}
+    ],
+    "verse1": [
+        {"chords": "Em         D                   C              G "},
+        {"lyrics": "When every race is run and the day is closing in"},
+        {"chords": "Em           D                   C              G    "},
+        {"lyrics": "I don't care about the world I'm living for the light"},
+        {"chords": "Em            D         C G"},
+        {"lyrics": "don't cry for me today, oh "}
+    ],
+    "verse2": [
+        {"chords": "Em       D                C              G   "},
+        {"lyrics": "I cannot be your judge Mr Jailer is your host"},
+        {"chords": "Em           D               C                  G    "},
+        {"lyrics": "he's keeping you inside, and hides you from the world"},
+        {"chords": "Em         D              C             G       "},
+        {"lyrics": "no catcher in the rye can help you from yourself"}
+    ],
+    "bridge": [
+        {"chords": "D         Em    C                  G    "},
+        {"lyrics": "Please Mr Agony release them for a while"},
+        {"chords": "D              Em             C              G   "},
+        {"lyrics": "learn then the consequence of living without life"}
+    ],
+    "interlude": [
+        {"chords": "Em D | C G D  x3"}
+    ]
+}

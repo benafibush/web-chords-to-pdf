@@ -1,0 +1,64 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "bridge",
+        "chorus",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "Dm        Gm Am         Dm"},
+        {"lyrics": "לפעמים נדמה   שאין תקווה  "},
+        {"chords": " A                 Bb       Gm"},
+        {"lyrics": "והכל נראה כל כך אפל ולא ידוע  "},
+        {"chords": "  Dm     Gm     Am           Dm"},
+        {"lyrics": "הפרחים עוד לא פרחו  בגן ובשדה  "},
+        {"chords": "  A      Dm      Gm"},
+        {"lyrics": "ובערב רק מכה הרוח  "},
+        {"chords": "A Gm    Dm               Bb   "},
+        {"lyrics": "  אז בואו ונדליק ביחד נר... נר"}
+    ],
+    "chorus": [
+        {"chords": "D       G     "},
+        {"lyrics": "light a candle"},
+        {"chords": "A              D      "},
+        {"lyrics": "light a candle with me"},
+        {"chords": "  Bm               G          "},
+        {"lyrics": "a thousand candles in the dark"},
+        {"chords": "     F#       Bm    A"},
+        {"lyrics": "will open our heart  "},
+        {"chords": "D       G     "},
+        {"lyrics": "light a candle"},
+        {"chords": "A              D      "},
+        {"lyrics": "light a candle with me"},
+        {"chords": "  Bm               G          "},
+        {"lyrics": "a thousand candles in the dark"},
+        {"chords": "     F#       Bm   "},
+        {"lyrics": "will open our heart"}
+    ],
+    "verse2": [
+        {"chords": "Dm   Gm Am         Dm"},
+        {"lyrics": "לפעמים נראה   שהמחר  "},
+        {"chords": "  A    Bb                 Gm"},
+        {"lyrics": "לא יביא בו נחמה לבכי ולצער  "},
+        {"chords": "   Dm         Gm   Am       Dm"},
+        {"lyrics": "והלילה הארוך  נמשך בלי הבטחה  "},
+        {"chords": "  A     Dm      Gm"},
+        {"lyrics": "והאפלה  חדה כתער  "}
+    ],
+    "bridge": [
+        {"chords": "Em                   "},
+        {"lyrics": "light all the candles"},
+        {"chords": "     F#                Bb        "},
+        {"lyrics": "lets light the candles everywhere"},
+        {"chords": "     F#                         "},
+        {"lyrics": "just look at me and take my hand"},
+        {"chords": "    F#                          "},
+        {"lyrics": "The heat of love will glow again"}
+    ],
+    "ending": [
+        {"chords": "Gm Dm Gm A  x2"}
+    ]
+}

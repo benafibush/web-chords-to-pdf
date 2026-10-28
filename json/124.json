@@ -1,0 +1,53 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "verse2",
+        "pre-chorus",
+        "chorus",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "G                    A     Bm   "},
+        {"lyrics": "  Thought that I was going crazy"},
+        {"chords": "G             A         Bm       "},
+        {"lyrics": "  Just having one those days yeah"},
+        {"chords": "G             A       Bm"},
+        {"lyrics": "  Didn't know what to do"},
+        {"chords": "G                A Bm"},
+        {"lyrics": "  Then there was you "}
+    ],
+    "pre-chorus": [
+        {"chords": "    G                    A        Bm   "},
+        {"lyrics": "And everything went from wrong to right"},
+        {"chords": "        G                         A      Bm "},
+        {"lyrics": "And the stars came out and filled up the sky"},
+        {"chords": "    G                             A       Bm  "},
+        {"lyrics": "The music you were playing really blew my mind"},
+        {"chords": "       G       A     Bm   "},
+        {"lyrics": "It was love at first sight"}
+    ],
+    "chorus": [
+        {"chords": "       G        A  Bm       "},
+        {"lyrics": "'cause baby when I heard you"},
+        {"chords": "G            A     Bm    "},
+        {"lyrics": "For the first time I knew"},
+        {"chords": "G            A   Bm    G A Bm"},
+        {"lyrics": "We were meant to be as one   "}
+    ],
+    "verse2": [
+        {"chords": "G                      A      Bm  "},
+        {"lyrics": "  Was tired of running out of luck"},
+        {"chords": "G                A      Bm     "},
+        {"lyrics": "  Thinking 'bout giving up yeah"},
+        {"chords": "G             A       Bm"},
+        {"lyrics": "  Didn't know what to do"},
+        {"chords": "G                A Bm"},
+        {"lyrics": "  Then there was you "}
+    ],
+    "ending": [
+        {"chords": "       G                         A            Bm   G A Bm  x4"},
+        {"lyrics": "It was love, it was love, it was love, it was love.  Ohhh  x4"}
+    ]
+}

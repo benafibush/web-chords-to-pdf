@@ -1,0 +1,54 @@
+{
+    "structure": [
+        "verse1",
+        "chorus",
+        "interlude",
+        "verse2",
+        "chorus",
+        "interlude",
+        "chorus"
+    ],
+    "verse1": [
+        {"chords": "          E           "},
+        {"lyrics": "Well, I'm so above you"},
+        {"chords": "         G        A  "},
+        {"lyrics": "And it's plain to see"},
+        {"chords": "      E                   G    A"},
+        {"lyrics": "But I came to love you anywaaaay"},
+        {"chords": "       E                "},
+        {"lyrics": "So you tore my heart out"},
+        {"chords": "      G          A       "},
+        {"lyrics": "And I don't mind bleeding"},
+        {"chords": "E                               "},
+        {"lyrics": "Any old time you keep me waiting"},
+        {"chords": "G        A      "},
+        {"lyrics": "Waiting, waiting"}
+    ],
+    "chorus": [
+        {"chords": "E         G                 A               "},
+        {"lyrics": "Oh, oh oh I got a love that keeps me waiting"},
+        {"chords": "E         G                 A               "},
+        {"lyrics": "Oh, oh oh I got a love that keeps me waiting"},
+        {"chords": "E               "},
+        {"lyrics": "I'm a lonely boy"},
+        {"chords": "G            A  "},
+        {"lyrics": "I'm a lonely boy"},
+        {"chords": "E         G                 A               "},
+        {"lyrics": "Oh, oh oh I got a love that keeps me waiting"}
+    ],
+    "interlude": [
+        {"chords": "E E A A  x2"}
+    ],
+    "verse2": [
+        {"chords": "           E                      G     A       "},
+        {"lyrics": "Well, your mama kept you but your daddy left you"},
+        {"chords": "      E                           G    A "},
+        {"lyrics": "And I should've done you just the saaaame"},
+        {"chords": "      E                      G       A     "},
+        {"lyrics": "But I came to love you, am I born to bleed?"},
+        {"chords": "E                               "},
+        {"lyrics": "Any old time you keep me waiting"},
+        {"chords": "G        A      "},
+        {"lyrics": "Waiting, waiting"}
+    ]
+}
