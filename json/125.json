@@ -1,0 +1,57 @@
+{
+    "structure": [
+        "chorus",
+        "verse1",
+        "chorus",
+        "post-chorus",
+        "verse2",
+        "chorus",
+        "post-chorus"
+    ],
+    "chorus": [
+        {"chords": "Em            G               Am       G    "},
+        {"lyrics": "Have you ever felt like being somebody else?"},
+        {"chords": "Em               G            Am            G      "},
+        {"lyrics": "Feeling like the mirror isn't good for your health?"},
+        {"chords": "Em             G             Am     G   "},
+        {"lyrics": "Every day, I'm trying not to hate myself"},
+        {"chords": "    Em               G              Am      G   "},
+        {"lyrics": "But lately, it's not hurtin' like it  did before"},
+        {"chords": "Em         G              Am        G   "},
+        {"lyrics": "Maybe I am learning how to  love me more"}
+    ],
+    "verse1": [
+        {"chords": "   Em         G         Am            G   "},
+        {"lyrics": "It used to burn - every insult, every word"},
+        {"chords": "       Em            G      Am             G   "},
+        {"lyrics": "But it helped me learn self-worth I had to earn"},
+        {"chords": "     Em          G    "},
+        {"lyrics": "So I tried every night"},
+        {"chords": "   Am       G     "},
+        {"lyrics": "To sit with sorrow"},
+        {"chords": "     Em       G    Am        G"},
+        {"lyrics": "And eventually, it set me free"}
+    ],
+    "post-chorus": [
+        {"chords": "                 Em        G   "},
+        {"lyrics": "Just a little bit, love me more"},
+        {"chords": "                 Am        G   "},
+        {"lyrics": "Just a little bit, love me more"},
+        {"chords": "      Em        G   "},
+        {"lyrics": "Oh, no, love me more"},
+        {"chords": "                 Am        G   "},
+        {"lyrics": "Just a little bit, love me more"}
+    ],
+    "verse2": [
+        {"chords": "  G                         Am               G    "},
+        {"lyrics": "I used to cry (Oh, yeah), myself to sleep at night"},
+        {"chords": "    G                      Am             G   "},
+        {"lyrics": "I'd blame the sky when the mess was in my mind"},
+        {"chords": "           G                             "},
+        {"lyrics": "I couldn't see, I couldn't breathe (Yeah)"},
+        {"chords": "     Am          G  "},
+        {"lyrics": "So I sat with sorrow"},
+        {"chords": "     G             Am        G"},
+        {"lyrics": "And eventually, it set me free"}
+    ]
+}
