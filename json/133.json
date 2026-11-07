@@ -1,0 +1,70 @@
+{
+    "structure": [
+        "chorus",
+        "post-chorus1",
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "post-chorus2",
+        "verse2",
+        "chorus",
+        "post-chorus2",
+        "ending"
+    ],
+    "chorus": [
+        {"chords": "G        D"},
+        {"lyrics": "You, you are"},
+        {"chords": "   A"},
+        {"lyrics": "My universe"},
+        {"chords": "    G      D       A       D"},
+        {"lyrics": "And I just want to put you first"},
+        {"chords": "    G        D"},
+        {"lyrics": "And you, you are"},
+        {"chords": "   A"},
+        {"lyrics": "My universe"}
+    ],
+    "post-chorus1" :[
+        {"chords": "    G D A D"},
+        {"lyrics": "And I"}
+    ],
+    "verse1": [
+        {"chords": "G D        A"},
+        {"lyrics": "    In the night, I lie and look up at you"},
+        {"chords": "G D          A"},
+        {"lyrics": "    When the morning comes, I watch you rise"},
+        {"chords": "G D           A"},
+        {"lyrics": "    There's a paradise they couldn't capture"},
+        {"chords": "G D             A"},
+        {"lyrics": "  That bright infinity inside your eyes"}
+    ],
+    "pre-chorus": [
+        {"chords": "  G                D"},
+        {"lyrics": "Maeil bam nege naraga"},
+        {"chords": " A                        "},
+        {"lyrics": "Kkumiran geotdo ijeun chae"},
+        {"chords": "   G                  D"},
+        {"lyrics": "Na useumyeo neoreul manna"},
+        {"chords": "A"},
+        {"lyrics": "Never ending for ever, baby"}
+    ],
+    "post-chorus2": [
+        {"chords": "        G             D             A"},
+        {"lyrics": "And you make my world light up inside"}
+    ],
+    "verse2": [
+        {"chords": "G D   A"},
+        {"lyrics": "    Eodumi naegen deo pyeonhaesseotji"},
+        {"chords": "G D      A"},
+        {"lyrics": "    Gireojin geurimja sogeseo (Eyes)"},
+        {"chords": "G D          A"},
+        {"lyrics": "    And they said that we can't be together"},
+        {"chords": "G D          A"},
+        {"lyrics": "  Because, because we come from different sides"}
+    ],
+    "ending": [
+        {"chords": "      G D A  x3"},
+        {"lyrics": "My universe  x3"},
+        {"chords": "    G             D             A"},
+        {"lyrics": "You make my world light up inside"}
+    ]
+}

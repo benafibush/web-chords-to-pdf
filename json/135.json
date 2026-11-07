@@ -1,0 +1,55 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "chorus",
+        "verse2",
+        "chorus",
+        "outro"
+    ],
+    "intro": [
+        {"chords": "C Dm G Am"}
+    ],
+    "verse1": [
+        {"chords": "C           Dm   G                  Am   "},
+        {"lyrics": "  A turning tide Lovers at a great divide"},
+        {"chords": "C           Dm         G                      Am   "},
+        {"lyrics": "  why'd you laugh When I know that you hurt inside?"},
+        {"chords": "Dm               Em  "},
+        {"lyrics": "   And why'd you say?"}
+    ],
+    "chorus": [
+        {"chords": "     Am           G  "},
+        {"lyrics": "It's just another day"},
+        {"chords": "        Am        G             F           Am        "},
+        {"lyrics": "nothing in my way I don't wanna go, I don't wanna stay"},
+        {"chords": "Dm                 Em      Dm "},
+        {"lyrics": "So there's nothing left to say"},
+        {"chords": "              Em  "},
+        {"lyrics": "And why'd you lie?"},
+        {"chords": "Am             G             Am         "},
+        {"lyrics": "When you wanna die, when you hurt inside"},
+        {"chords": "G                   F       Am    "},
+        {"lyrics": "Don't know what you lie for anyway"},
+        {"chords": "Dm                  Em      Am "},
+        {"lyrics": "Now there's nothing left to say"}
+    ],
+    "verse2": [
+        {"chords": "C             Dm  "},
+        {"lyrics": "  A tell-tale sign"},
+        {"chords": "     G                           Am  "},
+        {"lyrics": "You don't know where to draw the line"},
+        {"chords": "Dm               Em  "},
+        {"lyrics": "   And why'd you say?"}
+    ],
+    "outro": [
+        {"chords": "           Dm     Am                  F           Em  "},
+        {"lyrics": "Well for a lonely soul, you're having such a nice time"},
+        {"chords": "      Dm     Am                  F           G   "},
+        {"lyrics": "For a lonely soul, you're having such a nice time"},
+        {"chords": "      Dm     Am             F                 Em           "},
+        {"lyrics": "For a lonely soul, it seems to me that you're having such a"},
+        {"chords": "Dm        Am            F           G    Am"},
+        {"lyrics": "nice time You're having such a nice time   "}
+    ]
+}

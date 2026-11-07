@@ -1,0 +1,77 @@
+{
+    "structure": [
+        "chorus1",
+        "post-chorus1",
+        "post-chorus2",
+        "verse1",
+        "pre-chorus",
+        "chorus1",
+        "chorus2",
+        "post-chorus2",
+        "verse2",
+        "pre-chorus",
+        "chorus1",
+        "chorus2",
+        "post-chorus2"
+    ],
+    "chorus1": [
+        {"chords": "Em        D        C           D"},
+        {"lyrics": "Right now I'm in a state of mind"},
+        {"chords": "Em         D          C           "},
+        {"lyrics": "   I wanna be in like all the time"},
+        {"chords": "G              Am            Em "},
+        {"lyrics": "  Ain't got no tears left to cry"},
+        {"chords": "       G                                                                   "},
+        {"lyrics": "So I'm pickin' it up, pickin' up, I'm lovin', I'm livin', I'm pickin' it up"}
+    ],
+    "post-chorus1": [
+        {"chords": "    G                                                                   "},
+        {"lyrics": "I'm pickin' it up, pickin' up, I'm lovin', I'm livin', I'm pickin' it up"}
+    ],
+    "post-chorus2": [
+        {"chords": "    E7                    C              D                                   "},
+        {"lyrics": "I'm pickin' it up (yeah), pickin' it up, lovin', I'm livin', so we turnin' up"},
+        {"chords": "E7      C                 D "},
+        {"lyrics": "   Yeah, we're turnin' it up"}
+    ],
+    "verse1": [
+        {"chords": "E7              C           D   "},
+        {"lyrics": "   Ain't got no tears in my body"},
+        {"chords": "                     E7      C       D            "},
+        {"lyrics": "I ran out, but boy I like it, I like it, I like it"},
+        {"chords": "E7              C          D                  "},
+        {"lyrics": "   Don't matter how, what, where, who tries it"},
+        {"chords": "               E7     C        D                "},
+        {"lyrics": "We're out here vibin', we're vibin', we're vibin"}
+    ],
+    "pre-chorus": [
+        {"chords": "E7  C    D                               "},
+        {"lyrics": "Co--min' out, even when it's rainin' down"},
+        {"chords": "E7    C    D                                 "},
+        {"lyrics": "Can't stop now, can't stop so shut your mouth"},
+        {"chords": "E7   C    D                                    "},
+        {"lyrics": "Shut your mouth, and if you don't know then now"},
+        {"chords": "    E7            C   D              "},
+        {"lyrics": "You know it, babe, know it baby, yeah"}
+    ],
+    "chorus2": [
+        {"chords": "   Em     D           C          D"},
+        {"lyrics": "Oh I just want you to come with me"},
+        {"chords": "Em           D         C     "},
+        {"lyrics": "   We're on another mentality"},
+        {"chords": "G              Am            Em "},
+        {"lyrics": "  Ain't got no tears left to cry"},
+        {"chords": "       G                                                                   "},
+        {"lyrics": "So I'm pickin' it up, pickin' up, I'm lovin', I'm livin', I'm pickin' it up"}
+    ],
+    "verse2": [
+        {"chords": "    E7             C         D  "},
+        {"lyrics": "They point out the colors in you"},
+        {"chords": "                        E7       C        D             "},
+        {"lyrics": "I see 'em too and boy I like 'em, I like 'em, I like 'em"},
+        {"chords": "E7               C         D                    "},
+        {"lyrics": "   We're way too fly to partake in all this hate"},
+        {"chords": "               E7     C        D                 "},
+        {"lyrics": "We're out here vibin', we're vibin', we're vibin'"}
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "structure": [
+        "intro",
+        "verse1",
+        "pre-chorus",
+        "pre-chorus-var1",
+        "chorus",
+        "post-chorus1",
+        "verse2",
+        "pre-chorus",
+        "pre-chorus-var2",
+        "chorus",
+        "post-chorus2",
+        "chorus",
+        "post-chorus1"
+    ],
+    "intro": [
+        {"chords": "     D                  A     Em"},
+        {"lyrics": "It's murder on the dancefloor   "},
+        {"chords": "        G                   D     "},
+        {"lyrics": "But you better not kill the groove"},
+        {"chords": " A        Em                G               "},
+        {"lyrics": "DJ, gonna burn this goddamn house right down"}
+    ],
+    "verse1": [
+        {"chords": "      F#m                                    "},
+        {"lyrics": "Oh, I know I know I know I know I know I know"},
+        {"chords": "          Em    "},
+        {"lyrics": "About your  kind"},
+        {"chords": "F#m                               "},
+        {"lyrics": "And so and so and so and so and so"},
+        {"chords": "            Em   D"},
+        {"lyrics": "I'll have to  play"}
+    ],
+    "pre-chorus": [
+        {"chords": "D        A                     Em "},
+        {"lyrics": "  If you think you're getting away"},
+        {"chords": "G                D    "},
+        {"lyrics": "I will prove you wrong"},
+        {"chords": "     A                Em "},
+        {"lyrics": "I'll take you all the way"}
+    ],
+    "pre-chorus-var1": [
+        {"chords": "G               D   "},
+        {"lyrics": "Boy, just come along"},
+        {"chords": "A              Em G"},
+        {"lyrics": "Hear me when I saay"}
+    ],
+    "chorus": [
+        {"chords": "     F#m                     "},
+        {"lyrics": "It's murder on the dancefloor"},
+        {"chords": "                            Em    "},
+        {"lyrics": "But you better not kill the groove"},
+        {"chords": "     F#m                     "},
+        {"lyrics": "It's murder on the dancefloor"},
+        {"chords": "                             Em   "},
+        {"lyrics": "But you better not steal the moves"}
+    ],
+    "post-chorus1": [
+        {"chords": "          D                                 "},
+        {"lyrics": "DJ, gonna burn this goddamn house right down"}
+    ],
+    "verse2": [
+        {"chords": "      F#m                                    "},
+        {"lyrics": "Oh, I know I know I know I know I know I know"},
+        {"chords": "            Em      "},
+        {"lyrics": "there may be  others"},
+        {"chords": "    F#m                                  "},
+        {"lyrics": "And so and so and so and so and so and so"},
+        {"chords": "                   Em   D"},
+        {"lyrics": "You'll just have to  pray"}
+    ],
+    "pre-chorus-var2": [
+        {"chords": "G            D   "},
+        {"lyrics": "Stay another song"},
+        {"chords": "     A             Em G"},
+        {"lyrics": "I'll blow you all awaay"}
+    ],
+    "post-chorus2": [
+        {"chords": "          D                             "},
+        {"lyrics": "DJ, gonna turn this house around somehow"}
+    ]
+}

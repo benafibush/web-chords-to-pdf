@@ -1,0 +1,56 @@
+{
+    "structure": [
+        "verse1",
+        "pre-chorus",
+        "chorus",
+        "post-chorus"
+    ],
+    "verse1": [
+        {"chords": "     Em                            "},
+        {"lyrics": "Keep thinkin' that I'm seein' water"},
+        {"chords": "               D                      "},
+        {"lyrics": "You're playing tricks on me in the sun"},
+        {"chords": "C                               "},
+        {"lyrics": "See your shadow in the courtyard"},
+        {"chords": "C                          "},
+        {"lyrics": "Stays until the day is done"}
+    ],
+    "pre-chorus":[
+        {"chords": "                 Em                      "},
+        {"lyrics": "The desert don't end, the rain don't fall"},
+        {"chords": "               D                        "},
+        {"lyrics": "And I can't pretend I don't want you all"},
+        {"chords": "                  C  "},
+        {"lyrics": "'Cause I want you all"},
+        {"chords": "    C                    "},
+        {"lyrics": "You all, you all, you all"}
+    ],
+    "chorus": [
+        {"chords": "    Em                     "},
+        {"lyrics": "Oh, babe, I really need you"},
+        {"chords": "   D                      "},
+        {"lyrics": "My feelings gettin' deeper"},
+        {"chords": "   C                     "},
+        {"lyrics": "My mind is in a free fall"},
+        {"chords": "            C                                    "},
+        {"lyrics": "But there's nothing I can do when it comes to you"},
+        {"chords": "    Em                   "},
+        {"lyrics": "You play with my emotions"},
+        {"chords": "    D                     "},
+        {"lyrics": "I'm flowin' like the ocean"},
+        {"chords": "  C                     "},
+        {"lyrics": "I pray for your devotion"},
+        {"chords": "               C                                    "},
+        {"lyrics": "'Cause there's nothing I can do when it comes to you"}
+    ],
+    "post-chorus": [
+        {"chords": "Em                       "},
+        {"lyrics": "   My oa, my oa, my oasis"},
+        {"chords": "D                        "},
+        {"lyrics": "   My oa, my oa, my oasis"},
+        {"chords": "C                        "},
+        {"lyrics": "   My oa, my oa, my oasis"},
+        {"chords": "        C                                    "},
+        {"lyrics": "There's nothing I can do when it comes to you"}
+    ]
+}

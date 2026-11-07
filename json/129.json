@@ -1,0 +1,111 @@
+{
+    "structure": [
+        "verse1",
+        "verse2",
+        "chorus",
+        "post-chorus1",
+        "verse3",
+        "verse4",
+        "chorus",
+        "post-chorus2",
+        "bridge1",
+        "bridge2",
+        "chorus",
+        "post-chorus2",
+        "ending"
+    ],
+    "verse1": [
+        {"chords": "E             C           E   "},
+        {"lyrics": "  I'm staring at a broken door"},
+        {"chords": "                C            E   "},
+        {"lyrics": "There's nothing left here anymore"},
+        {"chords": "           C                 A7        A"},
+        {"lyrics": "My room is cold, It's making me insane  "}
+    ],
+    "verse2": [
+        {"chords": "E           C               E   "},
+        {"lyrics": "  I've been waiting here so long"},
+        {"chords": "        C                   E   "},
+        {"lyrics": "Another moment seems to 've come"},
+        {"chords": "          C                  A7      "},
+        {"lyrics": "I see the dark clouds coming up again"}
+    ],
+    "chorus": [
+        {"chords": "A                      C   "},
+        {"lyrics": "Running through the monsoon"},
+        {"chords": "           D    "},
+        {"lyrics": "Beyond the world"},
+        {"chords": "              Em  "},
+        {"lyrics": "To the end of time"},
+        {"chords": "                     Bm  "},
+        {"lyrics": "Where the rain won't hurt"},
+        {"chords": "             C    "},
+        {"lyrics": "Fighting the storm"},
+        {"chords": "         D   "},
+        {"lyrics": "Into the blue"},
+        {"chords": "                   Bm              Em "},
+        {"lyrics": "And when I loose myself I think of you"},
+        {"chords": "                  C                 D  "},
+        {"lyrics": "Together we'll be running somewhere new"}
+    ],
+    "post-chorus1": [
+        {"chords": "               E    C"},
+        {"lyrics": "Through the monsoon  "},
+        {"chords": "            E   C"},
+        {"lyrics": "Just me and you  "}
+    ],
+    "verse3": [
+        {"chords": "E               C              E    "},
+        {"lyrics": "  A half moon's fading from my sight"},
+        {"chords": "           C             E    "},
+        {"lyrics": "I see your vision in its light"},
+        {"chords": "             C                A7       A"},
+        {"lyrics": "But now it's gone and left me so alone  "}
+    ],
+    "verse4": [
+        {"chords": "E          C                E  "},
+        {"lyrics": "  I know I have to find you now"},
+        {"chords": "              C                  E  "},
+        {"lyrics": "Can hear your name, I don't know how"},
+        {"chords": "             C                  A7             "},
+        {"lyrics": "Why can't we make this darkness feel like home?"}
+    ],
+    "post-chorus2": [
+        {"chords": "                Em                Bm "},
+        {"lyrics": "And nothing can hold me back from you"},
+        {"chords": "               C  D"},
+        {"lyrics": "Through the monsoon"}
+    ],
+    "bridge1": [
+        {"chords": "    E C    E C"},
+        {"lyrics": "Hey!   Hey!   "},
+        {"chords": "E              C             "},
+        {"lyrics": "  I'm fighting all this power"},
+        {"chords": "E            C  "},
+        {"lyrics": "Coming in my way"},
+        {"chords": "E              C              "},
+        {"lyrics": "Let it sail me straight to you"},
+        {"chords": "        E                 C  "},
+        {"lyrics": "I'll be running night and day"}
+    ],
+    "bridge2": [
+        {"chords": "                 E    C"},
+        {"lyrics": "I'll be with you soon  "},
+        {"chords": "            E   C"},
+        {"lyrics": "Just me and you  "},
+        {"chords": "               E    C"},
+        {"lyrics": "We'll be there soon  "},
+        {"chords": "   C   "},
+        {"lyrics": "So soon"}
+    ],
+    "ending": [
+        {"chords": "               E    C"},
+        {"lyrics": "Through the monsoon  "},
+        {"chords": "            E   C"},
+        {"lyrics": "Just me and you  "},
+        {"chords": "               E    C"},
+        {"lyrics": "Through the monsoon  "},
+        {"chords": "           E    C"},
+        {"lyrics": "Just me and you  "}
+    ]
+}
